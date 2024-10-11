@@ -28,6 +28,7 @@
 /wp-content/uploads/
 /wp-content/ai1wm-backups/
 /wp-content/backups-dup-lite/
+/wp-content/nitropack/
 
 # Log files
 *.log
