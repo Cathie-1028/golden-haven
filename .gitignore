@@ -30,7 +30,7 @@
 /wp-content/backups-dup-lite/
 /wp-content/nitropack/
 
-# Log filesssss
+# Log files
 *.log
 
 # htaccess
