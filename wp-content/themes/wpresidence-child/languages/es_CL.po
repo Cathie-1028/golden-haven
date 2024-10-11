@@ -1,0 +1,5785 @@
+# Copyright (C) 2020 wpestate
+# This file is distributed under the .
+msgid ""
+msgstr ""
+"Project-Id-Version: WpResidence 3.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpresidence\n"
+"POT-Creation-Date: 2020-09-10T08:20:50+00:00\n"
+"PO-Revision-Date: 2020-09-24 08:47+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_CL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Domain: wpresidence\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Theme Name of the theme
+msgid "WpResidence"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://themeforest.net/user/wpestate"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WP Residence is a premium & responsive WordPress theme designed for Real "
+"Estate companies and independent agents."
+msgstr ""
+
+#. Author of the theme
+msgid "wpestate"
+msgstr "wpestate"
+
+#. Author URI of the theme
+msgid "http://www.wpestate.org"
+msgstr ""
+
+#: 404.php:14
+msgid "Page not found"
+msgstr "Página no se encuentra"
+
+#: 404.php:18
+msgid ""
+"We're sorry. Your page could not be found, But you can check our latest "
+"listings & articles"
+msgstr ""
+"Lo sentimos. Su página no pudo ser encontrada, pero puede consultar nuestros "
+"últimos listados y artículos"
+
+#: 404.php:22
+msgid "Latest Listings"
+msgstr "Avisos recientes"
+
+#: 404.php:42
+msgid "Latest Articles"
+msgstr "Últimos Artículos"
+
+#. Template Name of the theme
+msgid "Agents Agencies Developers Search Results"
+msgstr "Resultados de búsqueda de desarrolladores de agencias de agentes"
+
+#: aag_search_results.php:6 advanced_search_results.php:6 agency_list.php:6
+#: agents_list.php:5 compare_listings.php:6 contact_page.php:6
+#: developers_list.php:6 front_property_submit.php:6
+#: libs/general-settings.php:7 page_property_design.php:5 processor.php:5
+#: property_list.php:5 property_list_directory.php:5 property_list_half.php:5
+#: single-idx.php:6 splash_page.php:5 zillow_estimate_page.php:5
+msgid ""
+"This page will not work without WpResidence Core Plugin, Please activate it "
+"from the plugins menu!"
+msgstr ""
+
+#: aag_search_results.php:171
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters."
+msgstr ""
+"No hemos encontrado ningún resultado. Por favor, intente de nuevo con "
+"diferentes parámetros de búsqueda. "
+
+#. Template Name of the theme
+msgid "Advanced Search Results"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Agency list"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Agents list"
+msgstr ""
+
+#: archive.php:22
+msgid "Category Archives: %s"
+msgstr "Archivo de la categoría: “%s”"
+
+#: archive.php:24
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: archive.php:26
+msgid "Monthly Archives: %s"
+msgstr "Archivos Mensuales: %s"
+
+#: archive.php:26
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:28
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: archive.php:28
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:30
+msgid "Blog Archives"
+msgstr "Archivos del Blog"
+
+#. Template Name of the theme
+msgid "Blog list page"
+msgstr ""
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Esta entrada está protegida con clave de acceso."
+
+#: comments.php:16
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Comentarios antiguos"
+
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "Nunca comentado &raquo;"
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "Comentarios cerrados"
+
+#: comments.php:54
+msgid "Leave a Reply"
+msgstr "Deje un comentario"
+
+#: comments.php:55
+msgid "Leave a Reply to %s"
+msgstr "Deje un comentario a %s"
+
+#: comments.php:56
+msgid "Cancel Reply"
+msgstr "Cancelar respuesta"
+
+#: comments.php:57
+msgid "Post Comment"
+msgstr "Enviar comentario"
+
+#: comments.php:60
+msgid "Your email address will not be published.  "
+msgstr "Su email no será publicado"
+
+#: comments.php:65
+msgid "Comment"
+msgstr "Comentar"
+
+#: comments.php:72
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:78 libs/design_functions.php:2224
+#: templates/add_new_agent.php:72 templates/add_new_agent_template.php:190
+#: templates/login_register_modal.php:51 templates/mobile_menu.php:110
+#: templates/user_profile.php:79 templates/user_profile_agency.php:113
+#: templates/user_profile_agent.php:124
+#: templates/user_profile_developer.php:113
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:83
+msgid "Website"
+msgstr "Website"
+
+#. Template Name of the theme
+#: compare_listings.php:101 templates/compare_list.php:15
+msgid "Compare Listings"
+msgstr "Comparar listados"
+
+#: compare_listings.php:15
+msgid "page should be accesible only via the compare button"
+msgstr "la página debe ser accesible solo a través del botón de comparación"
+
+#: compare_listings.php:113
+msgid "Type: "
+msgstr "Tipo: "
+
+#: compare_listings.php:121
+msgid "city"
+msgstr "ciudad"
+
+#: compare_listings.php:122
+msgid "area"
+msgstr "área"
+
+#: compare_listings.php:123
+msgid "zip"
+msgstr "código postal"
+
+#: compare_listings.php:124
+msgid "size"
+msgstr "tamaño"
+
+#: compare_listings.php:125
+msgid "lot size"
+msgstr "tamaño del lote"
+
+#: compare_listings.php:126
+msgid "rooms"
+msgstr "habitaciones"
+
+#: compare_listings.php:127
+msgid "bedrooms"
+msgstr "dormitorios"
+
+#: compare_listings.php:128
+msgid "bathrooms"
+msgstr "baños"
+
+#: compare_listings.php:129 libs/help_functions.php:4925
+msgid "Energy Index"
+msgstr "Índice de Energía"
+
+#: compare_listings.php:130 libs/help_functions.php:4924
+#: templates/submit_templates/property_energy_effective.php:26
+msgid "Energy Class"
+msgstr "Clase de Energía"
+
+#: compare_listings.php:131
+msgid "Property ID"
+msgstr "Código Propiedad"
+
+#. Template Name of the theme
+msgid "Contact Page"
+msgstr "Pagina de contacto"
+
+#: contact_page.php:89 single-estate_agency.php:127
+#: templates/header_agency.php:65 templates/header_developer.php:86
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: contact_page.php:93 single-estate_agency.php:122
+#: templates/header_agency.php:60 templates/header_developer.php:81
+msgid "Mobile:"
+msgstr "Teléfono Móvil:"
+
+#: contact_page.php:97 single-estate_agency.php:117
+#: templates/header_agency.php:55 templates/header_developer.php:74
+msgid "Email:"
+msgstr "Email:"
+
+#: contact_page.php:101
+msgid "Fax:"
+msgstr "Teléfono:"
+
+#: contact_page.php:105 single-estate_agency.php:133
+#: templates/header_agency.php:71 templates/header_developer.php:129
+msgid "Skype:"
+msgstr "Skype:"
+
+#: contact_page.php:121 libs/dashboard_widgets.php:8
+#: libs/dashboard_widgets.php:10 libs/help_functions.php:382
+#: libs/help_functions.php:384
+msgid "company logo"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Developer list"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Property Submit"
+msgstr "Envío de propiedad frontal"
+
+#: front_property_submit.php:202 templates/front_end_submission.php:62
+msgid ""
+"Your current package doesn't let you publish more properties! You need to "
+"upgrade your membership."
+msgstr ""
+"Su paquete actual no le permite publicar más propiedades! Necesita "
+"actualizar su membresía."
+
+#: front_property_submit.php:488 user_dashboard_add.php:588
+#: user_dashboard_add.php:1203
+msgid "Please submit a title for your property"
+msgstr "Por favor, añada el título de su propiedad"
+
+#: front_property_submit.php:759
+msgid "1. Description"
+msgstr ""
+
+#: front_property_submit.php:760
+msgid "2. Media"
+msgstr "2. Medios"
+
+#: front_property_submit.php:761
+msgid "3. Location"
+msgstr ""
+
+#: front_property_submit.php:762
+msgid "4. Details"
+msgstr "4. Detalles"
+
+#: front_property_submit.php:763
+msgid "5. Amenities"
+msgstr "5. Comodidades"
+
+#: front_property_submit.php:776 templates/front_end_submission.php:74
+msgid "These fields are mandatory: Title"
+msgstr "Estos campos son obligatorios: Título"
+
+#: front_property_submit.php:784 templates/front_end_submission.php:90
+msgid ""
+"This is a paid submission.The listing will be live after payment is received."
+msgstr ""
+"Esta es una solicitud de pago. El anuncio se activará después que se haya "
+"recibido el pago."
+
+#: front_property_submit.php:793 front_property_submit.php:836
+msgid "Prev Step"
+msgstr ""
+
+#: front_property_submit.php:794 front_property_submit.php:837
+#: word_remove.php:67 word_remove.php:213 word_remove.php:247
+msgid "Next Step"
+msgstr "Siguiente Paso"
+
+#: front_property_submit.php:838
+msgid "Submit Property"
+msgstr "PUBLICAR AQUI"
+
+#: functions.php:63
+msgid ""
+"For better speed results, the theme offers a built-in caching system for "
+"properties and categories. Check this article how to enable - disable theme "
+"cache: "
+msgstr ""
+"Para obtener mejores resultados de velocidad, el tema ofrece un sistema de "
+"almacenamiento en caché integrado para propiedades y categorías. Consulte "
+"este artículo cómo habilitar - deshabilitar la caché de tema: "
+
+#: functions.php:63
+msgid "help article"
+msgstr ""
+
+#: functions.php:75 word_remove.php:62
+msgid ""
+"The Google Maps JavaScript API v3 REQUIRES an API key to function correctly. "
+"Get an APIs Console key and post the code in Theme Options. You can get it "
+"from"
+msgstr ""
+"La API de Google Maps JavaScript V3 requiere una clave API para funcionar "
+"correctamente. Obtenga una clave de consola de APIs y publique el código en "
+"opciones de tema. Usted puede conseguirla desde"
+
+#: functions.php:76 word_remove.php:62
+msgid "here"
+msgstr "aquí"
+
+#: functions.php:88
+msgid "WordPress Memory Limit is set to "
+msgstr "El límite de memoria de WordPress está configurado para "
+
+#: functions.php:88
+msgid "Recommended memory limit should be at least 96MB. Please refer to : "
+msgstr ""
+"El límite de memoria recomendado debe ser de al menos 96 MB. Por favor "
+"refiérase a : "
+
+#: functions.php:88
+msgid "Increasing memory allocated to PHP"
+msgstr "Aumentar la memoria asignada para PHP"
+
+#: functions.php:108
+msgid "Your PHP version is "
+msgstr "Tu versión de PHP es "
+
+#: functions.php:121
+msgid ""
+"PHP GD library is NOT installed on your web server and because of that the "
+"theme will not be able to work with images. Please contact your hosting "
+"company in order to activate this library."
+msgstr ""
+"La biblioteca PHP GD NO está instalada en su servidor web y por eso el tema "
+"no podrá funcionar con imágenes. Por favor, póngase en contacto con su "
+"proveedor de hosting para activar esta biblioteca."
+
+#: functions.php:133
+msgid ""
+"MbString extension not detected. Please contact your hosting provider in "
+"order to enable it."
+msgstr ""
+"Extensión MbString no detectada. Por favor, póngase en contacto con su "
+"proveedor de hosting web para habilitarlo."
+
+#: functions.php:148
+msgid ""
+"Half Map Template - make sure your page has the \"media header type\" set as "
+"google map "
+msgstr ""
+"Plantilla de medio mapa - asegúrese de que su página tenga el \"tipo de "
+"encabezado de medios\" configurado como mapa de google "
+
+#: functions.php:164
+msgid ""
+"Please do not manually change the slugs when adding new terms. If you need "
+"to edit a term name copy the new name in the slug field also."
+msgstr ""
+"Por favor, no cambie manualmente los slugs al agregar nuevos términos. Si "
+"necesita editar un nombre de término, copie también el nuevo nombre en el "
+"campo slug."
+
+#: functions.php:327
+msgid "Post navigation"
+msgstr "Navegación en Publicación"
+
+#: functions.php:328
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Publicaciones anteriores"
+
+#: functions.php:329
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Publicaciones más recientes <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:353
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:353 functions.php:369
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:364 templates/message-listing-unit.php:92
+#: templates/message-listing-unit.php:98
+msgid "Reply"
+msgstr "Deja una respuesta a %s"
+
+#: functions.php:374
+msgid " on "
+msgstr "activo"
+
+#: functions.php:379
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está en proceso de moderación"
+
+#: functions.php:412 functions.php:416
+msgid "Please edit your profile page from site interface."
+msgstr "Por favor, edite su página de perfil desde la interfaz del sitio."
+
+#: functions.php:534
+msgid "Your new password for the account at:"
+msgstr "Su nueva contraseña para la cuenta en:"
+
+#: functions.php:536
+msgid "Username: %s"
+msgstr "Nombre de Usuario: %s"
+
+#: functions.php:537
+msgid "Password: %s"
+msgstr "Contraseña: %s"
+
+#: functions.php:538
+msgid "You can now login with your new password at: "
+msgstr "Ahora puede iniciar sesión con su nueva contraseña en: "
+
+#: functions.php:549
+msgid "A new password was sent via email!"
+msgstr "¡Se envió una nueva contraseña por correo electrónico!"
+
+#: functions.php:556
+msgid "We have just sent you a new password. Please check your email!"
+msgstr "Le hemos enviado a su email una nueva contraseña."
+
+#: functions.php:579 functions.php:594
+msgid "Message sent from page: "
+msgstr "Mensaje enviado desde la página: "
+
+#: functions.php:699 functions.php:726 libs/help_functions.php:3062
+#: libs/help_functions.php:3068 libs/help_functions.php:3182
+#: libs/help_functions.php:3411 libs/help_functions.php:3524
+#: libs/help_functions.php:3810 libs/searchfunctions.php:292
+#: libs/searchfunctions.php:326 property_list.php:72
+#: property_list_directory.php:79 property_list_half.php:76
+#: templates/advanced_search_type2.php:46
+#: templates/advanced_search_type8.php:144
+#: templates/advanced_search_type9.php:146
+#: templates/advanced_search_type10.php:51
+#: templates/advanced_search_type11.php:78
+#: templates/advanced_search_type_half.php:150
+#: templates/advanced_search_type_half.php:161
+#: templates/adv_search_mobile.php:73 templates/adv_search_mobile.php:98
+#: templates/adv_search_mobile.php:173 templates/directory_filters.php:28
+#: templates/property_ajax_tax_hidden_filters.php:24
+#: templates/property_ajax_tax_hidden_filters.php:60
+#: templates/property_list_filters.php:48
+#: templates/property_list_filters.php:88
+#: templates/taxonomy_agent_hidden_filters.php:21
+msgid "Types"
+msgstr ""
+
+#: functions.php:752 libs/help_functions.php:3064 libs/help_functions.php:3212
+#: libs/help_functions.php:3436 libs/help_functions.php:3549
+#: libs/help_functions.php:4017 property_list.php:127
+#: property_list_directory.php:130 property_list_half.php:129
+#: templates/advanced_search_type_half.php:234
+#: templates/advanced_search_type_half.php:244
+#: templates/directory_filters.php:49
+#: templates/property_ajax_tax_hidden_filters.php:26
+#: templates/property_ajax_tax_hidden_filters.php:90
+#: templates/property_list_filters.php:50
+#: templates/property_list_filters.php:130
+#: templates/submit_templates/property_location.php:121
+#: templates/submit_templates/property_location.php:127
+#: templates/taxonomy_agent_hidden_filters.php:23
+msgid "Cities"
+msgstr "Ciudades"
+
+#: functions.php:780 libs/help_functions.php:3066 libs/help_functions.php:3225
+#: libs/help_functions.php:3447 libs/help_functions.php:3560
+#: libs/help_functions.php:4107 property_list.php:154
+#: property_list_directory.php:155 property_list_directory.php:182
+#: property_list_half.php:154 templates/advanced_search_type_half.php:272
+#: templates/advanced_search_type_half.php:282
+#: templates/directory_filters.php:59
+#: templates/property_ajax_tax_hidden_filters.php:27
+#: templates/property_ajax_tax_hidden_filters.php:80
+#: templates/property_list_filters.php:51
+#: templates/property_list_filters.php:120
+#: templates/submit_templates/property_location.php:167
+#: templates/submit_templates/property_location.php:173
+#: templates/taxonomy_agent_hidden_filters.php:24
+msgid "Areas"
+msgstr ""
+
+#: functions.php:804 libs/css_js_include.php:717
+#: templates/advanced_search_type_half.php:306
+msgid "Type Bedrooms No."
+msgstr "Escriba el N° de dormitorios."
+
+#: functions.php:813 libs/css_js_include.php:718
+#: templates/advanced_search_type_half.php:311
+msgid "Type Bathrooms No."
+msgstr "Escriba el N° de baños."
+
+#: functions.php:844 libs/help_functions.php:2869 libs/searchfunctions2.php:80
+#: templates/advanced_search_type_half.php:338
+#: templates/directory_filters.php:159
+msgid "Price range:"
+msgstr "Rango de precio"
+
+#: functions.php:865 libs/css_js_include.php:719
+#: templates/advanced_search_type_half.php:349
+msgid "Type Min. Price"
+msgstr "Escriba Precio Mínimo"
+
+#: functions.php:869 libs/css_js_include.php:720
+#: templates/advanced_search_type_half.php:353
+msgid "Type Max. Price"
+msgstr "Escriba Precio Máximo"
+
+#: functions.php:1464 functions.php:1481 functions.php:1496 functions.php:1512
+#: functions.php:1528 functions.php:1543 functions.php:1558 functions.php:1573
+#: functions.php:1588 functions.php:1605 functions.php:1620 functions.php:1636
+#: functions.php:1653
+msgid "Clear theme cache after demo import is complete!"
+msgstr ""
+"La limpieza del caché del tema después de la importación del demo se ha "
+"completado!"
+
+#. Template Name of the theme
+#: libs/help_functions.php:678
+msgid "GDPR Terms"
+msgstr ""
+
+#: index.php:40
+msgid "There are no posts published!"
+msgstr "¡No hay publicaciones!"
+
+#: libs/3rdparty.php:118
+msgid "right now"
+msgstr "en este momento"
+
+#: libs/3rdparty.php:120
+msgid " seconds ago"
+msgstr " hace %s segundos"
+
+#: libs/3rdparty.php:122
+msgid "about 1 minute ago"
+msgstr "Hace aproximadamente 1 minuto"
+
+#: libs/3rdparty.php:124
+msgid " minutes ago"
+msgstr " hace %d minutos"
+
+#: libs/3rdparty.php:126
+msgid "about 1 hour ago"
+msgstr "Hace aproximadamente 1 hora"
+
+#: libs/3rdparty.php:128
+msgid " hours ago"
+msgstr " hace %s"
+
+#: libs/3rdparty.php:130
+msgid "yesterday"
+msgstr "ayer"
+
+#: libs/3rdparty.php:132
+msgid " days ago"
+msgstr " hace %s dias"
+
+#: libs/3rdparty.php:134
+msgid "over a year ago"
+msgstr "hace más de un año"
+
+#: libs/3rdparty.php:257 libs/3rdparty.php:262
+msgid " package on "
+msgstr " paquete en "
+
+#: libs/3rdparty.php:377 libs/3rdparty.php:378
+msgid "PayPal payment agreement"
+msgstr ""
+
+#: libs/ajax_functions.php:18 libs/listing_functions.php:20
+#: libs/listing_functions.php:43 templates/property_page_acc_content.php:205
+#: templates/property_page_acc_content.php:219
+#: templates/property_page_tab_content.php:203
+msgid "Map"
+msgstr "Mapa"
+
+#: libs/ajax_functions.php:93 libs/ajax_functions.php:205
+#: libs/css_js_include.php:832 libs/design_functions.php:1937
+#: templates/featured_property_3.php:36 templates/featured_property_4.php:51
+#: templates/listing_templates/overview_template.php:10
+#: templates/property_cards_templates/property_card_actions_type_default.php:11
+#: templates/property_cards_templates/property_card_favorite.php:8
+msgid "add to favorites"
+msgstr "Agregar a favoritos"
+
+#: libs/ajax_functions.php:108 libs/ajax_functions.php:210
+#: libs/css_js_include.php:831
+msgid "favorite"
+msgstr "favorito"
+
+#: libs/ajax_functions.php:179
+msgid "Number of Page Views"
+msgstr "Número de Visitas"
+
+#: libs/ajax_functions.php:240 templates/property_page_acc_content.php:330
+#: templates/property_page_acc_content.php:344
+#: templates/property_page_tab_content.php:323
+msgid "Payment Calculator"
+msgstr ""
+
+#: libs/ajax_functions.php:259 templates/dashboard_listing_unit.php:167
+#: templates/property_page_acc_content.php:359
+#: templates/property_page_acc_content.php:374
+#: templates/property_page_tab_content.php:75
+#: templates/submit_templates/floor_plans.php:16
+msgid "Floor Plans"
+msgstr "Planos de Planta"
+
+#: libs/ajax_functions.php:280 templates/property_page_acc_content.php:303
+#: templates/property_page_acc_content.php:317
+#: templates/property_page_tab_content.php:297
+msgid "What's Nearby"
+msgstr ""
+
+#: libs/ajax_functions.php:307 templates/property_page_acc_content.php:267
+#: templates/property_page_acc_content.php:284
+#: templates/property_page_tab_content.php:263
+msgid "WalkScore"
+msgstr "Walkscore"
+
+#: libs/ajax_functions.php:334 templates/property_page_acc_content.php:237
+#: templates/property_page_acc_content.php:251
+#: templates/property_page_tab_content.php:234
+#: templates/submit_templates/video_tour.php:19
+msgid "Virtual Tour"
+msgstr "Virtual"
+
+#: libs/ajax_functions.php:364 templates/property_page_acc_content.php:164
+#: templates/property_page_tab_content.php:161
+msgid "Video"
+msgstr "Video"
+
+#: libs/ajax_functions.php:391 templates/property_page_acc_content.php:126
+#: templates/property_page_tab_content.php:62
+#: templates/submit_templates/property_amenities.php:104
+msgid "Amenities and Features"
+msgstr "Características y Amenidades"
+
+#: libs/ajax_functions.php:421 templates/property_page_acc_content.php:92
+#: templates/property_page_tab_content.php:49
+msgid "Property Details"
+msgstr "Detalles de la propiedad"
+
+#: libs/ajax_functions.php:449 libs/help_functions.php:4902
+#: templates/property_page_acc_content.php:64
+#: templates/property_page_tab_content.php:39
+msgid "Property Address"
+msgstr "Dirección del Inmueble"
+
+#: libs/ajax_functions.php:480 libs/help_functions.php:4895
+#: libs/megamenu.php:255 templates/property_page_acc_content.php:23
+#: templates/property_page_tab_content.php:26
+#: templates/submit_templates/property_description.php:33
+msgid "Description"
+msgstr "Descripción"
+
+#: libs/ajax_functions.php:703 libs/ajax_functions.php:875
+#: libs/ajax_functions.php:1269 libs/ajax_functions.php:1952
+#: libs/ajax_functions.php:2829 libs/ajax_functions.php:4682
+#: libs/ajax_functions.php:4948 templates/google_maps_base.php:75
+msgid "We didn't find any results"
+msgstr "No hemos encontrado ningún resultado"
+
+#: libs/ajax_functions.php:1262 templates/agency_unit.php:145
+#: templates/agent_unit.php:22 templates/agent_unit_widget.php:109
+#: templates/places_unit.php:88
+msgid "listings"
+msgstr "Propiedades Similares"
+
+#: libs/ajax_functions.php:1323
+msgid ""
+"Please validate your purchase code in order to use the theme! See this link "
+"link  "
+msgstr ""
+
+#: libs/ajax_functions.php:1323
+msgid "if you don't know how to get your license key. Thank you!"
+msgstr ""
+
+#: libs/ajax_functions.php:1960 libs/ajax_functions.php:4957
+#: templates/half_map_core.php:175 templates/places_unit_type2.php:99
+#: templates/user_memebership_profile.php:138
+msgid "Listings"
+msgstr "Listados"
+
+#: libs/ajax_functions.php:2540 libs/ajax_functions.php:2653
+#: libs/help_functions.php:4345
+msgid "Hi there,"
+msgstr "Hola,"
+
+#: libs/ajax_functions.php:2541
+msgid ""
+"We received your  Wire Transfer payment request on %s ! Please follow the "
+"instructions below in order to start submitting properties as soon as "
+"possible."
+msgstr ""
+"¡Recibimos su solicitud de pago de transferencia bancaria en % s! Siga las "
+"instrucciones a continuación para comenzar a enviar propiedades lo antes "
+"posible."
+
+#: libs/ajax_functions.php:2542
+msgid "The invoice number is: "
+msgstr "El número de su orden es: "
+
+#: libs/ajax_functions.php:2542
+msgid "Amount:"
+msgstr "País:"
+
+#: libs/ajax_functions.php:2543
+msgid "Instructions: "
+msgstr "Instrucciones: "
+
+#: libs/ajax_functions.php:2881
+msgid "you don't have the right to delete this"
+msgstr "usted no tiene privilegios para borrar esto"
+
+#: libs/ajax_functions.php:2937
+msgid ""
+"Search has been saved. You will receive an email notification when new "
+"properties matching your search have been published"
+msgstr ""
+"La búsqueda ha sido guardada. Recibirá una notificación por correo "
+"electrónico cuando se publiquen nuevas propiedades que coincidan con su "
+"búsqueda"
+
+#: libs/ajax_functions.php:2974 libs/design_functions.php:62
+msgid "My Profile"
+msgstr "Mi Perfil"
+
+#: libs/ajax_functions.php:2975 libs/design_functions.php:72
+msgid "My Properties List"
+msgstr "Mi Lista de Propiedades"
+
+#: libs/ajax_functions.php:2976 libs/dashboard_widgets.php:326
+#: libs/design_functions.php:83 word_remove.php:280
+msgid "Add New Property"
+msgstr "Añadir nueva Propiedad"
+
+#: libs/ajax_functions.php:2977 libs/design_functions.php:116
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: libs/ajax_functions.php:2978 libs/design_functions.php:126
+msgid "Saved Searches"
+msgstr "Búsquedas guardadas"
+
+#: libs/ajax_functions.php:2979 libs/design_functions.php:136
+msgid "My Invoices"
+msgstr "Mis Órdenes"
+
+#: libs/ajax_functions.php:2980 libs/design_functions.php:146
+msgid "Inbox"
+msgstr "Bandeja de entrada"
+
+#: libs/ajax_functions.php:2988 libs/design_functions.php:161
+msgid "Log Out"
+msgstr "Cerrar Sesión"
+
+#: libs/ajax_functions.php:3058
+msgid "wrong captcha"
+msgstr "Captcha incorrecto"
+
+#: libs/ajax_functions.php:3085 libs/ajax_functions.php:3510
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "Nombre de usuario inválido (¡no use caracteres especiales o espacios)!"
+
+#: libs/ajax_functions.php:3090 libs/ajax_functions.php:3514
+#: libs/ajax_functions.php:3540
+msgid "Username and/or Email field is empty!"
+msgstr "¡El nombre de usuario y/o el campo de correo electrónico están vacíos!"
+
+#: libs/ajax_functions.php:3095 libs/ajax_functions.php:3555
+msgid "The email doesn't look right !"
+msgstr "El correo electrónico no parece estar bien"
+
+#: libs/ajax_functions.php:3101 libs/ajax_functions.php:3560
+msgid "The email's domain doesn't look right."
+msgstr "¡El dominio del correo electrónico no parece correcto!"
+
+#: libs/ajax_functions.php:3108 libs/ajax_functions.php:3519
+msgid "Username already exists.  Please choose a new one."
+msgstr "Nombre de usuario ya existe. Por favor, elija uno nuevo."
+
+#: libs/ajax_functions.php:3117 libs/ajax_functions.php:3526
+msgid "One of the password field is empty!"
+msgstr "¡Uno de los campos de contraseña está vacío!"
+
+#: libs/ajax_functions.php:3122 libs/ajax_functions.php:3530
+#: libs/ajax_functions.php:4368
+msgid "Passwords do not match"
+msgstr "Las contraseñas no coinciden"
+
+#: libs/ajax_functions.php:3142
+msgid "Your account was created and you can login now!"
+msgstr "¡Su cuenta fue creada y puede iniciar sesión ahora!"
+
+#: libs/ajax_functions.php:3144
+msgid "An email with the generated password was sent!"
+msgstr "¡Se envió un correo electrónico con la contraseña generada!"
+
+#: libs/ajax_functions.php:3157 libs/ajax_functions.php:3534
+#: libs/ajax_functions.php:3544
+msgid "Email already exists.  Please choose a new one."
+msgstr "El Email ya existe. Por favor, elija uno nuevo."
+
+#: libs/ajax_functions.php:3176 single-estate_property.php:217
+#: single-estate_property.php:222
+#: templates/property_cards_templates/property_card_agent_details.php:15
+#: templates/user_memebership_profile.php:73
+msgid "Agent"
+msgstr "Agente"
+
+#: libs/ajax_functions.php:3180 templates/login_register_modal.php:68
+#: templates/mobile_menu.php:127 templates/user_memebership_profile.php:73
+msgid "Agency"
+msgstr "Agencia"
+
+#: libs/ajax_functions.php:3184 templates/login_register_modal.php:69
+#: templates/mobile_menu.php:128 templates/user_memebership_profile.php:73
+msgid "Developer"
+msgstr "Desarrollador"
+
+#: libs/ajax_functions.php:3235 libs/ajax_functions.php:3290
+#: libs/ajax_functions.php:3347
+msgid "You are already logged in! redirecting..."
+msgstr "¡Ya se ha autentificado! redirigiendo ..."
+
+#: libs/ajax_functions.php:3245 libs/ajax_functions.php:3301
+#: libs/ajax_functions.php:3358
+msgid "Username and/or Password field is empty!"
+msgstr "El nombre de usuario y/o el campo de contraseña están vacíos!"
+
+#: libs/ajax_functions.php:3265 libs/ajax_functions.php:3322
+#: libs/ajax_functions.php:3370
+msgid "Wrong username or password!"
+msgstr "¡Nombre de usuario o contraseña incorrectos!"
+
+#: libs/ajax_functions.php:3271 libs/ajax_functions.php:3328
+#: libs/ajax_functions.php:3378
+msgid "Login successful, redirecting..."
+msgstr "Inicio de sesión exitoso, redirigiendo ..."
+
+#: libs/ajax_functions.php:3407
+msgid "Email field is empty!"
+msgstr "¡El campo de correo electrónico está vacío!"
+
+#: libs/ajax_functions.php:3416
+msgid "Invalid E-mail address!"
+msgstr "¡Dirección de correo electrónico inválida!"
+
+#: libs/ajax_functions.php:3424
+msgid "Invalid Username!"
+msgstr "¡Nombre de usuario no válido!"
+
+#: libs/ajax_functions.php:3446
+msgid "We have just sent you an email with Password reset instructions."
+msgstr ""
+"Acabamos de enviarle un correo electrónico con instrucciones de "
+"restablecimiento de contraseña."
+
+#: libs/ajax_functions.php:3550
+msgid "Agent need a first & last name"
+msgstr "El agente necesita un nombre y apellido"
+
+#: libs/ajax_functions.php:3730
+msgid "Agent was added... You will be redirected to your agent list..."
+msgstr "Se agregó el agente ... Serás redirigido a tu lista de agentes ..."
+
+#: libs/ajax_functions.php:3736
+msgid "Agent profile edited"
+msgstr "Perfil del agente editado"
+
+#: libs/ajax_functions.php:3841 libs/ajax_functions.php:4013
+#: libs/ajax_functions.php:4182
+msgid "The email was not saved because it is used by another user."
+msgstr ""
+"El correo electrónico no se guardó porque es utilizado por otro usuario"
+
+#: libs/ajax_functions.php:3856 libs/ajax_functions.php:4028
+#: libs/ajax_functions.php:4197
+msgid "Profile updated"
+msgstr "Perfil de Usuario actualizado - !Gracias¡"
+
+#: libs/ajax_functions.php:4363
+msgid "The new password is blank"
+msgstr "La nueva contraseña está en blanco"
+
+#: libs/ajax_functions.php:4376
+msgid "Password Updated"
+msgstr "Contraseña Actualizada"
+
+#: libs/ajax_functions.php:4378
+msgid "Old Password is not correct"
+msgstr ""
+
+#: libs/ajax_functions.php:4418 libs/ajax_functions.php:4424
+msgid "addded"
+msgstr "agregado"
+
+#: libs/ajax_functions.php:4431
+msgid "removed"
+msgstr "eliminado"
+
+#: libs/ajax_functions.php:5099
+msgid "Listing payment on "
+msgstr "Pago de anuncio en "
+
+#: libs/ajax_functions.php:5111
+msgid "Upgrade to featured listing on "
+msgstr "Actualizar a publicación destacada el "
+
+#: libs/ajax_functions.php:5198
+msgid "Upgrade to Featured Listing"
+msgstr "Actualizar a publicación destacada"
+
+#: libs/ajax_functions.php:5207
+msgid "Listing Payment"
+msgstr "Cuota mensual:"
+
+#: libs/ajax_functions.php:5217
+msgid "Listing Payment with Featured option"
+msgstr "Listado de pago con opción destacada"
+
+#: libs/ajax_functions.php:5330
+msgid "Sent for approval"
+msgstr ""
+
+#: libs/ajax_functions.php:5342
+msgid "no listings available"
+msgstr "no hay anuncios disponibles"
+
+#: libs/ajax_functions.php:5371
+msgid "The date & time is already booked. Please choose a new one"
+msgstr "La fecha y la hora ya están reservadas. Por favor elija una nueva"
+
+#: libs/ajax_functions.php:5460
+msgid "membership payment on "
+msgstr "pago de membresía en "
+
+#: libs/ajax_functions.php:5467 libs/ajax_functions.php:5470
+msgid "Membership Payment"
+msgstr "Pago de Membresía"
+
+#: libs/ajax_functions.php:5532
+msgid "Unable to login. Please, check login/password and try again"
+msgstr ""
+
+#: libs/ajax_functions.php:5540
+msgid "Please, enter correct email"
+msgstr ""
+
+#: libs/ajax_functions.php:5554
+msgid "Can\\t create user with this credentials"
+msgstr "No se puede crear usuario con esta credencial"
+
+#: libs/ajax_functions.php:5558
+msgid "Sorry, user already exists. Try different username/email"
+msgstr ""
+
+#: libs/css_js_include.php:226
+msgid "payment failed"
+msgstr ""
+
+#: libs/css_js_include.php:533
+msgid " in "
+msgstr "en"
+
+#: libs/css_js_include.php:540
+msgid "The browser couldn't detect your position!"
+msgstr "¡El navegador no pudo detectar tu ubicación!"
+
+#: libs/css_js_include.php:541
+msgid "Geolocation is not supported by this browser."
+msgstr "La geolocalización no es compatible con este navegador."
+
+#: libs/css_js_include.php:542
+msgid "m radius"
+msgstr "m radio"
+
+#: libs/css_js_include.php:549 libs/css_js_include.php:740
+msgid "close map"
+msgstr "cerrar mapa"
+
+#: libs/css_js_include.php:560
+msgid "No results found!"
+msgstr "No se han encontrado resultados!"
+
+#: libs/css_js_include.php:566
+msgid "loading results..."
+msgstr "cargando resultados..."
+
+#: libs/css_js_include.php:571 libs/theme-slider.php:428
+#: templates/featured_property_5.php:32
+#: templates/property_cards_templates/property_card_details_type5.php:14
+msgid "BA"
+msgstr ""
+
+#: libs/css_js_include.php:572 libs/theme-slider.php:424
+#: templates/featured_property_5.php:28
+#: templates/property_cards_templates/property_card_details_type5.php:10
+msgid "BD"
+msgstr ""
+
+#: libs/css_js_include.php:639 libs/css_js_include.php:1125
+msgid "Geolocation was not successful"
+msgstr "La geolocalización no tuvo éxito"
+
+#: libs/css_js_include.php:685 libs/help_functions.php:5031
+#: libs/help_functions.php:5039
+msgid "Principal and Interest"
+msgstr ""
+
+#: libs/css_js_include.php:686 libs/help_functions.php:5033
+#: libs/help_functions.php:5043
+msgid "HOO fees"
+msgstr ""
+
+#: libs/css_js_include.php:687 libs/help_functions.php:5032
+#: libs/help_functions.php:5040
+msgid "Property Tax"
+msgstr ""
+
+#: libs/css_js_include.php:688 libs/css_js_include.php:852
+msgid "Property Views"
+msgstr ""
+
+#: libs/css_js_include.php:711
+msgid "Amount Financed:"
+msgstr "Monto a financiar:"
+
+#: libs/css_js_include.php:712
+msgid "Mortgage Payments:"
+msgstr "Cuota mensual:"
+
+#: libs/css_js_include.php:713
+msgid "Annual cost of Loan:"
+msgstr "Costo Anual del crédito:"
+
+#: libs/css_js_include.php:714
+msgid "SEARCH"
+msgstr "BUSCAR"
+
+#: libs/css_js_include.php:715
+msgid "Search here..."
+msgstr "Buscar aquí..."
+
+#: libs/css_js_include.php:721 libs/css_js_include.php:728
+#: libs/css_js_include.php:813 libs/css_js_include.php:817
+#: templates/agent_contact.php:85 templates/footer_buttons.php:17
+msgid "Your Name"
+msgstr "Tu nombre"
+
+#: libs/css_js_include.php:722 libs/css_js_include.php:729
+#: libs/css_js_include.php:814 libs/css_js_include.php:818
+#: templates/agent_contact.php:87 templates/footer_buttons.php:18
+msgid "Your Email"
+msgstr "Tu correo electrónico"
+
+#: libs/css_js_include.php:723 libs/css_js_include.php:730
+#: libs/css_js_include.php:815 libs/css_js_include.php:819
+#: templates/agent_contact.php:88 templates/footer_buttons.php:19
+msgid "Your Phone"
+msgstr "Teléfono"
+
+#: libs/css_js_include.php:724 libs/css_js_include.php:731
+#: libs/css_js_include.php:816 libs/css_js_include.php:820
+msgid "Your Message"
+msgstr "Su mensaje"
+
+#: libs/css_js_include.php:725
+msgid "Your Address"
+msgstr "Tu dirección"
+
+#: libs/css_js_include.php:726
+msgid "Your City"
+msgstr "Tu ciudad"
+
+#: libs/css_js_include.php:727
+msgid "Your State Code (ex CA)"
+msgstr "Tu código de estado (ej CA)"
+
+#: libs/css_js_include.php:732 libs/css_js_include.php:821
+msgid "Send Message"
+msgstr "Enviar >>"
+
+#: libs/css_js_include.php:735 libs/css_js_include.php:827
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: libs/css_js_include.php:736 libs/listing_functions.php:24
+#: libs/listing_functions.php:47 templates/google_maps_base.php:125
+msgid "Street View"
+msgstr "Vista de calle"
+
+#: libs/css_js_include.php:737
+msgid "Close Street View"
+msgstr "Cerrar Vista de Calle"
+
+#: libs/css_js_include.php:741 templates/google_maps_base.php:84
+#: templates/google_maps_base.php:88
+msgid "open map"
+msgstr "abrir mapa"
+
+#: libs/css_js_include.php:742 templates/google_maps_base.php:99
+#: templates/google_maps_base_map_list.php:12
+msgid "Fullscreen"
+msgstr "Ampliar"
+
+#: libs/css_js_include.php:743 templates/normal_directory.php:78
+#: templates/property_list_filters.php:155
+#: templates/property_list_filters_search.php:18
+#: templates/property_list_filter_half.php:17
+msgid "Default"
+msgstr "Por defecto"
+
+#: libs/css_js_include.php:744
+msgid "Please wait while we are processing your submission!"
+msgstr "¡Espere mientras procesamos su envío!"
+
+#: libs/css_js_include.php:745
+msgid "Are you sure you wish to delete?"
+msgstr ""
+
+#: libs/css_js_include.php:746
+msgid "You need to agree with terms and conditions !"
+msgstr "¡Debes aceptar los términos y condiciones!"
+
+#: libs/css_js_include.php:747
+msgid "Processing..."
+msgstr "Procesando..."
+
+#: libs/css_js_include.php:753 libs/general-settings.php:73
+#: libs/general-settings.php:75 libs/general-settings.php:83
+#: libs/general-settings.php:85 libs/searchfunctions.php:2112
+#: libs/searchfunctions.php:2140 libs/searchfunctions.php:2172
+#: templates/directory_filters.php:191 templates/directory_filters.php:208
+#: templates/directory_filters.php:227 templates/directory_filters.php:246
+#: templates/directory_filters.php:265
+msgid "to"
+msgstr "a"
+
+#: libs/css_js_include.php:755
+msgid "Send me the invoice"
+msgstr "Enviarme la Factura"
+
+#: libs/css_js_include.php:756
+msgid "Direct payment instructions"
+msgstr "Instrucciones de pago"
+
+#: libs/css_js_include.php:757
+msgid "Thank you. Please check your email for payment instructions."
+msgstr "Gracias. Por favor revise su email con instrucciones de pago."
+
+#: libs/css_js_include.php:758
+msgid "To be paid"
+msgstr ""
+
+#: libs/css_js_include.php:760 libs/css_js_include.php:1044
+#: templates/submit_templates/floor_plans.php:24
+#: templates/submit_templates/floor_plans.php:131 user_dashboard_floor.php:226
+msgid "Plan Title"
+msgstr "Título del Plano"
+
+#: libs/css_js_include.php:761 libs/css_js_include.php:1045
+#: templates/submit_templates/floor_plans.php:54
+#: templates/submit_templates/floor_plans.php:141
+msgid "Plan Image"
+msgstr "Imagen"
+
+#: libs/css_js_include.php:762 libs/css_js_include.php:1046
+#: templates/submit_templates/floor_plans.php:29
+#: templates/submit_templates/floor_plans.php:136 user_dashboard_floor.php:231
+msgid "Plan Description"
+msgstr "Descripción"
+
+#: libs/css_js_include.php:763 libs/css_js_include.php:1047
+#: templates/submit_templates/floor_plans.php:34
+#: templates/submit_templates/floor_plans.php:147 user_dashboard_floor.php:236
+msgid "Plan Size"
+msgstr "Tamaño del plano"
+
+#: libs/css_js_include.php:764 libs/css_js_include.php:1048
+#: templates/submit_templates/floor_plans.php:39
+#: templates/submit_templates/floor_plans.php:152 user_dashboard_floor.php:241
+msgid "Plan Rooms"
+msgstr "Habitaciones"
+
+#: libs/css_js_include.php:765 libs/css_js_include.php:1049
+#: templates/submit_templates/floor_plans.php:44
+#: templates/submit_templates/floor_plans.php:157 user_dashboard_floor.php:245
+msgid "Plan Bathrooms"
+msgstr "Plano de baños"
+
+#: libs/css_js_include.php:766 libs/css_js_include.php:1050
+#: templates/submit_templates/floor_plans.php:49
+#: templates/submit_templates/floor_plans.php:162
+msgid "Plan Price"
+msgstr "Precio del Plan"
+
+#: libs/css_js_include.php:769
+msgid "deleting..."
+msgstr "borrando..."
+
+#: libs/css_js_include.php:770
+msgid "saving..."
+msgstr "guardando..."
+
+#: libs/css_js_include.php:784
+msgid "posting"
+msgstr "publicando"
+
+#: libs/css_js_include.php:785
+msgid "Review Sent "
+msgstr "Revisión enviada "
+
+#: libs/css_js_include.php:786
+msgid "Review Edit Saved"
+msgstr "Revisión de la edición guardada"
+
+#: libs/css_js_include.php:789
+msgid "Pay"
+msgstr "Pagar"
+
+#: libs/css_js_include.php:790
+msgid "Payment for package"
+msgstr ""
+
+#: libs/css_js_include.php:822 templates/dashboard_listing_unit.php:66
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: libs/css_js_include.php:823 templates/dashboard_listing_unit.php:63
+msgid "Published"
+msgstr "Publicado"
+
+#: libs/css_js_include.php:824 libs/css_js_include.php:838
+msgid "Please, enter property title"
+msgstr ""
+
+#: libs/css_js_include.php:829 templates/dashboard_listing_unit.php:193
+#: templates/dashboard_listing_unit.php:244
+msgid "Property is featured"
+msgstr "La Propiedad es Destacada"
+
+#: libs/css_js_include.php:830
+msgid "You have used all the \"Featured\" listings in your package."
+msgstr ""
+"Ha utilizado todos los listados \"Destacados\" en su Cuenta de Avisaje. "
+
+#: libs/css_js_include.php:833 libs/design_functions.php:1943
+#: templates/featured_property_3.php:40 templates/featured_property_4.php:55
+#: templates/listing_templates/overview_template.php:15
+#: templates/property_cards_templates/property_card_actions_type_default.php:15
+#: templates/property_cards_templates/property_card_favorite.php:13
+msgid "remove from favorites"
+msgstr "eliminar de favoritos"
+
+#: libs/css_js_include.php:834
+msgid "saving.."
+msgstr "guardando..."
+
+#: libs/css_js_include.php:835
+msgid "sending message.."
+msgstr "enviando mensaje......."
+
+#: libs/css_js_include.php:836
+msgid "Please, enter field:"
+msgstr ""
+
+#: libs/css_js_include.php:837
+msgid "You need to upload at last one image"
+msgstr ""
+
+#: libs/css_js_include.php:839
+msgid "Connecting to Paypal! Please wait..."
+msgstr "Conectando a PayPal! Espera..."
+
+#: libs/css_js_include.php:840 templates/user_memebership_profile.php:43
+msgid "subscription will be cancelled at the end of current period"
+msgstr "la suscripción se cancelará al final del período actual"
+
+#: libs/css_js_include.php:842 templates/dashboard_listing_unit.php:181
+msgid "Disable Listing"
+msgstr "Deshabilitar anuncio"
+
+#: libs/css_js_include.php:843 templates/dashboard_listing_unit.php:183
+msgid "Enable Listing"
+msgstr "Habilitar anuncio"
+
+#: libs/css_js_include.php:844 templates/dashboard_agent_unit.php:76
+msgid "Disable Agent"
+msgstr "Deshabilitar agente"
+
+#: libs/css_js_include.php:845 templates/dashboard_agent_unit.php:78
+msgid "Enable Agent"
+msgstr "Habilitar Agente"
+
+#: libs/css_js_include.php:848
+msgid "You must agree with GDPR terms"
+msgstr ""
+
+#: libs/css_js_include.php:849
+msgid ""
+"Confirm your ACCOUNT DELETION request! Clicking the button below will delete "
+"your account and data. This means you will no longer be able to login to "
+"your account and access your account information: My Profile, My Properties, "
+"Inbox, Saved Searches and Messages. This operation CAN NOT BE REVERSED!"
+msgstr ""
+
+#: libs/css_js_include.php:859
+msgid "Sending"
+msgstr "Enviando"
+
+#: libs/css_js_include.php:880
+msgid "No More Listings"
+msgstr "No hay más listados "
+
+#: libs/css_js_include.php:933 libs/css_js_include.php:988
+msgid "Allowed Files"
+msgstr "Archivos Permitidos"
+
+#: libs/css_js_include.php:948 libs/css_js_include.php:977
+msgid "Image needs to be at least 500px height  x 500px wide!"
+msgstr "¡La imagen debe tener al menos 500px de alto x 500px de ancho!"
+
+#: libs/css_js_include.php:952
+msgid "You cannot upload more than"
+msgstr "No puedes subir más de"
+
+#: libs/css_js_include.php:952
+msgid "images"
+msgstr "fotos"
+
+#: libs/css_js_include.php:953 libs/css_js_include.php:979
+msgid "Are you sure you want to delete this?"
+msgstr "¿Está seguro de que desea borrar esto?"
+
+#: libs/css_js_include.php:1141
+msgid "Warning !"
+msgstr "Advertencia!"
+
+#: libs/dashboard_widgets.php:6
+msgid "Your Current Logo"
+msgstr ""
+
+#: libs/dashboard_widgets.php:12
+msgid "Upload New Logo"
+msgstr "Subir Nuevo Logo"
+
+#: libs/dashboard_widgets.php:17
+msgid "Your Current Colors"
+msgstr ""
+
+#: libs/dashboard_widgets.php:47
+msgid "Change Colors"
+msgstr ""
+
+#: libs/dashboard_widgets.php:59
+msgid "You have  %1$d pages published."
+msgstr "Tiene  %1$d páginas publicadas."
+
+#: libs/dashboard_widgets.php:76
+msgid "Page Title"
+msgstr "Historial de Visitas"
+
+#: libs/dashboard_widgets.php:81
+msgid "Page Template"
+msgstr "Plantilla de Página"
+
+#: libs/dashboard_widgets.php:86
+msgid "See All Your Pages"
+msgstr "Ver todas tus páginas"
+
+#: libs/dashboard_widgets.php:88 word_remove.php:278
+msgid "Add New Page"
+msgstr "Agregar nueva página"
+
+#: libs/dashboard_widgets.php:289 search.php:5 user_dashboard_add.php:295
+#: user_dashboard_add.php:833 user_dashboard_agent_list.php:7
+#: user_dashboard_floor.php:43 user_dashboard_search_result.php:24
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: libs/dashboard_widgets.php:315
+msgid "You have  %1$d listings published:"
+msgstr "Tiene  %1$d anuncios publicados:"
+
+#: libs/dashboard_widgets.php:380
+msgid "Your Payment system is in SANDBOX mode."
+msgstr ""
+
+#: libs/dashboard_widgets.php:382
+msgid "Your Payment system is in LIVE mode."
+msgstr ""
+
+#: libs/dashboard_widgets.php:392
+msgid "Payments will be procesed in %1$s. Prices are displayed in %2$s"
+msgstr ""
+
+#: libs/dashboard_widgets.php:400
+msgid ""
+"You did not add your Paypal Details. No Paypal payment will be processed"
+msgstr ""
+"Usted no ha añadido sus detalles de Paypal. No se procesará ningún pago de "
+"PayPal"
+
+#: libs/dashboard_widgets.php:402
+msgid "Paypal Api Keys are added.Payments will be processed."
+msgstr ""
+
+#: libs/dashboard_widgets.php:409
+msgid ""
+"You did not add your Stripe Details. No Stripe payment will be processed"
+msgstr ""
+"Usted no ha añadido sus detalles de Stripe. Ningún pago de Stripe será "
+"procesado"
+
+#: libs/dashboard_widgets.php:411
+msgid "Stripe Api Keys are added.Payments will be processed."
+msgstr "Se agregaron las claves API de Stripe. Los pagos serán procesados."
+
+#: libs/dashboard_widgets.php:415
+msgid "Edit Payment Details"
+msgstr ""
+
+#: libs/design_functions.php:96 templates/add_new_agent_template.php:442
+msgid "Add New Agent"
+msgstr "Añadir Nuevo Agente"
+
+#: libs/design_functions.php:102
+msgid "Agent list"
+msgstr "Lista de agentes"
+
+#: libs/design_functions.php:1901 libs/design_functions.php:1903
+#: libs/design_functions.php:1906 libs/design_functions.php:1910
+#: templates/featured_property_3.php:143 templates/featured_property_4.php:158
+#: templates/property_cards_templates/property_card_actions_type2.php:4
+#: templates/property_cards_templates/property_card_actions_type_default.php:21
+msgid "share"
+msgstr "compartir"
+
+#: libs/design_functions.php:1923
+#: templates/property_cards_templates/property_card_details_default.php:44
+#: templates/property_unit_type3.php:45
+msgid "details"
+msgstr "Tarjeta de contacto"
+
+#: libs/design_functions.php:1959 libs/design_functions.php:1964
+#: libs/design_functions.php:1969 libs/design_functions.php:1975
+#: templates/property_cards_templates/property_card_actions_type2.php:5
+#: templates/property_cards_templates/property_card_actions_type_default.php:25
+msgid "compare"
+msgstr "comparar"
+
+#: libs/design_functions.php:1966 libs/design_functions.php:2003
+#: libs/design_functions.php:2018
+msgid "featured icon"
+msgstr "ícono destacado"
+
+#: libs/design_functions.php:2127
+msgid "icon"
+msgstr "icono"
+
+#: libs/design_functions.php:2220
+msgid "Facebook"
+msgstr "Facebook"
+
+#: libs/design_functions.php:2221
+msgid "Twitter"
+msgstr "Twitter"
+
+#: libs/design_functions.php:2222
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: libs/design_functions.php:2223
+msgid "WhatsApp"
+msgstr "Whatsapp"
+
+#: libs/events.php:11
+msgid "Once Weekly"
+msgstr "Una vez a la semana"
+
+#: libs/general-settings.php:178 libs/general-settings.php:194
+msgid "[more]"
+msgstr "[más..]"
+
+#: libs/general-settings.php:259
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: libs/general-settings.php:260
+msgid "Mobile Menu"
+msgstr "Menú móvil"
+
+#: libs/general-settings.php:261
+msgid "Footer Menu"
+msgstr "Menú Pie de Página"
+
+#: libs/general-settings.php:264
+msgid "Primary Widget Area"
+msgstr "Área de Widget Principal"
+
+#: libs/general-settings.php:266
+msgid "The primary widget area"
+msgstr "El Área de Widget Principal"
+
+#: libs/general-settings.php:275
+msgid "Secondary Widget Area"
+msgstr "Área de Widget Secundaria"
+
+#: libs/general-settings.php:277
+msgid "The secondary widget area"
+msgstr "El Área de Widget Secundaria"
+
+#: libs/general-settings.php:286
+msgid "First Footer Widget Area"
+msgstr "Primera Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:288
+msgid "The first footer widget area"
+msgstr "La Primera Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:297
+msgid "Second Footer Widget Area"
+msgstr "Segunda Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:299
+msgid "The second footer widget area"
+msgstr "La Segunda Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:308
+msgid "Third Footer Widget Area"
+msgstr "Tercera Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:310
+msgid "The third footer widget area"
+msgstr "La Tercera Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:319
+msgid "Fourth Footer Widget Area"
+msgstr "Cuarta Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:321
+msgid "The fourth footer widget area"
+msgstr "La Cuarta Área de Widget del Pie de Página"
+
+#: libs/general-settings.php:330
+msgid "Top Bar Left Widget Area"
+msgstr "Widget del área izquierda de la barra superior"
+
+#: libs/general-settings.php:332
+msgid "The top bar left widget area"
+msgstr "El Widget del área izquierda de la barra superior"
+
+#: libs/general-settings.php:340
+msgid "Top Bar Right Widget Area"
+msgstr "Widget del área derecha de la barra superior"
+
+#: libs/general-settings.php:342
+msgid "The top bar right widget area"
+msgstr "El Widget del área derecha de la barra superior"
+
+#: libs/general-settings.php:349
+msgid "Sidebar Menu Widget Area - Before Menu"
+msgstr "Área de Widget del Menú de la Barra Lateral - Antes del Menú"
+
+#: libs/general-settings.php:351
+msgid "Sidebar for header type 3 - before menu"
+msgstr ""
+
+#: libs/general-settings.php:358
+msgid "Sidebar Menu Widget Area - After Menu"
+msgstr "Área de Widget del Menú de la Barra Lateral - Después del Menú"
+
+#: libs/general-settings.php:360
+msgid "Sidebar for header type 3 - after menu"
+msgstr ""
+
+#: libs/general-settings.php:370
+msgid "Header4 Widget Area"
+msgstr "Área de Widget del Encabezado 4"
+
+#: libs/general-settings.php:372
+msgid "Header4 widget area"
+msgstr "Área de Widget del Encabezado 4"
+
+#: libs/general-settings.php:381
+msgid "Dashboard Top Bar Left Widget Area"
+msgstr "Widget del Área Izquierda de la Barra Superior del Escritorio"
+
+#: libs/general-settings.php:383
+msgid "User Dashboard - The top bar left widget area"
+msgstr ""
+"Escritorio de Usuario - El widget del área izquierda de la barra superior"
+
+#: libs/general-settings.php:391
+msgid "Dashboard Top Bar Right Widget Area"
+msgstr "Widget del Área Derecha de la Barra Superior del Escritorio"
+
+#: libs/general-settings.php:393
+msgid "User Dashboard - The top bar right widget area"
+msgstr ""
+"Escritorio de Usuario - El widget del área derecha de la barra superior"
+
+#: libs/general-settings.php:401
+msgid "Splash Page Bottom Right Widget Area"
+msgstr "Widget de la parte inferior derecha de la página de bienvenida"
+
+#: libs/general-settings.php:403
+msgid "Splash Page - Bottom right area"
+msgstr "Página de Bienvenida - Área inferior derecha"
+
+#: libs/general-settings.php:411
+msgid "Splash Page Bottom Left Widget Area"
+msgstr "Página de Bienvenida Área Inferior Izquierda del Widget"
+
+#: libs/general-settings.php:413
+msgid "Splash Page - Bottom left area"
+msgstr "Página de Bienvenida - Área inferior izquierda"
+
+#: libs/help_functions.php:434 libs/listing_functions.php:946
+msgid "Documents"
+msgstr "Documentos"
+
+#: libs/help_functions.php:536
+msgid "Please submit the"
+msgstr "Por favor envíe el"
+
+#: libs/help_functions.php:536
+msgid "field"
+msgstr "campo"
+
+#: libs/help_functions.php:678
+msgid "I consent to the"
+msgstr "Estoy de acuerdo con"
+
+#: libs/help_functions.php:1471
+msgid "Transport"
+msgstr "Transporte"
+
+#: libs/help_functions.php:1472
+msgid "Supermarkets"
+msgstr "Supermercados"
+
+#: libs/help_functions.php:1473
+msgid "Schools"
+msgstr "Colegios"
+
+#: libs/help_functions.php:1474 libs/help_functions.php:1620
+msgid "Restaurants"
+msgstr "Restaurantes"
+
+#: libs/help_functions.php:1475
+msgid "Pharmacies"
+msgstr "Farmacias"
+
+#: libs/help_functions.php:1476
+msgid "Hospitals"
+msgstr "Hospitales"
+
+#: libs/help_functions.php:1512
+msgid "K"
+msgstr "K"
+
+#: libs/help_functions.php:1517
+msgid "M"
+msgstr "M"
+
+#: libs/help_functions.php:1580
+msgid "Active Life"
+msgstr "Vida Activa"
+
+#: libs/help_functions.php:1582
+msgid "Arts & Entertainment"
+msgstr "Arte y entretenimiento"
+
+#: libs/help_functions.php:1584
+msgid "Automotive"
+msgstr "Automotora"
+
+#: libs/help_functions.php:1586
+msgid "Beauty & Spas"
+msgstr "Belleza y Spas"
+
+#: libs/help_functions.php:1588
+msgid "Education"
+msgstr "Mi ubicación"
+
+#: libs/help_functions.php:1590
+msgid "Event Planning & Services"
+msgstr "Planificación de eventos y servicios"
+
+#: libs/help_functions.php:1592
+msgid "Financial Services"
+msgstr "Servicios financieros"
+
+#: libs/help_functions.php:1594
+msgid "Food"
+msgstr "Comida"
+
+#: libs/help_functions.php:1596
+msgid "Health & Medical"
+msgstr "Salud y Medicina"
+
+#: libs/help_functions.php:1598
+msgid "Home Services "
+msgstr "Servicios para el hogar "
+
+#: libs/help_functions.php:1600
+msgid "Hotels & Travel"
+msgstr "Hoteles y viajes"
+
+#: libs/help_functions.php:1602
+msgid "Local Flavor"
+msgstr "Sabor Local"
+
+#: libs/help_functions.php:1604
+msgid "Local Services"
+msgstr "Servicios Locales"
+
+#: libs/help_functions.php:1606
+msgid "Mass Media"
+msgstr "Medios de comunicación"
+
+#: libs/help_functions.php:1608
+msgid "Nightlife"
+msgstr "Vida Nocturna"
+
+#: libs/help_functions.php:1610
+msgid "Pets"
+msgstr "Mascotas"
+
+#: libs/help_functions.php:1612
+msgid "Professional Services"
+msgstr "Servicios Profesionales"
+
+#: libs/help_functions.php:1614
+msgid "Public Services & Government"
+msgstr "Servicios públicos y de Gobierno"
+
+#: libs/help_functions.php:1616
+msgid "Real Estate"
+msgstr "Real Estate"
+
+#: libs/help_functions.php:1618
+msgid "Religious Organizations"
+msgstr "Organizaciones Religiosas"
+
+#: libs/help_functions.php:1622
+msgid "Shopping"
+msgstr "Compras"
+
+#: libs/help_functions.php:1624
+msgid "Transportation"
+msgstr ""
+
+#: libs/help_functions.php:1721
+msgid "miles"
+msgstr "millas"
+
+#: libs/help_functions.php:1724
+msgid "km"
+msgstr "km"
+
+#: libs/help_functions.php:1842 templates/similar_listings.php:112
+#: templates/similar_listings.php:120
+msgid "Similar Listings"
+msgstr "Propiedades Similares"
+
+#: libs/help_functions.php:2268 libs/help_functions.php:2299
+msgid "walkscore"
+msgstr "walkscore"
+
+#: libs/help_functions.php:2270 libs/help_functions.php:2302
+msgid "more details here"
+msgstr "más detalles aquí"
+
+#: libs/help_functions.php:2792
+msgid "All Countries"
+msgstr "Todas las Comunas"
+
+#: libs/help_functions.php:3060 libs/help_functions.php:3197
+#: libs/help_functions.php:3424 libs/help_functions.php:3537
+#: libs/help_functions.php:3887 libs/searchfunctions.php:339
+#: property_list.php:101 property_list_directory.php:106
+#: property_list_half.php:104 templates/advanced_search_type2.php:33
+#: templates/advanced_search_type8.php:111
+#: templates/advanced_search_type9.php:115
+#: templates/advanced_search_type11.php:50
+#: templates/advanced_search_type_half.php:190
+#: templates/advanced_search_type_half.php:200
+#: templates/adv_search_mobile.php:100 templates/adv_search_mobile.php:161
+#: templates/directory_filters.php:39
+#: templates/property_ajax_tax_hidden_filters.php:25
+#: templates/property_ajax_tax_hidden_filters.php:70
+#: templates/property_list_filters.php:49
+#: templates/property_list_filters.php:98
+#: templates/taxonomy_agent_hidden_filters.php:22
+msgid "Categories"
+msgstr "Categorías"
+
+#: libs/help_functions.php:3070 libs/help_functions.php:3239
+#: libs/help_functions.php:3459 libs/help_functions.php:3572
+#: libs/help_functions.php:4064 property_list.php:182
+#: property_list_half.php:180 templates/directory_filters.php:69
+#: templates/property_ajax_tax_hidden_filters.php:28
+#: templates/property_list_filters.php:52
+#: templates/property_list_filters.php:109
+#: templates/taxonomy_agent_hidden_filters.php:25
+msgid "States"
+msgstr "Regiones"
+
+#: libs/help_functions.php:3072 libs/help_functions.php:3167
+#: libs/help_functions.php:3396 libs/help_functions.php:3509
+#: libs/help_functions.php:3772 templates/directory_filters.php:298
+#: templates/submit_templates/property_status.php:17
+msgid "Property Status"
+msgstr "Estatus Propiedad"
+
+#: libs/help_functions.php:3697
+msgid "More Search Options"
+msgstr "Buscar Propiedades"
+
+#: libs/help_functions.php:4222
+msgid "Pay Submission Fee"
+msgstr ""
+
+#: libs/help_functions.php:4326
+msgid "Pay with Credit Card"
+msgstr "Pago con Tarjeta de Crédito"
+
+#: libs/help_functions.php:4327 templates/user_memebership_profile.php:132
+msgid "Package Payment"
+msgstr "Pago del paquete "
+
+#: libs/help_functions.php:4388 templates/invoice_listing_unit.php:25
+#: user_dashboard_invoices.php:81
+msgid "Upgrade to Featured"
+msgstr "Mejorar a Destacado"
+
+#: libs/help_functions.php:4470 libs/help_functions.php:4619 word_remove.php:91
+msgid "feet"
+msgstr "pies"
+
+#: libs/help_functions.php:4470 libs/help_functions.php:4552
+#: libs/help_functions.php:4553 libs/help_functions.php:4554
+#: libs/help_functions.php:4555 libs/help_functions.php:4556
+#: libs/help_functions.php:4559 libs/help_functions.php:4565
+#: libs/help_functions.php:4571 libs/help_functions.php:4578
+#: libs/help_functions.php:4619 libs/help_functions.php:4628
+#: libs/help_functions.php:4629 libs/help_functions.php:4630
+#: libs/help_functions.php:4631 libs/help_functions.php:4632
+#: libs/help_functions.php:4635 libs/help_functions.php:4641
+#: libs/help_functions.php:4647 libs/help_functions.php:4654 word_remove.php:91
+msgid "ft"
+msgstr "ft"
+
+#: libs/help_functions.php:4471 libs/help_functions.php:4620 word_remove.php:92
+msgid "meters"
+msgstr "metros"
+
+#: libs/help_functions.php:4471 libs/help_functions.php:4553
+#: libs/help_functions.php:4558 libs/help_functions.php:4559
+#: libs/help_functions.php:4560 libs/help_functions.php:4561
+#: libs/help_functions.php:4562 libs/help_functions.php:4566
+#: libs/help_functions.php:4572 libs/help_functions.php:4579
+#: libs/help_functions.php:4620 libs/help_functions.php:4629
+#: libs/help_functions.php:4634 libs/help_functions.php:4635
+#: libs/help_functions.php:4636 libs/help_functions.php:4637
+#: libs/help_functions.php:4638 libs/help_functions.php:4642
+#: libs/help_functions.php:4648 libs/help_functions.php:4655 word_remove.php:92
+msgid "m"
+msgstr "metro"
+
+#: libs/help_functions.php:4472 libs/help_functions.php:4621 word_remove.php:93
+msgid "acres"
+msgstr "acres"
+
+#: libs/help_functions.php:4472 libs/help_functions.php:4554
+#: libs/help_functions.php:4560 libs/help_functions.php:4564
+#: libs/help_functions.php:4565 libs/help_functions.php:4566
+#: libs/help_functions.php:4567 libs/help_functions.php:4568
+#: libs/help_functions.php:4573 libs/help_functions.php:4580
+#: libs/help_functions.php:4621 libs/help_functions.php:4630
+#: libs/help_functions.php:4636 libs/help_functions.php:4640
+#: libs/help_functions.php:4641 libs/help_functions.php:4642
+#: libs/help_functions.php:4643 libs/help_functions.php:4644
+#: libs/help_functions.php:4649 libs/help_functions.php:4656 word_remove.php:93
+msgid "ac"
+msgstr "ac"
+
+#: libs/help_functions.php:4473 libs/help_functions.php:4622 word_remove.php:94
+msgid "yards"
+msgstr "yardas"
+
+#: libs/help_functions.php:4473 libs/help_functions.php:4555
+#: libs/help_functions.php:4561 libs/help_functions.php:4567
+#: libs/help_functions.php:4570 libs/help_functions.php:4571
+#: libs/help_functions.php:4572 libs/help_functions.php:4573
+#: libs/help_functions.php:4574 libs/help_functions.php:4581
+#: libs/help_functions.php:4622 libs/help_functions.php:4631
+#: libs/help_functions.php:4637 libs/help_functions.php:4643
+#: libs/help_functions.php:4646 libs/help_functions.php:4647
+#: libs/help_functions.php:4648 libs/help_functions.php:4649
+#: libs/help_functions.php:4650 libs/help_functions.php:4657 word_remove.php:94
+msgid "yd"
+msgstr "yd"
+
+#: libs/help_functions.php:4474 libs/help_functions.php:4623 word_remove.php:95
+msgid "hectares"
+msgstr "hectáreas"
+
+#: libs/help_functions.php:4474 libs/help_functions.php:4556
+#: libs/help_functions.php:4562 libs/help_functions.php:4568
+#: libs/help_functions.php:4574 libs/help_functions.php:4577
+#: libs/help_functions.php:4578 libs/help_functions.php:4579
+#: libs/help_functions.php:4580 libs/help_functions.php:4581
+#: libs/help_functions.php:4623 libs/help_functions.php:4632
+#: libs/help_functions.php:4638 libs/help_functions.php:4644
+#: libs/help_functions.php:4650 libs/help_functions.php:4653
+#: libs/help_functions.php:4654 libs/help_functions.php:4655
+#: libs/help_functions.php:4656 libs/help_functions.php:4657 word_remove.php:95
+msgid "ha"
+msgstr "ha"
+
+#: libs/help_functions.php:4896
+#: templates/submit_templates/property_description.php:85
+msgid "Property Price"
+msgstr "Precio del Inmueble"
+
+#: libs/help_functions.php:4897
+msgid "Property Price Label"
+msgstr "Etiqueta de Precio de la Propiedad"
+
+#: libs/help_functions.php:4898
+msgid "Property Price Label Before"
+msgstr "Precio Propiedad"
+
+#: libs/help_functions.php:4899
+msgid "Property Category Submit"
+msgstr "Superficie del Terreno"
+
+#: libs/help_functions.php:4900
+msgid "Property Action Category"
+msgstr "Categoría de Acción de Propiedad"
+
+#: libs/help_functions.php:4901
+msgid "Property Media"
+msgstr "Propiedad media"
+
+#: libs/help_functions.php:4903
+msgid "Property City"
+msgstr "Ubicación"
+
+#: libs/help_functions.php:4904
+msgid "Property Area"
+msgstr "Area"
+
+#: libs/help_functions.php:4905
+msgid "Property Zip"
+msgstr "Propiedad Zip"
+
+#: libs/help_functions.php:4906
+msgid "Property County"
+msgstr "Condado de la propiedad"
+
+#: libs/help_functions.php:4907
+msgid "Property Country"
+msgstr "País de la propiedad"
+
+#: libs/help_functions.php:4908
+msgid "Property Map"
+msgstr "Código Propiedad"
+
+#: libs/help_functions.php:4909
+msgid "Property Latitude"
+msgstr "Código Propiedad"
+
+#: libs/help_functions.php:4910
+msgid "Property Longitude"
+msgstr "Código Propiedad"
+
+#: libs/help_functions.php:4911
+msgid "Google Camera Angle"
+msgstr "Ángulo de la cámara de Google"
+
+#: libs/help_functions.php:4912
+msgid "Property Google View"
+msgstr "Superficie del Terreno"
+
+#: libs/help_functions.php:4913
+msgid "property Size"
+msgstr "Superficie construida"
+
+#: libs/help_functions.php:4914 libs/listing_functions.php:1143
+msgid "Property Lot Size"
+msgstr "Superficie del Terreno"
+
+#: libs/help_functions.php:4915
+msgid "Property Rooms"
+msgstr "Habitacions de la propiedad"
+
+#: libs/help_functions.php:4916
+msgid "Property Bedrooms"
+msgstr "Habitaciones del inmueble"
+
+#: libs/help_functions.php:4917
+msgid "Property Bathrooms"
+msgstr "Baños de la Propiedad"
+
+#: libs/help_functions.php:4918
+msgid "Owner Notes"
+msgstr "Notas del Dueño"
+
+#: libs/help_functions.php:4919 libs/searchfunctions.php:1933
+#: libs/searchfunctions.php:2092
+msgid "property status"
+msgstr "estado de la propiedad"
+
+#: libs/help_functions.php:4920
+msgid "Embed Video Id"
+msgstr "Id del video incrustado"
+
+#: libs/help_functions.php:4921
+msgid "Embed Video Type"
+msgstr "Tipo del video incrustado"
+
+#: libs/help_functions.php:4922
+msgid "Embed Virtual Tour"
+msgstr "Tour Virtual Incrustado"
+
+#: libs/help_functions.php:4923
+msgid "Property Subunits"
+msgstr "Subunidades de la propiedad"
+
+#: libs/help_functions.php:5028
+msgid "per month"
+msgstr "por mes"
+
+#: libs/help_functions.php:5051
+msgid "Home Price"
+msgstr ""
+
+#: libs/help_functions.php:5054
+msgid "Down Payment"
+msgstr ""
+
+#: libs/help_functions.php:5061
+msgid "Term(*in years)"
+msgstr ""
+
+#: libs/help_functions.php:5064
+msgid "Interest"
+msgstr ""
+
+#: libs/listing_functions.php:29 libs/listing_functions.php:50
+msgid "Image Gallery"
+msgstr "Galería de Imágenes"
+
+#: libs/listing_functions.php:130 libs/listing_functions.php:180
+#: templates/featured_property_1.php:92 templates/featured_property_1.php:112
+#: templates/featured_property_2.php:86 templates/header5.php:22
+#: templates/header_agency.php:38 templates/header_developer.php:34
+#: templates/image_gallery.php:44 templates/image_gallery.php:77
+#: templates/mobile_menu_header.php:8 templates/mobile_menu_header.php:10
+#: word_remove.php:10 zillow_estimate_page.php:79
+msgid "image"
+msgstr "imagen"
+
+#: libs/listing_functions.php:649
+msgid "size:"
+msgstr "tamaño:"
+
+#: libs/listing_functions.php:655
+msgid "rooms: "
+msgstr "habitaciones: "
+
+#: libs/listing_functions.php:661
+msgid "baths:"
+msgstr "baños:"
+
+#: libs/listing_functions.php:681 libs/listing_functions.php:707
+msgid "price: "
+msgstr "precio: "
+
+#: libs/listing_functions.php:758
+msgid "video image"
+msgstr ""
+
+#: libs/listing_functions.php:853
+#: templates/submit_templates/property_amenities.php:50
+msgid "Other Features"
+msgstr ""
+
+#: libs/listing_functions.php:991 libs/listing_functions.php:1037
+#: templates/user_profile_agency.php:296
+#: templates/user_profile_developer.php:291
+msgid "Address"
+msgstr "Dirección"
+
+#: libs/listing_functions.php:994 libs/listing_functions.php:1040
+#: libs/searchfunctions.php:1855 libs/searchfunctions.php:2050
+#: templates/add_new_agent.php:232 templates/add_new_agent_template.php:406
+#: templates/dashboard_listing_unit.php:153
+#: templates/submit_templates/property_location.php:90
+#: templates/user_profile_agency.php:274 templates/user_profile_agent.php:341
+#: templates/user_profile_developer.php:269
+msgid "City"
+msgstr "Ciudad"
+
+#: libs/listing_functions.php:997 libs/listing_functions.php:1043
+#: libs/searchfunctions.php:1862 libs/searchfunctions.php:2057
+#: templates/add_new_agent.php:236 templates/add_new_agent_template.php:410
+#: templates/dashboard_listing_unit.php:155
+#: templates/user_profile_agency.php:278 templates/user_profile_agent.php:345
+#: templates/user_profile_developer.php:273
+msgid "Area"
+msgstr "Sector"
+
+#: libs/listing_functions.php:1000 libs/listing_functions.php:1046
+#: templates/add_new_agent.php:243 templates/add_new_agent_template.php:417
+#: templates/user_profile_agency.php:285 templates/user_profile_agent.php:352
+#: templates/user_profile_developer.php:280
+msgid "State/County"
+msgstr "Población / Provincia"
+
+#: libs/listing_functions.php:1003 libs/listing_functions.php:1054
+msgid "Zip"
+msgstr "Código postal"
+
+#: libs/listing_functions.php:1006 libs/listing_functions.php:1057
+#: word_remove.php:76
+msgid "Country"
+msgstr "País"
+
+#: libs/listing_functions.php:1013
+msgid "Open In Google Maps"
+msgstr "Abrir en Google Maps"
+
+#: libs/listing_functions.php:1134
+msgid "Property Id "
+msgstr "Código Propiedad"
+
+#: libs/listing_functions.php:1136 templates/dashboard_listing_unit.php:132
+#: user_dashboard_invoices.php:128
+msgid "Price"
+msgstr "Precio"
+
+#: libs/listing_functions.php:1140
+msgid "Property Size"
+msgstr "Extensión"
+
+#: libs/listing_functions.php:1146
+#: templates/property_cards_templates/property_card_details_type1.php:9
+#: templates/property_cards_templates/property_card_details_type6.php:17
+#: templates/property_slider_shortcode.php:64
+msgid "Rooms"
+msgstr "Habitaciones"
+
+#: libs/listing_functions.php:1149
+#: templates/listing_templates/single-overview-section.php:27
+#: templates/property_cards_templates/property_card_details_type4.php:14
+#: templates/property_cards_templates/property_card_details_type4.php:31
+msgid "Bedrooms"
+msgstr "Dormitorios"
+
+#: libs/listing_functions.php:1152
+#: templates/listing_templates/single-overview-section.php:38
+#: templates/property_slider_shortcode.php:67
+msgid "Bathrooms"
+msgstr "Baños"
+
+#: libs/listing_functions.php:1157
+msgid "Energy index"
+msgstr ""
+
+#: libs/listing_functions.php:1160
+msgid "Energy class"
+msgstr "Clase de energía"
+
+#: libs/listing_functions.php:1186
+msgid "Not Available"
+msgstr "No disponible"
+
+#: libs/listing_functions.php:1261 libs/listing_functions.php:1264
+#: libs/listing_functions.php:1273 libs/listing_functions.php:1282
+#: libs/listing_functions.php:1297 libs/listing_functions.php:1306
+#: libs/listing_functions.php:1315 libs/listing_functions.php:1324
+#: libs/listing_functions.php:1327 libs/listing_functions.php:1333
+#: libs/listing_functions.php:1336
+msgid "Your energy class is "
+msgstr "Su clase de energía es "
+
+#: libs/listing_functions.php:1270 libs/listing_functions.php:1279
+#: libs/listing_functions.php:1300 libs/listing_functions.php:1309
+#: libs/listing_functions.php:1318
+msgid "Your energy class "
+msgstr "Su clase de energía "
+
+#: libs/listing_functions.php:1288 libs/listing_functions.php:1291
+msgid "Your energy class is"
+msgstr "Su clase de energía es"
+
+#: libs/megamenu.php:165
+msgid "%s (Invalid)"
+msgstr "%s (Inválido)"
+
+#: libs/megamenu.php:168
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+#: libs/megamenu.php:192
+msgid "Move up"
+msgstr "Mover hacia arriba"
+
+#: libs/megamenu.php:205
+msgid "Move down"
+msgstr "Mover hacia abajo"
+
+#: libs/megamenu.php:207 libs/megamenu.php:209
+msgid "Edit Menu Item"
+msgstr "Editar Ítem de Menú"
+
+#: libs/megamenu.php:218
+msgid "URL"
+msgstr "URL"
+
+#: libs/megamenu.php:225
+msgid "Navigation Label"
+msgstr "Etiqueta de Navegación"
+
+#: libs/megamenu.php:231
+msgid "Title Attribute"
+msgstr "Nombre de atributo"
+
+#: libs/megamenu.php:238
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+#: libs/megamenu.php:243
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: libs/megamenu.php:249
+msgid "Link Relationship (XFN)"
+msgstr "Relación del Enlace (XFN)"
+
+#: libs/megamenu.php:257
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"La descripción será desplegada en el menú si el tema actual lo soporta."
+
+#: libs/megamenu.php:264
+msgid "Menu Item Icon(ex: fa fa-comment)"
+msgstr "Icono de elemento de menú (ej: fa fa-comment)"
+
+#: libs/megamenu.php:273
+msgid "Menu Item Label(ex: \"new\")"
+msgstr ""
+
+#: libs/megamenu.php:288
+msgid "Set as Mega Menu?"
+msgstr "¿Usar como Mega Menú?"
+
+#: libs/megamenu.php:294
+msgid "Mega Menu Widget Area"
+msgstr "Área de widget de Mega Menú"
+
+#: libs/megamenu.php:296
+msgid "Select Widget Area"
+msgstr "Seleccionar zona de widget"
+
+#: libs/megamenu.php:307
+msgid "Upload Background Image | "
+msgstr "Subir imagen de fondo | "
+
+#: libs/megamenu.php:309
+msgid "Remove Image"
+msgstr "Quitar imagen"
+
+#: libs/megamenu.php:320
+msgid ""
+"Container Styles( *set custom styles for mega menu container only:.  Ex: "
+"background position, background repeat )"
+msgstr ""
+"Estilos de contenedor (* establecer estilos personalizados para el "
+"contenedor mega menú solamente:.  Ej.: posición de fondo, repetición de "
+"fondo)"
+
+#: libs/megamenu.php:336
+msgid "Draw border right on mega menu column?"
+msgstr ""
+
+#: libs/megamenu.php:344
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: libs/megamenu.php:357 templates/add_new_agent_template.php:352
+#: templates/add_new_agent_template.php:380
+#: templates/user_profile_agent.php:184 templates/user_profile_agent.php:212
+msgid "Remove"
+msgstr "Eliminar"
+
+#: libs/megamenu.php:358
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: libs/plugins.php:128
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins requeridos"
+
+#: libs/plugins.php:129
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: libs/plugins.php:130
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: libs/plugins.php:131
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: libs/plugins.php:132
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin:%1$s."
+msgstr[1] "Este tema requiere los siguientes complementos:%1$s."
+
+#: libs/plugins.php:133
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin:%1$s."
+msgstr[1] "Este tema recomienda los siguientes complementos:%1$s."
+
+#: libs/plugins.php:134
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Lo sentimos, pero no tiene los permisos correctos para instalar el "
+"complemento %s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo instalar el complemento."
+msgstr[1] ""
+"Lo sentimos, pero no tiene los permisos correctos para instalar los "
+"complementos %s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo instalar los complementos."
+
+#: libs/plugins.php:135
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin requerido está actualmente inactivo:%1$s."
+msgstr[1] ""
+"Los siguientes complementos requeridos están actualmente inactivos:%1$s."
+
+#: libs/plugins.php:136
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado esta actualmente inactivo: %1$s."
+msgstr[1] ""
+"Los siguientes complementos recomendados están actualmente inactivos: %1$s."
+
+#: libs/plugins.php:137
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Lo sentimos, pero no tiene los permisos correctos para activar el "
+"complemento %s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo activar el complemento."
+msgstr[1] ""
+"Lo sentimos, pero no tiene los permisos correctos para activar los "
+"complementos %s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo activar los complementos."
+
+#: libs/plugins.php:138
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin necesita ser actualizado a su última versión para "
+"asegurar la máxima compatibilidad con este tema:%1$s."
+msgstr[1] ""
+"Los siguientes complementos necesitan ser actualizados a su última versión "
+"para asegurar la máxima compatibilidad con este tema:%1$s."
+
+#: libs/plugins.php:139
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo sentimos, pero no tiene los permisos correctos para actualizar el "
+"complemento %s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo actualizar el complemento."
+msgstr[1] ""
+"Lo sentimos, pero no tienes los permisos correctos para actualizar los "
+"complementos %s. Póngase en contacto con el administrador de este sitio para "
+"obtener ayuda sobre cómo actualizar los complementos."
+
+#: libs/plugins.php:140
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Iniciar instalación de plugin"
+msgstr[1] "Iniciar instalación de los complementos"
+
+#: libs/plugins.php:141
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activar complemento instalado"
+msgstr[1] "Activar complementos instalados"
+
+#: libs/plugins.php:142
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de los plugins requeridos"
+
+#: libs/plugins.php:143
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: libs/plugins.php:144
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los complementos instalados y activados con éxito. %s"
+
+#: libs/searchfunctions.php:122
+msgid "Enter an address, state, city, area or zip code"
+msgstr ""
+
+#: libs/searchfunctions.php:280 templates/advanced_search_type10.php:37
+#: templates/adv_search_mobile.php:77
+msgid "Type address, state, city or area"
+msgstr "Escriba la dirección, la región, la ciudad o el área"
+
+#: libs/searchfunctions.php:314 searchform.php:2
+#: templates/advanced_search_type11.php:36 templates/adv_search_mobile.php:104
+msgid "Type Keyword"
+msgstr "Escriba palabra clave"
+
+#: libs/searchfunctions.php:1815 libs/searchfunctions.php:2013
+msgid "County, City or Area is "
+msgstr "Ciudad "
+
+#: libs/searchfunctions.php:1832 libs/searchfunctions.php:2027
+#: templates/add_new_agent.php:146 templates/add_new_agent_template.php:277
+#: templates/submit_templates/property_categories.php:27
+#: templates/user_profile_agency.php:210 templates/user_profile_agent.php:276
+#: templates/user_profile_developer.php:203
+msgid "Category"
+msgstr "Categoría"
+
+#: libs/searchfunctions.php:1848 libs/searchfunctions.php:2043
+msgid "For"
+msgstr "Para"
+
+#: libs/searchfunctions.php:1868 libs/searchfunctions.php:2063
+#: templates/submit_templates/property_location.php:55
+msgid "County / State"
+msgstr "Provincia / Región"
+
+#: libs/searchfunctions.php:1889
+msgid "Has"
+msgstr ""
+
+#: libs/searchfunctions.php:1918 libs/searchfunctions.php:2077
+msgid "types"
+msgstr "tipos"
+
+#: libs/searchfunctions.php:1919 libs/searchfunctions.php:2078
+msgid "categories"
+msgstr "categorías"
+
+#: libs/searchfunctions.php:1920 libs/searchfunctions.php:2079
+msgid "cities"
+msgstr "ciudades"
+
+#: libs/searchfunctions.php:1921 libs/searchfunctions.php:2080
+msgid "areas"
+msgstr "áreas"
+
+#: libs/searchfunctions.php:1922 libs/searchfunctions.php:2081
+msgid "property price"
+msgstr "precio propiedad"
+
+#: libs/searchfunctions.php:1923 libs/searchfunctions.php:2082
+msgid "property size"
+msgstr "tamaño de la propiedad"
+
+#: libs/searchfunctions.php:1924 libs/searchfunctions.php:2083
+msgid "property lot size"
+msgstr "tamaño del terreno de la propiedad"
+
+#: libs/searchfunctions.php:1925 libs/searchfunctions.php:2084
+msgid "property rooms"
+msgstr "habitaciones de la propiedad"
+
+#: libs/searchfunctions.php:1926 libs/searchfunctions.php:2085
+msgid "property bedrooms"
+msgstr "Dormitorios"
+
+#: libs/searchfunctions.php:1927 libs/searchfunctions.php:2086
+msgid "property bathrooms"
+msgstr "baños"
+
+#: libs/searchfunctions.php:1928 libs/searchfunctions.php:2087
+msgid "property address"
+msgstr "dirección de la propiedad"
+
+#: libs/searchfunctions.php:1929 libs/searchfunctions.php:2088
+msgid "property county"
+msgstr "provincia de la propiedad"
+
+#: libs/searchfunctions.php:1930 libs/searchfunctions.php:2089
+msgid "property state"
+msgstr "región de la propiedad"
+
+#: libs/searchfunctions.php:1931 libs/searchfunctions.php:2090
+msgid "property zip"
+msgstr "código postal de la propiedad"
+
+#: libs/searchfunctions.php:1932 libs/searchfunctions.php:2091
+msgid "property country"
+msgstr "país de la propiedad"
+
+#: libs/searchfunctions.php:1950
+msgid "address"
+msgstr "dirección"
+
+#: libs/searchfunctions.php:1964
+msgid "between "
+msgstr "entre"
+
+#: libs/searchfunctions.php:1964 libs/searchfunctions.php:1966
+#: libs/searchfunctions.php:1970 templates/dashboard_listing_unit.php:146
+msgid "and"
+msgstr "y"
+
+#: libs/searchfunctions.php:1966 libs/searchfunctions.php:1970
+msgid "between"
+msgstr "entre"
+
+#: libs/searchfunctions.php:1974 libs/searchfunctions.php:2118
+msgid " similar with "
+msgstr " similares con "
+
+#: libs/searchfunctions.php:1976 libs/searchfunctions.php:2122
+#: libs/searchfunctions.php:2156
+msgid " has"
+msgstr " has"
+
+#: libs/searchfunctions.php:1978 libs/searchfunctions.php:2126
+msgid " equal with "
+msgstr " igual con "
+
+#: libs/searchfunctions.php:1980 libs/searchfunctions.php:2134
+#: libs/searchfunctions.php:2163
+msgid "smaller than "
+msgstr "menor que "
+
+#: libs/searchfunctions.php:1982
+msgid "bigger than "
+msgstr "más grande que "
+
+#: libs/searchfunctions.php:2112 libs/searchfunctions.php:2172
+msgid "price range from: "
+msgstr "rango de precios desde: "
+
+#: libs/searchfunctions.php:2114 libs/searchfunctions.php:2142
+#: libs/searchfunctions.php:2174
+msgid "bigger than"
+msgstr "más grande que"
+
+#: libs/searchfunctions.php:2140
+msgid "price range from "
+msgstr "rango de precios desde "
+
+#: libs/searchfunctions2.php:157 templates/advanced_search_type2.php:58
+#: templates/advanced_search_type4.php:73
+#: templates/advanced_search_type4.php:79
+#: templates/advanced_search_type5.php:76
+#: templates/advanced_search_type5.php:82
+#: templates/advanced_search_type7.php:112
+#: templates/advanced_search_type7.php:150
+#: templates/advanced_search_type8.php:168
+#: templates/advanced_search_type9.php:170 templates/adv_search_mobile.php:220
+msgid "Search Properties"
+msgstr "Buscar inmuebles"
+
+#: libs/theme-admin.php:460
+msgid "Afghanistan"
+msgstr "Afganistán"
+
+#: libs/theme-admin.php:460
+msgid "Albania"
+msgstr "Albania"
+
+#: libs/theme-admin.php:460
+msgid "Algeria"
+msgstr "Argelia"
+
+#: libs/theme-admin.php:460
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: libs/theme-admin.php:460
+msgid "Andorra"
+msgstr "Andorra"
+
+#: libs/theme-admin.php:460
+msgid "Angola"
+msgstr "Angola"
+
+#: libs/theme-admin.php:460
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: libs/theme-admin.php:460
+msgid "Antarctica"
+msgstr "Antártica"
+
+#: libs/theme-admin.php:460
+msgid "Antigua and Barbuda"
+msgstr "Antigua y Barbuda"
+
+#: libs/theme-admin.php:460
+msgid "Argentina"
+msgstr "Argentina"
+
+#: libs/theme-admin.php:460
+msgid "Armenia"
+msgstr "Armenia"
+
+#: libs/theme-admin.php:460
+msgid "Aruba"
+msgstr "Aruba"
+
+#: libs/theme-admin.php:460
+msgid "Australia"
+msgstr "Australia"
+
+#: libs/theme-admin.php:460
+msgid "Austria"
+msgstr "Austria"
+
+#: libs/theme-admin.php:460
+msgid "Azerbaijan"
+msgstr "Azerbaiyán"
+
+#: libs/theme-admin.php:460
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: libs/theme-admin.php:460
+msgid "Bahrain"
+msgstr "Baréin"
+
+#: libs/theme-admin.php:460
+msgid "Bangladesh"
+msgstr "Bangladés"
+
+#: libs/theme-admin.php:460
+msgid "Barbados"
+msgstr "Barbados"
+
+#: libs/theme-admin.php:460
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+#: libs/theme-admin.php:460
+msgid "Belgium"
+msgstr "Belgica"
+
+#: libs/theme-admin.php:460
+msgid "Belize"
+msgstr "Belice"
+
+#: libs/theme-admin.php:460
+msgid "Benin"
+msgstr "Benín"
+
+#: libs/theme-admin.php:460
+msgid "Bermuda"
+msgstr "Islas Bermudas"
+
+#: libs/theme-admin.php:460
+msgid "Bhutan"
+msgstr "Bután"
+
+#: libs/theme-admin.php:460
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: libs/theme-admin.php:460
+msgid "Bosnia and Herzegowina"
+msgstr "Bosnia y Herzegovina"
+
+#: libs/theme-admin.php:460
+msgid "Botswana"
+msgstr "Botsuana"
+
+#: libs/theme-admin.php:460
+msgid "Bouvet Island"
+msgstr "Isla Bouvet"
+
+#: libs/theme-admin.php:460
+msgid "Brazil"
+msgstr "Brasil"
+
+#: libs/theme-admin.php:460
+msgid "British Indian Ocean Territory"
+msgstr "Territorio Británico del Océano Índico"
+
+#: libs/theme-admin.php:460
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: libs/theme-admin.php:460
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: libs/theme-admin.php:460
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: libs/theme-admin.php:460
+msgid "Burundi"
+msgstr "Burundi"
+
+#: libs/theme-admin.php:460
+msgid "Cambodia"
+msgstr "Camboya"
+
+#: libs/theme-admin.php:460
+msgid "Cameroon"
+msgstr "Camerún"
+
+#: libs/theme-admin.php:460
+msgid "Canada"
+msgstr "Canadá"
+
+#: libs/theme-admin.php:460
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: libs/theme-admin.php:460
+msgid "Cayman Islands"
+msgstr "Islas Caimán"
+
+#: libs/theme-admin.php:460
+msgid "Central African Republic"
+msgstr "República Centroafricana"
+
+#: libs/theme-admin.php:460
+msgid "Chad"
+msgstr "Chad"
+
+#: libs/theme-admin.php:460
+msgid "Chile"
+msgstr "Chile"
+
+#: libs/theme-admin.php:460
+msgid "China"
+msgstr "China"
+
+#: libs/theme-admin.php:460
+msgid "Christmas Island"
+msgstr "Isla de Navidad"
+
+#: libs/theme-admin.php:460
+msgid "Cocos (Keeling) Islands"
+msgstr "Islas Cocos (Keeling)"
+
+#: libs/theme-admin.php:460
+msgid "Colombia"
+msgstr "Colombia"
+
+#: libs/theme-admin.php:460
+msgid "Comoros"
+msgstr "Comoras"
+
+#: libs/theme-admin.php:460
+msgid "Congo"
+msgstr "Congo"
+
+#: libs/theme-admin.php:460
+msgid "Congo, the Democratic Republic of the"
+msgstr "Congo, República Democrática del"
+
+#: libs/theme-admin.php:460
+msgid "Cook Islands"
+msgstr "Islas Cook"
+
+#: libs/theme-admin.php:460
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: libs/theme-admin.php:460
+msgid "Cote d'Ivoire"
+msgstr "Costa de Marfil"
+
+#: libs/theme-admin.php:460
+msgid "Croatia (Hrvatska)"
+msgstr "Croacia (Croacia)"
+
+#: libs/theme-admin.php:460
+msgid "Cuba"
+msgstr "Cuba"
+
+#: libs/theme-admin.php:460
+msgid "Curacao"
+msgstr "Curazao"
+
+#: libs/theme-admin.php:460
+msgid "Cyprus"
+msgstr "Chipre"
+
+#: libs/theme-admin.php:460
+msgid "Czech Republic"
+msgstr "República Checa"
+
+#: libs/theme-admin.php:460
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: libs/theme-admin.php:460
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: libs/theme-admin.php:460
+msgid "Dominica"
+msgstr "Dominica"
+
+#: libs/theme-admin.php:460
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: libs/theme-admin.php:460
+msgid "East Timor"
+msgstr "Timor Oriental"
+
+#: libs/theme-admin.php:460
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: libs/theme-admin.php:460
+msgid "Egypt"
+msgstr "Egipto"
+
+#: libs/theme-admin.php:460
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: libs/theme-admin.php:460
+msgid "Equatorial Guinea"
+msgstr "Guinea Ecuatorial"
+
+#: libs/theme-admin.php:460
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: libs/theme-admin.php:460
+msgid "Estonia"
+msgstr "Estonia"
+
+#: libs/theme-admin.php:460
+msgid "Ethiopia"
+msgstr "Etiopía"
+
+#: libs/theme-admin.php:460
+msgid "Falkland Islands (Malvinas)"
+msgstr "Islas Malvinas (Malvinas)"
+
+#: libs/theme-admin.php:460
+msgid "Faroe Islands"
+msgstr "Islas Feroe"
+
+#: libs/theme-admin.php:460
+msgid "Fiji"
+msgstr "Fiyi"
+
+#: libs/theme-admin.php:460
+msgid "Finland"
+msgstr "Finlandia"
+
+#: libs/theme-admin.php:460
+msgid "France"
+msgstr "Francia"
+
+#: libs/theme-admin.php:460
+msgid "France Metropolitan"
+msgstr "Francia metropolitana"
+
+#: libs/theme-admin.php:460
+msgid "French Guiana"
+msgstr "Guyana Francesa"
+
+#: libs/theme-admin.php:460
+msgid "French Polynesia"
+msgstr "Polinesia Francesa"
+
+#: libs/theme-admin.php:460
+msgid "French Southern Territories"
+msgstr "Territorios Franceses del Sur"
+
+#: libs/theme-admin.php:460
+msgid "Gabon"
+msgstr "Gabón"
+
+#: libs/theme-admin.php:460
+msgid "Gambia"
+msgstr "Gambia"
+
+#: libs/theme-admin.php:460
+msgid "Georgia"
+msgstr "Georgia"
+
+#: libs/theme-admin.php:460
+msgid "Germany"
+msgstr "Alemania"
+
+#: libs/theme-admin.php:460
+msgid "Ghana"
+msgstr "Ghana"
+
+#: libs/theme-admin.php:460
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: libs/theme-admin.php:460
+msgid "Greece"
+msgstr "Grecia"
+
+#: libs/theme-admin.php:460
+msgid "Greenland"
+msgstr "Groenlandia"
+
+#: libs/theme-admin.php:460
+msgid "Grenada"
+msgstr "Granada"
+
+#: libs/theme-admin.php:460
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: libs/theme-admin.php:460
+msgid "Guam"
+msgstr "Guam"
+
+#: libs/theme-admin.php:460
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: libs/theme-admin.php:460
+msgid "Guinea"
+msgstr "Guinea Ecuatorial"
+
+#: libs/theme-admin.php:460
+msgid "Guinea-Bissau"
+msgstr "Guinea-bissau"
+
+#: libs/theme-admin.php:460
+msgid "Guyana"
+msgstr "Guyana"
+
+#: libs/theme-admin.php:460
+msgid "Haiti"
+msgstr "Haití"
+
+#: libs/theme-admin.php:460
+msgid "Heard and Mc Donald Islands"
+msgstr "Islas Heard y McDonald"
+
+#: libs/theme-admin.php:460
+msgid "Holy See (Vatican City State)"
+msgstr "Santa Sede (estado de la ciudad del Vaticano)"
+
+#: libs/theme-admin.php:460
+msgid "Honduras"
+msgstr "Honduras"
+
+#: libs/theme-admin.php:460
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: libs/theme-admin.php:460
+msgid "Hungary"
+msgstr "Hungría"
+
+#: libs/theme-admin.php:460
+msgid "Iceland"
+msgstr "Islandia"
+
+#: libs/theme-admin.php:460
+msgid "India"
+msgstr "India"
+
+#: libs/theme-admin.php:460
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: libs/theme-admin.php:460
+msgid "Iran (Islamic Republic of)"
+msgstr "Irán (República Islámica de)"
+
+#: libs/theme-admin.php:460
+msgid "Iraq"
+msgstr "Irak"
+
+#: libs/theme-admin.php:460
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: libs/theme-admin.php:460
+msgid "Israel"
+msgstr "Israel"
+
+#: libs/theme-admin.php:460
+msgid "Italy"
+msgstr "Italia"
+
+#: libs/theme-admin.php:460
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: libs/theme-admin.php:460
+msgid "Japan"
+msgstr "Japón"
+
+#: libs/theme-admin.php:460
+msgid "Jordan"
+msgstr "Jordania"
+
+#: libs/theme-admin.php:460
+msgid "Kazakhstan"
+msgstr "Kazajistán"
+
+#: libs/theme-admin.php:460
+msgid "Kenya"
+msgstr "Kenia"
+
+#: libs/theme-admin.php:460
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: libs/theme-admin.php:460
+msgid "Korea, Democratic People's Republic of"
+msgstr "Corea, República Popular Democrática de"
+
+#: libs/theme-admin.php:460
+msgid "Korea, Republic of"
+msgstr "Corea, República de"
+
+#: libs/theme-admin.php:460
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: libs/theme-admin.php:460
+msgid "Kyrgyzstan"
+msgstr "Kirguistán"
+
+#: libs/theme-admin.php:460
+msgid "Lao, People's Democratic Republic"
+msgstr "Lao, República Democrática Popular"
+
+#: libs/theme-admin.php:460
+msgid "Latvia"
+msgstr "Letonia"
+
+#: libs/theme-admin.php:460
+msgid "Lebanon"
+msgstr "Líbano"
+
+#: libs/theme-admin.php:460
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: libs/theme-admin.php:460
+msgid "Liberia"
+msgstr "Liberia"
+
+#: libs/theme-admin.php:460
+msgid "Libyan Arab Jamahiriya"
+msgstr "Jamahiriya Árabe Libia"
+
+#: libs/theme-admin.php:460
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: libs/theme-admin.php:460
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: libs/theme-admin.php:460
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+#: libs/theme-admin.php:460
+msgid "Macau"
+msgstr "Macao"
+
+#: libs/theme-admin.php:460
+msgid "Macedonia (FYROM)"
+msgstr "Macedonia (República Yugoslava de Macedonia)"
+
+#: libs/theme-admin.php:460
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: libs/theme-admin.php:460
+msgid "Malawi"
+msgstr "Malaui"
+
+#: libs/theme-admin.php:460
+msgid "Malaysia"
+msgstr "Malasia"
+
+#: libs/theme-admin.php:460
+msgid "Maldives"
+msgstr "Maldivas"
+
+#: libs/theme-admin.php:460
+msgid "Mali"
+msgstr "Mali"
+
+#: libs/theme-admin.php:460
+msgid "Malta"
+msgstr "Malta"
+
+#: libs/theme-admin.php:460
+msgid "Marshall Islands"
+msgstr "Islas Marshall"
+
+#: libs/theme-admin.php:460
+msgid "Martinique"
+msgstr "Martinica"
+
+#: libs/theme-admin.php:460
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: libs/theme-admin.php:460
+msgid "Mauritius"
+msgstr "Mauricio"
+
+#: libs/theme-admin.php:460
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: libs/theme-admin.php:460
+msgid "Mexico"
+msgstr "México"
+
+#: libs/theme-admin.php:460
+msgid "Micronesia, Federated States of"
+msgstr "Micronesia, Estados federados de"
+
+#: libs/theme-admin.php:460
+msgid "Moldova, Republic of"
+msgstr "Moldavia, República de"
+
+#: libs/theme-admin.php:460
+msgid "Monaco"
+msgstr "Mónaco"
+
+#: libs/theme-admin.php:460
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: libs/theme-admin.php:460
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: libs/theme-admin.php:460
+msgid "Morocco"
+msgstr "Marruecos"
+
+#: libs/theme-admin.php:460
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: libs/theme-admin.php:460
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: libs/theme-admin.php:460
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: libs/theme-admin.php:460
+msgid "Namibia"
+msgstr "Namibia"
+
+#: libs/theme-admin.php:460
+msgid "Nauru"
+msgstr "Nauru"
+
+#: libs/theme-admin.php:460
+msgid "Nepal"
+msgstr "Nepal"
+
+#: libs/theme-admin.php:460
+msgid "Netherlands"
+msgstr "Países Bajos/Holanda"
+
+#: libs/theme-admin.php:460
+msgid "Netherlands Antilles"
+msgstr "Antillas Neerlandesas"
+
+#: libs/theme-admin.php:460
+msgid "New Caledonia"
+msgstr "Nueva Caledonia"
+
+#: libs/theme-admin.php:460
+msgid "New Zealand"
+msgstr "Nueva Zelanda"
+
+#: libs/theme-admin.php:460
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: libs/theme-admin.php:460
+msgid "Niger"
+msgstr "Níger"
+
+#: libs/theme-admin.php:460
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: libs/theme-admin.php:460
+msgid "Niue"
+msgstr "Niue"
+
+#: libs/theme-admin.php:460
+msgid "Norfolk Island"
+msgstr "Isla Norfolk"
+
+#: libs/theme-admin.php:460
+msgid "Northern Mariana Islands"
+msgstr "Islas Marianas del Norte"
+
+#: libs/theme-admin.php:460
+msgid "Norway"
+msgstr "Noruega"
+
+#: libs/theme-admin.php:460
+msgid "Oman"
+msgstr "Omán"
+
+#: libs/theme-admin.php:460
+msgid "Pakistan"
+msgstr "Pakistán"
+
+#: libs/theme-admin.php:460
+msgid "Palau"
+msgstr "Palau"
+
+#: libs/theme-admin.php:460
+msgid "Panama"
+msgstr "Panamá"
+
+#: libs/theme-admin.php:460
+msgid "Papua New Guinea"
+msgstr "Papua Nueva Guinea"
+
+#: libs/theme-admin.php:460
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: libs/theme-admin.php:460
+msgid "Peru"
+msgstr "Perú"
+
+#: libs/theme-admin.php:460
+msgid "Philippines"
+msgstr "Filipinas"
+
+#: libs/theme-admin.php:460
+msgid "Pitcairn"
+msgstr "Isla Pitcairn"
+
+#: libs/theme-admin.php:460
+msgid "Poland"
+msgstr "Polonia"
+
+#: libs/theme-admin.php:460
+msgid "Portugal"
+msgstr "Portugal"
+
+#: libs/theme-admin.php:460
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: libs/theme-admin.php:460
+msgid "Qatar"
+msgstr "Qatar"
+
+#: libs/theme-admin.php:460
+msgid "Reunion"
+msgstr "Reunión"
+
+#: libs/theme-admin.php:460
+msgid "Romania"
+msgstr "Rumanía"
+
+#: libs/theme-admin.php:460
+msgid "Russian Federation"
+msgstr "Federación de Rusia"
+
+#: libs/theme-admin.php:460
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: libs/theme-admin.php:460
+msgid "Saint Kitts and Nevis"
+msgstr "San Cristóbal y Nieves"
+
+#: libs/theme-admin.php:460
+msgid "Saint Martin"
+msgstr "San Martín"
+
+#: libs/theme-admin.php:460
+msgid "Saint Lucia"
+msgstr "Santa Lucía"
+
+#: libs/theme-admin.php:460
+msgid "Saint Vincent and the Grenadines"
+msgstr "San Vicente y las Granadinas"
+
+#: libs/theme-admin.php:460
+msgid "Samoa"
+msgstr "Samoa"
+
+#: libs/theme-admin.php:460
+msgid "San Marino"
+msgstr "San Marino"
+
+#: libs/theme-admin.php:460
+msgid "Sao Tome and Principe"
+msgstr "Santo Tomé y Príncipe"
+
+#: libs/theme-admin.php:460
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+#: libs/theme-admin.php:460
+msgid "Senegal"
+msgstr "Senegal"
+
+#: libs/theme-admin.php:460
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: libs/theme-admin.php:460
+msgid "Serbia"
+msgstr "Serbia"
+
+#: libs/theme-admin.php:460
+msgid "Sierra Leone"
+msgstr "Sierra Leona"
+
+#: libs/theme-admin.php:460
+msgid "Singapore"
+msgstr "Singapur"
+
+#: libs/theme-admin.php:460
+msgid "Slovakia (Slovak Republic)"
+msgstr "Eslovaquia (República Eslovaca)"
+
+#: libs/theme-admin.php:460
+msgid "Slovenia"
+msgstr "Eslovenia"
+
+#: libs/theme-admin.php:460
+msgid "Solomon Islands"
+msgstr "Islas Salomón"
+
+#: libs/theme-admin.php:460
+msgid "Somalia"
+msgstr "Somalía"
+
+#: libs/theme-admin.php:460
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+#: libs/theme-admin.php:460
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Georgia del Sur y las Islas Sándwich del Sur"
+
+#: libs/theme-admin.php:460
+msgid "Spain"
+msgstr "España"
+
+#: libs/theme-admin.php:460
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: libs/theme-admin.php:460
+msgid "St. Helena"
+msgstr "Santa Elena"
+
+#: libs/theme-admin.php:460
+msgid "St. Pierre and Miquelon"
+msgstr "San Pedro y Miquelón"
+
+#: libs/theme-admin.php:460
+msgid "Sudan"
+msgstr "Sudán"
+
+#: libs/theme-admin.php:460
+msgid "Suriname"
+msgstr "Surinam"
+
+#: libs/theme-admin.php:460
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "Islas Svalbard y Jan Mayen"
+
+#: libs/theme-admin.php:460
+msgid "Swaziland"
+msgstr "Suazilandia"
+
+#: libs/theme-admin.php:460
+msgid "Sweden"
+msgstr "Suecia"
+
+#: libs/theme-admin.php:460
+msgid "Switzerland"
+msgstr "Suiza"
+
+#: libs/theme-admin.php:460
+msgid "Syrian Arab Republic"
+msgstr "República Árabe Siria"
+
+#: libs/theme-admin.php:460
+msgid "Taiwan, Province of China"
+msgstr "Taiwán, provincia de China"
+
+#: libs/theme-admin.php:460
+msgid "Tajikistan"
+msgstr "Tayikistán"
+
+#: libs/theme-admin.php:460
+msgid "Tanzania, United Republic of"
+msgstr "Tanzania, República Unida de"
+
+#: libs/theme-admin.php:460
+msgid "Thailand"
+msgstr "Tailandia"
+
+#: libs/theme-admin.php:460
+msgid "Togo"
+msgstr "Togo"
+
+#: libs/theme-admin.php:460
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: libs/theme-admin.php:460
+msgid "Tonga"
+msgstr "Tonga"
+
+#: libs/theme-admin.php:460
+msgid "Trinidad and Tobago"
+msgstr "Trinidad y Tobago"
+
+#: libs/theme-admin.php:460
+msgid "Tunisia"
+msgstr "Túnez"
+
+#: libs/theme-admin.php:460
+msgid "Turkey"
+msgstr "Turquía"
+
+#: libs/theme-admin.php:460
+msgid "Turkmenistan"
+msgstr "Turkmenistán"
+
+#: libs/theme-admin.php:460
+msgid "Turks and Caicos Islands"
+msgstr "Islas Turcas y Caicos"
+
+#: libs/theme-admin.php:460
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: libs/theme-admin.php:460
+msgid "Uganda"
+msgstr "Uganda"
+
+#: libs/theme-admin.php:460
+msgid "Ukraine"
+msgstr "Ucrania"
+
+#: libs/theme-admin.php:460
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+#: libs/theme-admin.php:460
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+#: libs/theme-admin.php:460
+msgid "United States"
+msgstr "Estados Unidos"
+
+#: libs/theme-admin.php:460
+msgid "United States Minor Outlying Islands"
+msgstr "Islas Menores de los Estados Unidos"
+
+#: libs/theme-admin.php:460
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: libs/theme-admin.php:460
+msgid "Uzbekistan"
+msgstr "Uzbekistán"
+
+#: libs/theme-admin.php:460
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: libs/theme-admin.php:460
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: libs/theme-admin.php:460
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: libs/theme-admin.php:460
+msgid "Virgin Islands (British)"
+msgstr "Islas Vírgenes (Británicas)"
+
+#: libs/theme-admin.php:460
+msgid "Virgin Islands (U.S.)"
+msgstr "Islas Vírgenes (Estados Unidos)"
+
+#: libs/theme-admin.php:460
+msgid "Wallis and Futuna Islands"
+msgstr "Islas Wallis y Futuna"
+
+#: libs/theme-admin.php:460
+msgid "Western Sahara"
+msgstr "Sahara Occidental"
+
+#: libs/theme-admin.php:460
+msgid "Yemen"
+msgstr "Yémen"
+
+#: libs/theme-admin.php:460
+msgid "Zambia"
+msgstr "Zambia"
+
+#: libs/theme-admin.php:460
+msgid "Zimbabwe"
+msgstr "Zimbabue"
+
+#: libs/theme-cache.php:5
+msgid "Cache was cleared"
+msgstr "La caché fue limpiada"
+
+#: libs/theme-slider.php:415
+msgid "slider"
+msgstr "carrusel"
+
+#. Template Name of the theme
+msgid "Property page template"
+msgstr "Barra Lateral de la Página de Propiedades"
+
+#. Template Name of the theme
+msgid "Paypal Processor"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Properties list"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Properties list directory"
+msgstr "Directorio de lista de propiedades"
+
+#. Template Name of the theme
+msgid "Properties list half"
+msgstr "Lista de propiedades a la mitad"
+
+#: search.php:22
+msgid "Search Results for : "
+msgstr "Resultados de búsqueda para: "
+
+#: search.php:32 templates/normal_directory.php:205
+#: templates/normal_map_core.php:243
+msgid ""
+"We didn't find any results. Please try again with different search "
+"parameters. "
+msgstr ""
+"No hemos encontrado ningún resultado. Por favor, intente de nuevo con "
+"diferentes parámetros de búsqueda. "
+
+#: search.php:34 search.php:35 searchform.php:3
+#: templates/advanced_search_type3.php:61
+#: templates/advanced_search_type10.php:76
+#: templates/advanced_search_type11.php:103 user_dashboard.php:122
+#: user_dashboard_agent_list.php:120 user_dashboard_search_result.php:105
+msgid "Search"
+msgstr "Buscar"
+
+#: single-estate_agency.php:43 templates/user_profile_agency.php:312
+#: templates/user_profile_developer.php:307
+msgid "About Us"
+msgstr "Sobre mi"
+
+#: single-estate_agency.php:112 templates/header_agency.php:50
+#: templates/header_developer.php:68
+msgid "Adress:"
+msgstr "Dirección:"
+
+#. Template Name of the theme
+msgid "Idx Page"
+msgstr ""
+
+#: single-idx.php:28 single.php:49 templates/agency_reviews.php:67
+#: templates/agent_reviews.php:57 templates/developer_reviews.php:60
+#: templates/property_reviews.php:65
+msgid "Posted by "
+msgstr "Publicado por "
+
+#: single-idx.php:28 single.php:49
+msgid "on"
+msgstr "activo"
+
+#: single-idx.php:41 single.php:58
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: single-idx.php:46 single.php:63
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: single-idx.php:47 single.php:64
+msgid "Previous page"
+msgstr "Página anterior"
+
+#. Template Name of the theme
+msgid "Splash Page"
+msgstr "Página de bienvenida"
+
+#. Template Name of the theme
+msgid "Stripe Charge Page"
+msgstr "Página de carga de Stripe"
+
+#: templates/add_new_agent.php:19 templates/add_new_agent_template.php:108
+#: templates/user_menu.php:7 templates/user_profile_agency.php:63
+#: templates/user_profile_agent.php:72 templates/user_profile_developer.php:62
+msgid "Your account is pending approval. Please wait for admin to approve it. "
+msgstr ""
+"Su cuenta está pendiente de aprobación. Por favor, espere a que el "
+"administrador lo apruebe. "
+
+#: templates/add_new_agent.php:22 templates/add_new_agent_template.php:111
+#: templates/user_menu.php:10 templates/user_profile_agency.php:66
+#: templates/user_profile_agent.php:75 templates/user_profile_developer.php:65
+msgid "Your account is disabled."
+msgstr ""
+
+#: templates/add_new_agent.php:33 templates/add_new_agent_template.php:121
+#: templates/user_profile.php:40 templates/user_profile_agency.php:76
+#: templates/user_profile_agent.php:85 templates/user_profile_developer.php:75
+msgid "Photo"
+msgstr "Foto"
+
+#: templates/add_new_agent.php:34 templates/add_new_agent_template.php:122
+#: templates/user_profile.php:41 templates/user_profile_agency.php:77
+#: templates/user_profile_agent.php:86 templates/user_profile_developer.php:76
+msgid "Upload your profile photo."
+msgstr "Suba su foto de perfil."
+
+#: templates/add_new_agent.php:38 templates/add_new_agent_template.php:126
+#: templates/agent_unit.php:11 templates/agent_unit_featured.php:26
+#: templates/agent_unit_widget.php:61 templates/agent_unit_widget.php:71
+#: templates/blog_unit.php:28 templates/blog_unit2.php:63
+#: templates/dashboard_agent_unit.php:23 templates/featured_property_1.php:123
+#: templates/featured_property_1.php:127 templates/featured_property_2.php:106
+#: templates/property_animation_slider.php:70
+#: templates/property_cards_templates/property_card_slider.php:31
+#: templates/submit_templates/property_images.php:58
+#: templates/submit_templates/property_images.php:68
+#: templates/submit_templates/property_images.php:123
+#: templates/submit_templates/property_images.php:126
+#: templates/user_profile.php:45 templates/user_profile_agency.php:81
+#: templates/user_profile_agent.php:90 templates/user_profile_developer.php:80
+#: user_dashboard_floor.php:223
+msgid "user image"
+msgstr ""
+
+#: templates/add_new_agent.php:44 templates/add_new_agent_template.php:131
+#: templates/user_profile.php:49 templates/user_profile_agency.php:86
+#: templates/user_profile_agent.php:95 templates/user_profile_developer.php:85
+msgid "Upload  profile image."
+msgstr ""
+
+#: templates/add_new_agent.php:50 templates/add_new_agent_template.php:137
+#: templates/user_profile.php:57 templates/user_profile_agency.php:93
+#: templates/user_profile_agent.php:102 templates/user_profile_developer.php:92
+msgid "*minimum 500px x 500px"
+msgstr "*mínimo 500px x 500px"
+
+#: templates/add_new_agent.php:56 templates/add_new_agent.php:98
+#: templates/add_new_agent.php:251 templates/user_profile.php:145
+msgid "User Details"
+msgstr "Detalles de Usuario"
+
+#: templates/add_new_agent.php:57 templates/add_new_agent_template.php:144
+#: templates/user_profile.php:64 templates/user_profile_agency.php:102
+#: templates/user_profile_agent.php:109
+#: templates/user_profile_developer.php:102
+msgid "Add your contact information."
+msgstr ""
+
+#: templates/add_new_agent.php:63 templates/add_new_agent_template.php:180
+#: templates/user_profile.php:70 templates/user_profile_agent.php:115
+msgid "First Name"
+msgstr "Nombre"
+
+#: templates/add_new_agent.php:68 templates/add_new_agent_template.php:185
+#: templates/user_profile.php:75 templates/user_profile_agent.php:120
+msgid "Last Name"
+msgstr "Apellido"
+
+#: templates/add_new_agent.php:79 templates/add_new_agent_template.php:209
+#: templates/user_profile.php:86 templates/user_profile_agency.php:135
+#: templates/user_profile_agent.php:136
+#: templates/user_profile_developer.php:131
+msgid "Phone"
+msgstr "Teléfono"
+
+#: templates/add_new_agent.php:83 templates/add_new_agent_template.php:214
+#: templates/user_profile.php:90 templates/user_profile_agency.php:140
+#: templates/user_profile_agent.php:140
+#: templates/user_profile_developer.php:135
+msgid "Mobile"
+msgstr "Movil"
+
+#: templates/add_new_agent.php:88 templates/add_new_agent_template.php:219
+#: templates/user_profile.php:95 templates/user_profile_agency.php:118
+#: templates/user_profile_agent.php:145
+#: templates/user_profile_developer.php:118
+msgid "Skype"
+msgstr "Skype"
+
+#: templates/add_new_agent.php:99 templates/add_new_agent_template.php:230
+#: templates/user_profile.php:106 templates/user_profile_agency.php:162
+#: templates/user_profile_agent.php:229
+#: templates/user_profile_developer.php:157
+msgid "Add your social media information."
+msgstr "Añada su información de redes sociales."
+
+#: templates/add_new_agent.php:104 templates/add_new_agent_template.php:235
+#: templates/user_profile.php:111 templates/user_profile_agency.php:167
+#: templates/user_profile_agent.php:234
+#: templates/user_profile_developer.php:162
+msgid "Facebook Url"
+msgstr ""
+
+#: templates/add_new_agent.php:109 templates/add_new_agent_template.php:240
+#: templates/user_profile.php:116 templates/user_profile_agency.php:172
+#: templates/user_profile_agent.php:239
+#: templates/user_profile_developer.php:167
+msgid "Twitter Url"
+msgstr ""
+
+#: templates/add_new_agent.php:114 templates/add_new_agent_template.php:245
+#: templates/user_profile.php:121 templates/user_profile_agency.php:177
+#: templates/user_profile_agent.php:244
+#: templates/user_profile_developer.php:172
+msgid "Linkedin Url"
+msgstr ""
+
+#: templates/add_new_agent.php:120 templates/add_new_agent_template.php:251
+#: templates/user_profile.php:127 templates/user_profile_agency.php:184
+#: templates/user_profile_agent.php:250
+#: templates/user_profile_developer.php:178
+msgid "Instagram Url"
+msgstr ""
+
+#: templates/add_new_agent.php:125 templates/add_new_agent_template.php:256
+#: templates/user_profile.php:132 templates/user_profile_agency.php:189
+#: templates/user_profile_agent.php:255
+#: templates/user_profile_developer.php:183
+msgid "Pinterest Url"
+msgstr "URL/enlace de Pinterest"
+
+#: templates/add_new_agent.php:130 templates/add_new_agent_template.php:261
+#: templates/user_profile.php:137 templates/user_profile_agency.php:194
+#: templates/user_profile_agent.php:260
+#: templates/user_profile_developer.php:188
+msgid "Website Url (without http)"
+msgstr ""
+
+#: templates/add_new_agent.php:140 templates/add_new_agent_template.php:271
+#: templates/user_profile_agent.php:270
+msgid "Agent Area/Categories"
+msgstr "Agente de Áreas/Categorías"
+
+#: templates/add_new_agent.php:141 templates/add_new_agent_template.php:272
+#: templates/user_profile_agency.php:205 templates/user_profile_agent.php:271
+#: templates/user_profile_developer.php:198
+msgid "What kind of listings do you handle?"
+msgstr "Qué tipo de anuncios maneja usted?"
+
+#: templates/add_new_agent.php:163 templates/add_new_agent.php:190
+#: templates/add_new_agent_template.php:289
+#: templates/add_new_agent_template.php:310
+#: templates/submit_templates/property_categories.php:37
+#: templates/submit_templates/property_categories.php:56
+#: templates/submit_templates/property_location.php:72
+#: templates/submit_templates/property_location.php:120
+#: templates/submit_templates/property_location.php:126
+#: templates/submit_templates/property_location.php:166
+#: templates/submit_templates/property_location.php:172
+#: templates/user_profile_agency.php:227 templates/user_profile_agency.php:254
+#: templates/user_profile_agent.php:294 templates/user_profile_agent.php:321
+#: templates/user_profile_developer.php:220
+#: templates/user_profile_developer.php:247
+msgid "None"
+msgstr "Ninguno"
+
+#: templates/add_new_agent.php:174 templates/add_new_agent_template.php:300
+#: templates/user_profile_agency.php:238 templates/user_profile_agent.php:305
+#: templates/user_profile_developer.php:231
+msgid "Action Category"
+msgstr ""
+
+#: templates/add_new_agent.php:205 templates/add_new_agent_template.php:324
+#: templates/user_profile_agent.php:156
+msgid "Agent Custom Data"
+msgstr ""
+
+#: templates/add_new_agent.php:206 templates/add_new_agent_template.php:325
+#: templates/user_profile_agent.php:157
+msgid "Any custom parameters for agent"
+msgstr ""
+
+#: templates/add_new_agent.php:210 templates/add_new_agent_template.php:331
+#: templates/user_profile_agent.php:163
+msgid "Add Custom Field"
+msgstr "Agregar campo personalizado"
+
+#: templates/add_new_agent.php:215
+msgid "User Param 1"
+msgstr "Prametro Usuario"
+
+#: templates/add_new_agent.php:226 templates/add_new_agent_template.php:400
+#: templates/advanced_search_type_half.php:77
+#: templates/user_profile_agency.php:301 templates/user_profile_agent.php:335
+#: templates/user_profile_developer.php:296
+msgid "Location"
+msgstr "Ubicación"
+
+#: templates/add_new_agent.php:227 templates/add_new_agent_template.php:401
+#: templates/user_profile_agent.php:336
+msgid "In what area are your properties"
+msgstr "En qué área están sus propiedades"
+
+#: templates/add_new_agent.php:252 templates/add_new_agent_template.php:426
+#: templates/user_profile.php:146 templates/user_profile_agent.php:361
+msgid "Add some information about yourself."
+msgstr ""
+
+#: templates/add_new_agent.php:256 templates/add_new_agent_template.php:430
+#: templates/user_profile.php:150 templates/user_profile_agent.php:365
+msgid "Title/Position"
+msgstr "Título / Posición"
+
+#: templates/add_new_agent.php:261 templates/add_new_agent_template.php:435
+#: templates/user_profile_agent.php:370
+msgid "About Me"
+msgstr "Sobre mi"
+
+#: templates/add_new_agent.php:265 templates/user_profile.php:156
+#: templates/user_profile_agency.php:316 templates/user_profile_agent.php:374
+#: templates/user_profile_developer.php:311
+msgid "Update profile"
+msgstr "Actualizar Perfil"
+
+#: templates/add_new_agent.php:266 templates/user_profile.php:157
+#: templates/user_profile_agency.php:327 templates/user_profile_agent.php:386
+#: templates/user_profile_developer.php:323
+msgid "Delete profile"
+msgstr "Borrar el perfil"
+
+#: templates/add_new_agent_template.php:143
+#: templates/add_new_agent_template.php:229
+#: templates/add_new_agent_template.php:425
+#: templates/user_profile_agent.php:108 templates/user_profile_agent.php:228
+#: templates/user_profile_agent.php:360
+msgid "Agent Details"
+msgstr "Tarjeta de contacto"
+
+#: templates/add_new_agent_template.php:151
+msgid "Agent Username"
+msgstr "Nombre de Usuario del Agente"
+
+#: templates/add_new_agent_template.php:157
+msgid "Username:"
+msgstr "Usuario:"
+
+#: templates/add_new_agent_template.php:157
+msgid "is not editable"
+msgstr ""
+
+#: templates/add_new_agent_template.php:166
+msgid "Agent Password"
+msgstr "Contraseña del Agente"
+
+#: templates/add_new_agent_template.php:174
+#: templates/add_new_agent_template.php:203
+msgid "Re-type Password"
+msgstr "Volver a escribir la Contraseña"
+
+#: templates/add_new_agent_template.php:195
+#: templates/user_profile_agent.php:129
+msgid "Member of"
+msgstr ""
+
+#: templates/add_new_agent_template.php:339
+#: templates/add_new_agent_template.php:367
+#: templates/user_profile_agent.php:171 templates/user_profile_agent.php:199
+msgid "Parameter Label"
+msgstr "Etiqueta de Parámetro"
+
+#: templates/add_new_agent_template.php:345
+#: templates/add_new_agent_template.php:373
+#: templates/user_profile_agent.php:177 templates/user_profile_agent.php:205
+msgid "Parameter Value"
+msgstr "Valor de Parámetro"
+
+#: templates/add_new_agent_template.php:444
+#: templates/dashboard_agent_unit.php:72 user_dashboard_add_agent.php:40
+msgid "Edit Agent"
+msgstr "Editar Agente"
+
+#: templates/advanced_search_type1.php:29
+#: templates/advanced_search_type3.php:22
+#: templates/advanced_search_type5.php:31 templates/adv_search_mobile.php:33
+msgid "Advanced Search"
+msgstr "Búsqueda Avanzada"
+
+#: templates/advanced_search_type1.php:78
+#: templates/advanced_search_type_half.php:385
+msgid "SEARCH PROPERTIES"
+msgstr "BUSCAR INMUEBLES"
+
+#: templates/advanced_search_type2.php:24
+#: templates/advanced_search_type8.php:95
+#: templates/advanced_search_type9.php:98 templates/adv_search_mobile.php:155
+msgid "Search State, City or Area"
+msgstr "Buscar Estado, Ciudad o Área"
+
+#: templates/advanced_search_type4.php:29
+msgid "Advanced Search "
+msgstr "Búsqueda Avanzada"
+
+#: templates/advanced_search_type_half.php:82
+msgid "Radius:"
+msgstr "Radio: "
+
+#: templates/advanced_search_type_half.php:390 templates/preview_template.php:4
+msgid "We found "
+msgstr "Encontramos "
+
+#: templates/advanced_search_type_half.php:390 templates/preview_template.php:4
+msgid "results."
+msgstr "resultados."
+
+#: templates/adv_search_mobile.php:224
+msgid "we found"
+msgstr "encontramos"
+
+#: templates/adv_search_mobile.php:224
+msgid "results"
+msgstr "resultados"
+
+#: templates/agency_agents.php:43
+msgid "We don't have any agents yet!"
+msgstr "Aún no tenemos agentes!"
+
+#: templates/agency_agents.php:45
+msgid "Our Agents"
+msgstr "Nuestros agentes "
+
+#: templates/agency_listings.php:147 templates/agent_listings.php:167
+#: templates/developer_listings.php:105
+msgid "All"
+msgstr "Todo"
+
+#: templates/agency_listings.php:175 templates/agent_listings.php:204
+#: templates/developer_listings.php:131
+msgid "Load More Properties"
+msgstr "Buscar Propiedades"
+
+#: templates/agency_reviews.php:3
+msgid "Agency Reviews "
+msgstr "Comentarios para la Agencia "
+
+#: templates/agency_reviews.php:81 templates/agent_reviews.php:70
+#: templates/developer_reviews.php:74 templates/property_reviews.php:79
+msgid "of"
+msgstr "de"
+
+#: templates/agency_reviews.php:85 templates/agent_reviews.php:74
+#: templates/developer_reviews.php:78 templates/property_reviews.php:83
+msgid "Posted on "
+msgstr "Publicado en "
+
+#: templates/agency_reviews.php:117 templates/agent_reviews.php:98
+#: templates/developer_reviews.php:105 templates/property_reviews.php:106
+msgid "Reviews"
+msgstr "Valoraciones"
+
+#: templates/agency_reviews.php:172 templates/agent_reviews.php:152
+#: templates/developer_reviews.php:159 templates/property_reviews.php:160
+msgid "Update Review "
+msgstr "Actualizar Comentario "
+
+#: templates/agency_reviews.php:174 templates/agent_reviews.php:154
+#: templates/developer_reviews.php:161 templates/property_reviews.php:162
+msgid "pending approval"
+msgstr ""
+
+#: templates/agency_reviews.php:178 templates/agent_reviews.php:158
+#: templates/developer_reviews.php:165 templates/property_reviews.php:166
+msgid "Write a Review "
+msgstr "Escribir un comentario "
+
+#: templates/agency_reviews.php:185 templates/agent_reviews.php:165
+#: templates/developer_reviews.php:172 templates/property_reviews.php:173
+msgid "Your Rating & Review"
+msgstr "Su Calificación y Comentario"
+
+#: templates/agency_reviews.php:204 templates/agent_reviews.php:184
+#: templates/developer_reviews.php:191 templates/property_reviews.php:192
+msgid "Review Title"
+msgstr "Título de Revisión"
+
+#: templates/agency_reviews.php:205 templates/agent_reviews.php:185
+#: templates/developer_reviews.php:192 templates/property_reviews.php:193
+msgid "Your Review"
+msgstr "Su Mensaje"
+
+#: templates/agency_reviews.php:216 templates/agent_reviews.php:196
+#: templates/developer_reviews.php:203 templates/property_reviews.php:204
+msgid "Edit Review"
+msgstr "Editar Reseña"
+
+#: templates/agency_reviews.php:219 templates/agent_reviews.php:199
+#: templates/developer_reviews.php:206 templates/property_reviews.php:207
+msgid "Submit Review"
+msgstr "Ingresar valoración"
+
+#: templates/agency_reviews.php:230 templates/agent_reviews.php:209
+#: templates/developer_reviews.php:217 templates/property_reviews.php:219
+msgid "You need to "
+msgstr "Usted necesita "
+
+#: templates/agency_reviews.php:230 templates/agent_reviews.php:209
+#: templates/developer_reviews.php:217 templates/property_reviews.php:219
+msgid "login"
+msgstr "iniciar sesión"
+
+#: templates/agency_reviews.php:230 templates/agent_reviews.php:209
+#: templates/developer_reviews.php:217 templates/property_reviews.php:219
+msgid "in order to post a review "
+msgstr "con el fin de publicar una reseña "
+
+#: templates/agency_unit.php:147 templates/agent_unit.php:24
+#: templates/agent_unit_widget.php:111
+msgid "listing"
+msgstr "Anuncio"
+
+#: templates/agentdetails.php:88
+msgid "Member of:"
+msgstr "Miembro de:"
+
+#: templates/agent_contact.php:31 templates/agent_contact.php:47
+#: templates/footer_buttons.php:10 templates/header_agency.php:108
+#: templates/header_developer.php:90
+msgid "Contact Us"
+msgstr "Contáctenos"
+
+#: templates/agent_contact.php:33
+msgid "Contact Me"
+msgstr "Contácteme"
+
+#: templates/agent_contact.php:40
+msgid "Schedule a showing?"
+msgstr "¿Desea programar una visita?"
+
+#: templates/agent_contact.php:61
+msgid "Day"
+msgstr "Día"
+
+#: templates/agent_contact.php:66
+msgid "Time"
+msgstr "Hora"
+
+#: templates/agent_contact.php:92
+msgid "I'm interested in"
+msgstr "Me interesa"
+
+#: templates/agent_contact.php:101
+#: templates/realtor_templates/agent_contact_bar.php:7
+msgid "Send Email"
+msgstr "Enviar email"
+
+#: templates/agent_contact.php:109
+msgid "Send Private Message"
+msgstr "Enviar >>"
+
+#: templates/agent_contact.php:110
+msgid ""
+"You can reply to private messages from \"Inbox\" page in your user account."
+msgstr ""
+"Puede responder a mensajes privados desde la página \"buzón de entrada\" de "
+"su cuenta de usuario."
+
+#: templates/agent_listings.php:177 templates/agent_unit_featured.php:85
+#: templates/featured_property_1.php:131
+msgid "My Listings"
+msgstr "Mis Publicaciones"
+
+#: templates/agent_reviews.php:2
+msgid "Agent Reviews "
+msgstr "Comentarios del Agente "
+
+#: templates/ajax_container.php:2
+msgid "Your search results"
+msgstr "Resultados de su búsqueda"
+
+#: templates/blog_unit.php:59
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: templates/blog_unit2.php:104
+msgid "Continue reading"
+msgstr "Sigua leyendo"
+
+#: templates/breadcrumbs.php:27
+msgid "Home"
+msgstr "Inicio"
+
+#: templates/breadcrumbs.php:32
+msgid "Archives"
+msgstr "Archivos"
+
+#: templates/change_pass_template.php:3
+msgid "Change Password"
+msgstr "Cambie Contraseña"
+
+#: templates/change_pass_template.php:4
+msgid "*After you change the password you will have to login again."
+msgstr "*Debe ingresar nuevamente luego de cambiar su contraseña."
+
+#: templates/change_pass_template.php:10
+msgid "Old Password"
+msgstr "Antigua Contraseña"
+
+#: templates/change_pass_template.php:15
+msgid "New Password "
+msgstr "Nueva contraseña "
+
+#: templates/change_pass_template.php:19
+msgid "Confirm New Password"
+msgstr "Confirmar Nueva Contraseña"
+
+#: templates/change_pass_template.php:25 templates/login_register_modal.php:110
+#: templates/login_register_modal.php:122 templates/mobile_menu.php:172
+#: templates/mobile_menu.php:180
+msgid "Reset Password"
+msgstr "Restablecer contraseña"
+
+#: templates/compare_list.php:16
+msgid "Compare"
+msgstr "Comparar"
+
+#: templates/dashboard-left-col.php:20
+msgid "Welcome back, "
+msgstr "Bienvenido nuevamente, "
+
+#: templates/dashboard_agent_unit.php:61
+msgid "user id:"
+msgstr "id de usuario:"
+
+#: templates/dashboard_agent_unit.php:73
+msgid "Delete Agent"
+msgstr "Eliminar Agente"
+
+#: templates/dashboard_agent_unit.php:73
+#: templates/dashboard_listing_unit.php:166
+msgid "Are you sure you wish to delete "
+msgstr "Está seguro que desea borrar "
+
+#: templates/dashboard_listing_unit.php:60
+msgid "Expired"
+msgstr "Expirado"
+
+#: templates/dashboard_listing_unit.php:69
+msgid "Waiting for approval"
+msgstr "Esperando verificación"
+
+#: templates/dashboard_listing_unit.php:76
+#: templates/invoice_listing_unit.php:53 user_dashboard_invoices.php:91
+msgid "Paid"
+msgstr "Pagado"
+
+#: templates/dashboard_listing_unit.php:79
+#: templates/invoice_listing_unit.php:51 user_dashboard_invoices.php:92
+msgid "Not Paid"
+msgstr "No Pagado"
+
+#: templates/dashboard_listing_unit.php:98
+msgid "by"
+msgstr "por"
+
+#: templates/dashboard_listing_unit.php:105
+#: templates/featured_property_1.php:50 templates/featured_property_2.php:47
+#: templates/featured_property_3.php:56 templates/featured_property_4.php:66
+#: templates/property_cards_templates/property_card_featured_label.php:7
+#: templates/property_cards_templates/property_card_tags.php:6
+#: templates/user_memebership_profile.php:140
+msgid "Featured"
+msgstr "Destacado"
+
+#: templates/dashboard_listing_unit.php:136
+msgid "expires on "
+msgstr "Expira en "
+
+#: templates/dashboard_listing_unit.php:142
+msgid "Listed in"
+msgstr "Listada en"
+
+#: templates/dashboard_listing_unit.php:165
+msgid "Edit property"
+msgstr "Editar propiedad"
+
+#: templates/dashboard_listing_unit.php:166
+msgid "Delete property"
+msgstr "Borrar propiedad"
+
+#: templates/dashboard_listing_unit.php:169
+msgid "Views Stats"
+msgstr "Estadísticas de la tienda"
+
+#: templates/dashboard_listing_unit.php:171
+msgid "Item has 0 views"
+msgstr "El elemento tiene 0 visitas"
+
+#: templates/dashboard_listing_unit.php:175
+msgid "Resend for approval"
+msgstr ""
+
+#: templates/dashboard_listing_unit.php:196
+msgid ""
+"Set as featured,  *Listings set as featured are subtracted from your package"
+msgstr ""
+"Establecer como destacados, *los anuncios establecidos como destacados se "
+"restan de su paquete"
+
+#: templates/dashboard_listing_unit.php:222
+msgid "Submission Fee"
+msgstr "Cuota de Cargas"
+
+#: templates/dashboard_listing_unit.php:231
+msgid "Pay with Paypal"
+msgstr "Pagar con PayPal"
+
+#: templates/dashboard_listing_unit.php:238
+#: templates/user_memebership_profile.php:193
+msgid "Wire Transfer"
+msgstr "Pagar con Transferencia"
+
+#: templates/dashboard_listing_unit.php:248
+msgid "Featured  Fee"
+msgstr ""
+
+#: templates/dashboard_listing_unit.php:256
+#: templates/dashboard_listing_unit.php:262
+msgid "Upgrade to featured"
+msgstr "Mejorar a destacado"
+
+#: templates/dashboard_listing_unit.php:274
+msgid "Total number of views:"
+msgstr "Número total de visitas:"
+
+#: templates/developer_reviews.php:2
+msgid "Developer Reviews "
+msgstr "Comentarios del desarrollador "
+
+#: templates/directory_filters.php:190
+msgid "Size:"
+msgstr "Tamaño:"
+
+#: templates/directory_filters.php:207
+msgid "Lot Size:"
+msgstr "Superficie del Terreno"
+
+#: templates/directory_filters.php:226
+msgid "Property Rooms:"
+msgstr "Habitaciones"
+
+#: templates/directory_filters.php:245
+msgid "Property Bedrooms:"
+msgstr "Dormitorios de la Propiedad:"
+
+#: templates/directory_filters.php:264
+msgid "Property Bathrooms:"
+msgstr "Baños de la Propiedad:"
+
+#: templates/directory_filters.php:296
+msgid "Property Status:"
+msgstr "Estado de la propiedad:"
+
+#: templates/directory_filters.php:305
+msgid "Property Keyword:"
+msgstr "Contraseña:"
+
+#: templates/directory_filters.php:306
+msgid "keyword"
+msgstr "Escriba palabra clave"
+
+#: templates/featured_property_4.php:147
+#: templates/property_cards_templates/property_card_details_type.php:30
+msgid "full info"
+msgstr "Más información"
+
+#: templates/featured_property_4.php:148
+msgid "map"
+msgstr "Mapa"
+
+#: templates/featured_property_4b.php:13
+msgid "Featured Property"
+msgstr "Propiedad Destacada"
+
+#: templates/featured_property_4b.php:17 templates/featured_property_5.php:51
+msgid "discover more"
+msgstr "descubrir más"
+
+#: templates/footer_buttons.php:11
+msgid "Use the form below to contact us!"
+msgstr "¡Utilice el siguiente formulario para contactarnos!"
+
+#: templates/footer_buttons.php:20
+msgid "Type your message..."
+msgstr "Escriba su mensaje...."
+
+#: templates/footer_buttons.php:25
+msgid "Send"
+msgstr "Enviar"
+
+#: templates/front_end_submission.php:152
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: templates/front_end_submission.php:156
+msgid "Add Property"
+msgstr "Añadir Propiedad"
+
+#: templates/google-map-contact-details.php:33
+msgid "How To Find Us"
+msgstr ""
+
+#: templates/google-map-contact-details.php:49
+#: templates/user_profile_agency.php:128
+msgid "Opening Hours"
+msgstr "Horario de apertura "
+
+#: templates/google_maps_base.php:67
+msgid "click to enable zoom"
+msgstr "activar"
+
+#: templates/google_maps_base.php:69 templates/google_maps_base_map_list.php:16
+msgid "loading..."
+msgstr ""
+
+#: templates/google_maps_base.php:93 templates/google_maps_base_map_list.php:5
+msgid "View"
+msgstr "Ver"
+
+#: templates/google_maps_base.php:94 templates/google_maps_base_map_list.php:6
+msgid "Roadmap"
+msgstr "Mapa rutero"
+
+#: templates/google_maps_base.php:95 templates/google_maps_base_map_list.php:7
+msgid "Satellite"
+msgstr "Imagen Satelital"
+
+#: templates/google_maps_base.php:96 templates/google_maps_base_map_list.php:8
+msgid "Hybrid"
+msgstr "Híbrido"
+
+#: templates/google_maps_base.php:97 templates/google_maps_base_map_list.php:9
+msgid "Terrain"
+msgstr "Superficie"
+
+#: templates/google_maps_base.php:98 templates/google_maps_base_map_list.php:11
+msgid "My Location"
+msgstr "Mi Ubicación"
+
+#: templates/google_maps_base.php:102
+msgid "Prev"
+msgstr "Ant"
+
+#: templates/google_maps_base.php:103
+msgid "Next"
+msgstr "Siguiente"
+
+#: templates/google_maps_base.php:113
+msgid "Google Maps Search"
+msgstr "Búsqueda en Google Maps"
+
+#: templates/half_map_core.php:83 templates/normal_map_core.php:84
+#: templates/search_unit.php:17
+msgid "Search Parameters: "
+msgstr "Parámetros de Búsqueda: "
+
+#: templates/half_map_core.php:87 templates/normal_map_core.php:89
+msgid "Save this Search?"
+msgstr "¿Guardar esta busquda?"
+
+#: templates/half_map_core.php:88 templates/normal_map_core.php:90
+msgid "Search name"
+msgstr "Nombre de la busqueda"
+
+#: templates/half_map_core.php:89 templates/normal_map_core.php:91
+msgid "Save Search"
+msgstr "Guardar Busqueda"
+
+#: templates/half_map_core.php:105 templates/login_register_modal.php:30
+#: templates/mobile_menu.php:82 templates/mobile_menu.php:91
+#: templates/normal_map_core.php:107
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+#: templates/half_map_core.php:105 templates/normal_map_core.php:107
+msgid ""
+"to save search and you will receive an email notification when new "
+"properties matching your search will be published."
+msgstr ""
+"para guardar la búsqueda y recibirá una notificación por correo electrónico "
+"cuando se publiquen nuevas propiedades que coincidan con su búsqueda."
+
+#: templates/half_map_core.php:124 templates/normal_map_core.php:161
+msgid "Properties listed in "
+msgstr "Propiedades listadas en "
+
+#: templates/half_map_core.php:157 user_dashboard.php:116
+#: user_dashboard_search_result.php:99
+msgid "You don't have any properties yet!"
+msgstr "¡Aún no tienes propiedades!"
+
+#: templates/half_map_core.php:176
+#, fuzzy
+#| msgid "View"
+msgid "Map View"
+msgstr "Ver"
+
+#: templates/header_agency.php:79 templates/header_developer.php:124
+msgid "Website:"
+msgstr "Sitio Web:"
+
+#: templates/header_agency.php:85
+msgid "We Speak:"
+msgstr ""
+
+#: templates/header_agency.php:91
+msgid "Opening Hours:"
+msgstr "Horario de apertura:"
+
+#: templates/header_agency.php:97 templates/header_developer.php:134
+msgid "License:"
+msgstr "Certificación:"
+
+#: templates/header_agency.php:103 templates/header_developer.php:139
+msgid "Our Taxes:"
+msgstr ""
+
+#: templates/image_gallery.php:93
+msgid "Want to find out more?"
+msgstr ""
+
+#: templates/invoice_listing_unit.php:23 user_dashboard_invoices.php:84
+msgid "Listing"
+msgstr "Aviso"
+
+#: templates/invoice_listing_unit.php:27
+msgid "Publish Listing with Feature"
+msgstr ""
+
+#: templates/invoice_listing_unit.php:29 user_dashboard_invoices.php:83
+msgid "Package"
+msgstr "Paquete"
+
+#: templates/invoice_listing_unit.php:40
+msgid "One Time"
+msgstr "One Time"
+
+#: templates/invoice_listing_unit.php:42
+msgid "Recurring"
+msgstr "Pago recurrente en %website_url"
+
+#: templates/listing_templates/overview_template.php:67
+#, fuzzy
+#| msgid "Previous page"
+msgid "share this page"
+msgstr "Página anterior"
+
+#: templates/listing_templates/overview_template.php:68
+msgid "Share"
+msgstr "Compartir"
+
+#: templates/listing_templates/overview_template.php:72
+msgid "Favorite"
+msgstr "Favorito"
+
+#: templates/listing_templates/overview_template.php:75
+#, fuzzy
+#| msgid "Next page"
+msgid "print page"
+msgstr "Página siguiente"
+
+#: templates/listing_templates/overview_template.php:76
+msgid "Print"
+msgstr "Imprimir"
+
+#: templates/listing_templates/single-overview-section.php:12
+msgid "Overview"
+msgstr "Resumen"
+
+#: templates/listing_templates/single-overview-section.php:16
+msgid "Updated On:"
+msgstr ""
+
+#: templates/listing_templates/single-overview-section.php:49
+msgid "Garages"
+msgstr "Estacionamiento"
+
+#: templates/listing_templates/single-overview-section.php:69
+msgid "Year Built:"
+msgstr "Año de construcción:"
+
+#: templates/login_register_modal.php:19
+msgid "Sign into your account"
+msgstr ""
+
+#: templates/login_register_modal.php:24 templates/login_register_modal.php:50
+#: templates/mobile_menu.php:86 templates/mobile_menu.php:109
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: templates/login_register_modal.php:25 templates/login_register_modal.php:56
+#: templates/mobile_menu.php:87 templates/mobile_menu.php:115
+msgid "Password"
+msgstr "Contraseña"
+
+#: templates/login_register_modal.php:35
+msgid "or"
+msgstr "o"
+
+#: templates/login_register_modal.php:46
+msgid "Create an account"
+msgstr "Crear Cuenta"
+
+#: templates/login_register_modal.php:57 templates/mobile_menu.php:116
+msgid "Retype Password"
+msgstr "Repita  Contraseña"
+
+#: templates/login_register_modal.php:65 templates/login_register_modal.php:78
+#: templates/mobile_menu.php:124 templates/mobile_menu.php:135
+msgid "Select User Type"
+msgstr "Seleccionar Tipo de Usuario"
+
+#: templates/login_register_modal.php:66 templates/mobile_menu.php:125
+#: templates/user_memebership_profile.php:73
+msgid "User"
+msgstr "Usuario"
+
+#: templates/login_register_modal.php:67 templates/mobile_menu.php:126
+msgid "Single Agent"
+msgstr "Agente Individual"
+
+#: templates/login_register_modal.php:93 templates/mobile_menu.php:151
+msgid "I agree with "
+msgstr "Estoy de acuerdo con "
+
+#: templates/login_register_modal.php:93 templates/mobile_menu.php:151
+msgid "terms & conditions"
+msgstr "términos y condiciones"
+
+#: templates/login_register_modal.php:102 templates/mobile_menu.php:160
+msgid "A password will be e-mailed to you"
+msgstr "La contraseña va a ser enviada a su correo electrónico"
+
+#: templates/login_register_modal.php:106 templates/mobile_menu.php:105
+#: templates/mobile_menu.php:166
+msgid "Register"
+msgstr "Registrarse"
+
+#: templates/login_register_modal.php:114 templates/mobile_menu.php:176
+msgid "Enter Your Email Address"
+msgstr "Ingrese su Dirección de Correo Electrónico"
+
+#: templates/login_register_modal.php:127
+msgid "Register here!"
+msgstr "Regístrese aquí!"
+
+#: templates/login_register_modal.php:128 templates/mobile_menu.php:94
+msgid "Forgot Password?"
+msgstr "¿Olvidó la contraseña?"
+
+#: templates/login_register_modal.php:130 templates/mobile_menu.php:168
+msgid "Back to Login"
+msgstr "Volver a Inicio de Sesión"
+
+#: templates/login_register_modal.php:131 templates/mobile_menu.php:182
+msgid "Return to Login"
+msgstr "Volver al Inicio de Sesión"
+
+#: templates/masonanry_pictures.php:52
+msgid "See all"
+msgstr "Todo"
+
+#: templates/masonanry_pictures.php:52
+msgid "photos"
+msgstr "fotos"
+
+#: templates/message-listing-unit.php:20
+msgid "new message"
+msgstr "nuevo mensaje"
+
+#: templates/message-listing-unit.php:27
+msgid "Conversation started by you "
+msgstr "Conversación iniciada por usted "
+
+#: templates/message-listing-unit.php:29
+msgid "From"
+msgstr "Desde"
+
+#: templates/message-listing-unit.php:36
+msgid "Subject"
+msgstr "Asunto"
+
+#: templates/message-listing-unit.php:44
+msgid "reply to message"
+msgstr ""
+
+#: templates/message-listing-unit.php:48
+msgid "delete message"
+msgstr "Eliminar mensaje"
+
+#: templates/message-listing-unit.php:84
+msgid "From: "
+msgstr "De: "
+
+#: templates/message-listing-unit.php:102
+msgid "Send Reply"
+msgstr "Enviar Respuesta"
+
+#: templates/mobile_menu.php:93
+msgid "Need an account? Register here!"
+msgstr "Necesita una cuenta? Regístrese aquí!"
+
+#: templates/multi_units.php:61
+msgid "Other units in"
+msgstr "Otras unidades en "
+
+#: templates/multi_units.php:72
+msgid "Available Units"
+msgstr "Unidades Disponibles"
+
+#: templates/multi_units.php:108
+msgid "Category: "
+msgstr "Categoría"
+
+#: templates/multi_units.php:109
+msgid "Rooms: "
+msgstr "Habitaciones: "
+
+#: templates/multi_units.php:110
+msgid "Baths: "
+msgstr "Baños"
+
+#: templates/multi_units.php:111
+msgid "Size: "
+msgstr "Tamaño: "
+
+#: templates/normal_directory.php:63 templates/property_list_filters.php:141
+#: templates/property_list_filters_search.php:7
+#: templates/property_list_filter_half.php:3
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: templates/normal_directory.php:70 templates/property_list_filters.php:147
+#: templates/property_list_filters_search.php:10
+#: templates/property_list_filter_half.php:9
+msgid "Price High to Low"
+msgstr "Precio: alto a bajo"
+
+#: templates/normal_directory.php:71 templates/property_list_filters.php:148
+#: templates/property_list_filters_search.php:11
+#: templates/property_list_filter_half.php:10
+msgid "Price Low to High"
+msgstr "Precio: bajo a alto"
+
+#: templates/normal_directory.php:72 templates/property_list_filters.php:149
+#: templates/property_list_filters_search.php:12
+#: templates/property_list_filter_half.php:11
+msgid "Newest first"
+msgstr "Reciente primero"
+
+#: templates/normal_directory.php:73 templates/property_list_filters.php:150
+#: templates/property_list_filters_search.php:13
+#: templates/property_list_filter_half.php:12
+msgid "Oldest first"
+msgstr "Antiguo primero"
+
+#: templates/normal_directory.php:74 templates/property_list_filters.php:151
+#: templates/property_list_filters_search.php:14
+#: templates/property_list_filter_half.php:13
+msgid "Bedrooms High to Low"
+msgstr "Dormitorios de Mayor a Menor"
+
+#: templates/normal_directory.php:75 templates/property_list_filters.php:152
+#: templates/property_list_filters_search.php:15
+#: templates/property_list_filter_half.php:14
+msgid "Bedrooms Low to high"
+msgstr "Dormitorios de Menor a Mayor"
+
+#: templates/normal_directory.php:76 templates/property_list_filters.php:153
+#: templates/property_list_filters_search.php:16
+#: templates/property_list_filter_half.php:15
+msgid "Bathrooms High to Low"
+msgstr "Baños de Mayor a Menor"
+
+#: templates/normal_directory.php:77 templates/property_list_filters.php:154
+#: templates/property_list_filters_search.php:17
+#: templates/property_list_filter_half.php:16
+msgid "Bathrooms Low to high"
+msgstr "Baños de Menor a Mayor"
+
+#: templates/normal_directory.php:223 templates/normal_map_core.php:278
+msgid ""
+"There are no properties listed on this page at this moment. Please try again "
+"later. "
+msgstr ""
+"No hay propiedades publicadas en esta página en este momento. Por favor "
+"Inténtalo más tarde. "
+
+#: templates/normal_directory.php:225 templates/normal_map_core.php:280
+msgid ""
+"There are no agents listed on this page at this moment. Please try again "
+"later. "
+msgstr ""
+"No hay agentes que figuren en esta página por el momento. Por favor, "
+"inténtelo de nuevo más tarde . "
+
+#: templates/normal_directory.php:237
+msgid "Load More Listings"
+msgstr "Propiedades Similares"
+
+#: templates/normal_map_core.php:152
+msgid "Agents in "
+msgstr "Agentes en "
+
+#: templates/normal_map_core.php:155
+msgid "Agencies in "
+msgstr "Agencias en "
+
+#: templates/normal_map_core.php:158
+msgid "Developers in "
+msgstr "Desarrolladores en "
+
+#: templates/other_agents.php:5 templates/other_agents.php:7
+msgid "Other Agents"
+msgstr "Otros agentes"
+
+#: templates/preview_template.php:5
+msgid "View results"
+msgstr "Ver resultados"
+
+#: templates/property_cards_templates/property_card_category_type1.php:7
+#: templates/property_slider_shortcode.php:57
+msgid "in"
+msgstr "en"
+
+#: templates/property_cards_templates/property_card_details_type1.php:13
+#: templates/property_cards_templates/property_card_details_type3.php:24
+#: templates/property_cards_templates/property_card_details_type4.php:18
+#: templates/property_cards_templates/property_card_details_type4.php:35
+#: templates/property_cards_templates/property_card_details_type6.php:34
+msgid "Baths"
+msgstr "Baños"
+
+#: templates/property_cards_templates/property_card_details_type1.php:18
+msgid "ID"
+msgstr "ID"
+
+#: templates/property_cards_templates/property_card_details_type3.php:16
+#: templates/property_cards_templates/property_card_details_type6.php:25
+msgid "Beds"
+msgstr "Camas"
+
+#: templates/property_cards_templates/property_card_details_type4.php:22
+#: templates/property_slider_shortcode.php:70
+msgid "Size"
+msgstr "Tamaño"
+
+#: templates/property_details_modal.php:28
+msgid "Contact Agent"
+msgstr "Contactar Agente"
+
+#: templates/property_page_acc_content.php:100
+msgid "Updated on"
+msgstr "Actualizado el"
+
+#: templates/property_page_acc_content.php:388
+#: templates/property_page_acc_content.php:403
+#: templates/property_page_tab_content.php:351
+msgid "Page Views Statistics"
+msgstr "Estadísticas de páginas vistas"
+
+#: templates/property_reviews.php:3
+msgid "Property Reviews "
+msgstr "Comentarios sobre la Propiedad "
+
+#: templates/property_reviews.php:5
+msgid "Property Reviews"
+msgstr "Comentarios sobre la Propiedad"
+
+#: templates/property_slider_shortcode.php:56
+msgid "category"
+msgstr "categoría"
+
+#: templates/property_slider_shortcode.php:60
+msgid "location"
+msgstr "ubicación"
+
+#: templates/realtor_templates/agent_about_me.php:5
+msgid "About Me "
+msgstr "Sobre mi"
+
+#: templates/realtor_templates/agent_contact_bar.php:21
+msgid "Call"
+msgstr "Llamar"
+
+#: templates/realtor_templates/agent_taxonomies.php:3
+msgid "Specialties & Service Areas"
+msgstr ""
+
+#: templates/related_posts.php:38
+msgid "Related Posts"
+msgstr "Relacionados"
+
+#: templates/search_unit.php:9
+msgid "delete search"
+msgstr ""
+
+#: templates/submit_templates/floor_plans.php:56
+#: templates/submit_templates/floor_plans.php:143
+msgid "Upload Image"
+msgstr "Subir Imagen"
+
+#: templates/submit_templates/floor_plans.php:77
+msgid "Select Images"
+msgstr "Seleccionar imágenes"
+
+#: templates/submit_templates/property_amenities.php:105
+msgid "Select what features and amenities apply for your property. "
+msgstr ""
+"Seleccione qué características y amenidades aplican para su propiedad. "
+
+#: templates/submit_templates/property_categories.php:21
+msgid "Select Categories"
+msgstr "Seleccionar Categorías"
+
+#: templates/submit_templates/property_categories.php:22
+msgid ""
+"Selecting a category will make it easier for users to find you property in "
+"search results."
+msgstr ""
+
+#: templates/submit_templates/property_categories.php:46
+msgid "Listed In "
+msgstr "Anunciado En "
+
+#: templates/submit_templates/property_description.php:18
+msgid "Property Description"
+msgstr "Descripción"
+
+#: templates/submit_templates/property_description.php:19
+msgid ""
+"This description will appear first in page. Keeping it as a brief overview "
+"makes it easier to read."
+msgstr ""
+"Esta descripción aparecerá primero en la página. Mantenerlo como un breve "
+"resumen hace que sea más fácil de leer."
+
+#: templates/submit_templates/property_description.php:27
+msgid "*Title (mandatory)"
+msgstr "*Titulo (Obligatorio)"
+
+#: templates/submit_templates/property_description.php:84
+msgid "Property Description & Price"
+msgstr "Descripción y precio"
+
+#: templates/submit_templates/property_description.php:86
+msgid ""
+"Adding a price will make it easier for users to find your property in search "
+"results."
+msgstr ""
+
+#: templates/submit_templates/property_description.php:93
+#: user_dashboard_floor.php:249
+msgid "Price in "
+msgstr "Precio en "
+
+#: templates/submit_templates/property_description.php:93
+msgid "(only numbers)"
+msgstr "(solo cifras)"
+
+#: templates/submit_templates/property_description.php:100
+msgid "Yearly Tax Rate"
+msgstr ""
+
+#: templates/submit_templates/property_description.php:107
+msgid "Homeowners Association Fee(monthly)"
+msgstr ""
+
+#: templates/submit_templates/property_description.php:114
+msgid "After Price Label (ex: \"/month\")"
+msgstr "Después de la Etiqueta de Precio (ej: \"/mes\")"
+
+#: templates/submit_templates/property_description.php:121
+msgid "Before Price Label (ex: \"from \")"
+msgstr "Antes de la Etiqueta de Precio (ej: \"desde\")"
+
+#: templates/submit_templates/property_details.php:80
+msgid "Listing Details"
+msgstr "Detalles del listado"
+
+#: templates/submit_templates/property_details.php:81
+msgid "Add a little more info about your property. "
+msgstr "Añada un poco más de información sobre su propiedad. "
+
+#: templates/submit_templates/property_details.php:88
+msgid "Size in"
+msgstr "Tamaño en "
+
+#: templates/submit_templates/property_details.php:88
+#: templates/submit_templates/property_details.php:95
+msgid " (*only numbers)"
+msgstr " (*sólo números)"
+
+#: templates/submit_templates/property_details.php:95
+msgid "Lot Size in"
+msgstr "Tamaño del Terreno en"
+
+#: templates/submit_templates/property_details.php:102
+msgid "Rooms (*only numbers)"
+msgstr "Habitaciones "
+
+#: templates/submit_templates/property_details.php:109
+msgid "Bedrooms (*only numbers)"
+msgstr "Dormitorios (*sólo números)"
+
+#: templates/submit_templates/property_details.php:116
+msgid "Bathrooms (*only numbers)"
+msgstr "Baños (*sólo números)"
+
+#: templates/submit_templates/property_details.php:129
+msgid "Owner/Agent notes (*not visible on front end)"
+msgstr "Notas de Propietario/Agente (* no se verán públicamente)"
+
+#: templates/submit_templates/property_energy_effective.php:20
+msgid "Select Energy Class"
+msgstr "Seleccione Clase Energética"
+
+#: templates/submit_templates/property_energy_effective.php:21
+msgid "Some energy class description"
+msgstr ""
+
+#: templates/submit_templates/property_energy_effective.php:31
+msgid "Select Energy Class (EU regulation)"
+msgstr ""
+
+#: templates/submit_templates/property_energy_effective.php:43
+msgid "Energy Index in kWh/m2a"
+msgstr ""
+
+#: templates/submit_templates/property_featured.php:10
+msgid "Featured Submission"
+msgstr "Suscripción destacada"
+
+#: templates/submit_templates/property_featured.php:13
+msgid "Make this listing featured from property list."
+msgstr "Destaque este anuncio en la lista de propiedades."
+
+#: templates/submit_templates/property_images.php:88
+msgid "Listing Media"
+msgstr "Fotos y video del Clasificado"
+
+#: templates/submit_templates/property_images.php:89
+msgid "You can select multiple images to upload at one time."
+msgstr ""
+
+#: templates/submit_templates/property_images.php:139
+msgid "Drag and Drop Images or "
+msgstr ""
+
+#: templates/submit_templates/property_images.php:141
+msgid "Select Media"
+msgstr "Subir fotos"
+
+#: templates/submit_templates/property_images.php:149
+msgid ""
+"* At least 1 image is required for a valid submission.Minimum size is "
+"500/500px."
+msgstr ""
+"*Se requiere al menos 1 imagen para una carga válida. El tamaño mínimo es "
+"500/500px."
+
+#: templates/submit_templates/property_images.php:166
+msgid " You can upload maximum %s images"
+msgstr " Puede cargar un máximo de %simágenes"
+
+#: templates/submit_templates/property_images.php:169
+msgid "** Double click on the image to select featured."
+msgstr "**Haga doble clic en la imagen para seleccionarla como destacada."
+
+#: templates/submit_templates/property_images.php:170
+msgid "*** Change images order with Drag & Drop."
+msgstr "***Cambie el orden de las imágenes arrastrando y soltando."
+
+#: templates/submit_templates/property_images.php:171
+msgid "**** PDF files upload supported as well."
+msgstr "**** También soporta la carga de Archivos PDF."
+
+#: templates/submit_templates/property_images.php:172
+msgid "***** Images might take longer to be processed."
+msgstr "***** Las imágenes pueden tardar más en procesarse."
+
+#: templates/submit_templates/property_images.php:182
+msgid "manage floorplans"
+msgstr ""
+
+#: templates/submit_templates/property_location.php:39
+msgid "Listing Location"
+msgstr "Ubicación del Clasificado"
+
+#: templates/submit_templates/property_location.php:40
+msgid "Use the button to save your property location on the map as well."
+msgstr ""
+"Utilice el botón para guardar la ubicación de su propiedad en el mapa "
+"también."
+
+#: templates/submit_templates/property_location.php:47
+msgid "*Address"
+msgstr "*Dirección"
+
+#: templates/submit_templates/property_location.php:48
+msgid "Enter address"
+msgstr "Ingrese la dirección"
+
+#: templates/submit_templates/property_location.php:135
+msgid "Enter city"
+msgstr "Ingrese la ciudad"
+
+#: templates/submit_templates/property_location.php:146
+msgid "Neighborhood"
+msgstr "Barrio / Vecindad / Isla "
+
+#: templates/submit_templates/property_location.php:191
+msgid "Zip "
+msgstr "Código postal "
+
+#: templates/submit_templates/property_location.php:204
+msgid "Country "
+msgstr "País "
+
+#: templates/submit_templates/property_location.php:213
+msgid "Place Pin with Property Address"
+msgstr "Coloque el pin con la dirección de la propiedad"
+
+#: templates/submit_templates/property_location.php:226
+msgid "Latitude (for Google Maps)"
+msgstr "Latitud (para Google Maps)"
+
+#: templates/submit_templates/property_location.php:234
+msgid "Longitude (for Google Maps)"
+msgstr ""
+
+#: templates/submit_templates/property_location.php:241
+msgid "Enable Google Street View"
+msgstr "Activar Google Street View"
+
+#: templates/submit_templates/property_location.php:250
+msgid "Google Street View - Camera Angle (value from 0 to 360)"
+msgstr "Google Street View - Ángulo de la Cámara (valor de 0 a 360)"
+
+#: templates/submit_templates/property_slider.php:6
+msgid "Slider Option"
+msgstr "Opciones del Slider"
+
+#: templates/submit_templates/property_slider.php:9
+msgid "Slider type "
+msgstr "Tipo de Slider "
+
+#: templates/submit_templates/property_status.php:11
+#: templates/submit_templates/property_status.php:12
+msgid "Select Property Status"
+msgstr "Seleccione el Estatus de la Propiedad"
+
+#: templates/submit_templates/property_status.php:13
+msgid "Highlight your property."
+msgstr "Destaque su propiedad."
+
+#: templates/submit_templates/property_status.php:19
+msgid "no status"
+msgstr ""
+
+#: templates/submit_templates/property_subunits.php:15
+msgid "Subunits"
+msgstr ""
+
+#: templates/submit_templates/property_subunits.php:16
+msgid ""
+"Select what properties you wish to show as subunits from those published."
+msgstr ""
+
+#: templates/submit_templates/property_subunits.php:27
+msgid "Enable "
+msgstr "Habilitar "
+
+#: templates/submit_templates/property_subunits.php:34
+msgid "Select Subunits From the list: "
+msgstr "Seleccione las subunidades desde la lista: "
+
+#: templates/submit_templates/property_video.php:19
+#: templates/submit_templates/property_video.php:20
+msgid "Video Option"
+msgstr "Opciones de Vídeo"
+
+#: templates/submit_templates/property_video.php:21
+msgid "Add just the video ID from the vimeo or youtube url."
+msgstr "Añada sólo el identificador de vídeo desde la URL de Vimeo o YouTube."
+
+#: templates/submit_templates/property_video.php:28
+msgid "Video from"
+msgstr "Video de"
+
+#: templates/submit_templates/property_video.php:40
+msgid "Embed Video id: "
+msgstr "ID del Video Incrustado: "
+
+#: templates/submit_templates/user_memebership_form.php:21
+msgid "Membership"
+msgstr "Membresía"
+
+#: templates/submit_templates/user_memebership_form.php:30
+msgid "Paid submission"
+msgstr "Anuncios pagados"
+
+#: templates/submit_templates/user_memebership_form.php:32
+msgid "This is a paid submission."
+msgstr "Este es un anuncio pagado."
+
+#: templates/submit_templates/user_memebership_form.php:33
+msgid "Price: "
+msgstr "Precio: "
+
+#: templates/submit_templates/user_memebership_form.php:34
+msgid "Featured (extra): "
+msgstr "Características"
+
+#: templates/submit_templates/video_tour.php:20
+msgid "Copy/paste the iframe code of your property video tour."
+msgstr "Copie/pegue el código iframe del vídeo tur de su propiedad."
+
+#: templates/submit_templates/video_tour.php:26
+msgid "Virtual Tour: "
+msgstr "Vista Panorámica 360º / Tour Virtual: "
+
+#: templates/top_user_menu.php:49
+msgid "Add Listing"
+msgstr "Agregar Anuncio"
+
+#: templates/user_memebership_profile.php:43
+msgid "cancel stripe subscription"
+msgstr "cancelar suscripción a Stripe"
+
+#: templates/user_memebership_profile.php:52
+msgid "See Available Packages and Payment Methods"
+msgstr "Ver Paquetes Disponibles y Métodos de Pago"
+
+#: templates/user_memebership_profile.php:62
+msgid "Packages Available"
+msgstr "Paquetes disponibles "
+
+#: templates/user_memebership_profile.php:127
+#: templates/user_memebership_profile.php:136
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: templates/user_memebership_profile.php:136
+msgid "listings "
+msgstr "anuncios "
+
+#: templates/user_memebership_profile.php:141
+msgid "Images / per listing"
+msgstr "Imágenes /por anuncio"
+
+#: templates/user_memebership_profile.php:144
+msgid "Switch to this package"
+msgstr ""
+
+#: templates/user_memebership_profile.php:162
+msgid "Payment Method"
+msgstr "Metodo de pago"
+
+#: templates/user_memebership_profile.php:176
+msgid "make payment recurring "
+msgstr "hacer el pago recurrente "
+
+#: templates/user_memebership_profile.php:220
+msgid "days"
+msgstr "días"
+
+#: templates/user_memebership_profile.php:223
+msgid "weeks"
+msgstr "semanas"
+
+#: templates/user_memebership_profile.php:226
+msgid "months"
+msgstr "meses"
+
+#: templates/user_memebership_profile.php:229
+msgid "year"
+msgstr "año"
+
+#: templates/user_memebership_profile.php:231
+msgid "years"
+msgstr "años"
+
+#: templates/user_profile.php:63
+msgid "Contact Information"
+msgstr "Información de Contacto"
+
+#: templates/user_profile.php:105
+msgid "Social Media"
+msgstr "Redes Sociales"
+
+#: templates/user_profile_agency.php:101 templates/user_profile_agency.php:161
+msgid "Agency Details"
+msgstr "Tarjeta de contacto"
+
+#: templates/user_profile_agency.php:107
+msgid "Agency Name"
+msgstr ""
+
+#: templates/user_profile_agency.php:123
+#: templates/user_profile_developer.php:123
+msgid "Taxes"
+msgstr "Impuestos"
+
+#: templates/user_profile_agency.php:145
+#: templates/user_profile_developer.php:140
+msgid "Languages"
+msgstr ""
+
+#: templates/user_profile_agency.php:150
+#: templates/user_profile_developer.php:145
+msgid "License "
+msgstr "Licencia "
+
+#: templates/user_profile_agency.php:204
+msgid "Agency Area/Categories"
+msgstr "Área/Categorías de la Agencia"
+
+#: templates/user_profile_agency.php:268
+msgid "Agency Location"
+msgstr "Mi ubicación"
+
+#: templates/user_profile_agency.php:269
+msgid "Add some information about your agency."
+msgstr ""
+
+#: templates/user_profile_agency.php:308
+msgid "Place Pin with Agency Address"
+msgstr "Ubique el pin con la dirección de su agencia"
+
+#: templates/user_profile_agency.php:324 templates/user_profile_agent.php:382
+#: templates/user_profile_developer.php:320
+msgid "View public profile"
+msgstr "Ver perfil público"
+
+#: templates/user_profile_developer.php:101
+#: templates/user_profile_developer.php:156
+msgid "Developer Details"
+msgstr "Detalles del Desarrollador"
+
+#: templates/user_profile_developer.php:108
+msgid "Developer Name"
+msgstr "Nombre"
+
+#: templates/user_profile_developer.php:197
+msgid "Developer Area/Categories"
+msgstr "Área/Categorías del Desarrollador"
+
+#: templates/user_profile_developer.php:263
+msgid "Developer Location"
+msgstr "Mi ubicación"
+
+#: templates/user_profile_developer.php:264
+msgid "Add some information about you."
+msgstr ""
+
+#: templates/user_profile_developer.php:303
+msgid "Place Pin with Developer Address"
+msgstr "Colocar pin con la dirección del desarrollador"
+
+#. Template Name of the theme
+msgid "Terms and Conditions"
+msgstr "Términos y Condiciones"
+
+#. Template Name of the theme
+msgid "User Dashboard"
+msgstr ""
+
+#: user_dashboard.php:121 user_dashboard_search_result.php:104
+msgid "Search a listing"
+msgstr "Buscar un anuncio"
+
+#. Template Name of the theme
+msgid "User Dashboard Submit"
+msgstr "Enviar Panel de usuario"
+
+#. Template Name of the theme
+msgid "User Dashboard Add agent"
+msgstr "Agregar Agente Panel de usuario"
+
+#. Template Name of the theme
+msgid "User Dashboard Agent List"
+msgstr ""
+
+#: user_dashboard_agent_list.php:113
+msgid "You don't have any agents added!"
+msgstr "¡No tienes ningún agente agregado!"
+
+#: user_dashboard_agent_list.php:119
+msgid "Search for an Agent"
+msgstr "Busque un Agente"
+
+#. Template Name of the theme
+msgid "User Dashboard Favorite"
+msgstr ""
+
+#: user_dashboard_favorite.php:79
+msgid "You don't have any favorite properties yet!"
+msgstr "Todavía no tiene una propiedad favorita."
+
+#. Template Name of the theme
+msgid "User Dashboard Floor Plans"
+msgstr ""
+
+#: user_dashboard_floor.php:135
+msgid "for"
+msgstr "por"
+
+#: user_dashboard_floor.php:168
+msgid "Use Floor Plans"
+msgstr "Utilice los planos de planta"
+
+#: user_dashboard_floor.php:256
+msgid "You don't have any plans attached!"
+msgstr "¡No tienes ningún plano adjunto!"
+
+#: user_dashboard_floor.php:278
+msgid "Upload New Plan Image"
+msgstr "Cargar nueva imagen de plano"
+
+#: user_dashboard_floor.php:284
+msgid "Save Plans"
+msgstr "Guardar planos"
+
+#. Template Name of the theme
+msgid "User Dashboard Inbox"
+msgstr ""
+
+#: user_dashboard_inbox.php:38
+msgid "You have"
+msgstr "Tiene"
+
+#: user_dashboard_inbox.php:38
+msgid "unread messages"
+msgstr "Mensajes no leídos"
+
+#. Template Name of the theme
+msgid "User Dashboard Invoices"
+msgstr ""
+
+#: user_dashboard_invoices.php:50
+msgid "No invoices"
+msgstr "Sin órdenes"
+
+#: user_dashboard_invoices.php:70
+msgid "from date"
+msgstr "desde "
+
+#: user_dashboard_invoices.php:74
+msgid "to date"
+msgstr "hasta "
+
+#: user_dashboard_invoices.php:80 user_dashboard_invoices.php:90
+msgid "Any"
+msgstr "Cualquier"
+
+#: user_dashboard_invoices.php:82
+msgid "Publish Listing with Featured"
+msgstr "Publicar listado con destacado"
+
+#: user_dashboard_invoices.php:101
+msgid "Total Invoices: "
+msgstr "Total órdenes: "
+
+#: user_dashboard_invoices.php:108
+msgid "Title"
+msgstr "Título"
+
+#: user_dashboard_invoices.php:112
+msgid "Date"
+msgstr "Fecha"
+
+#: user_dashboard_invoices.php:116
+msgid "Invoice Type"
+msgstr "Tipo de orden"
+
+#: user_dashboard_invoices.php:120
+msgid "Billing Type"
+msgstr "Tipo de facturación"
+
+#: user_dashboard_invoices.php:124
+msgid "Status"
+msgstr "Estado"
+
+#. Template Name of the theme
+msgid "User Dashboard Profile Page"
+msgstr "Panel de usuario Perfil"
+
+#. Template Name of the theme
+msgid "User Dashboard  Saved Searches"
+msgstr ""
+
+#: user_dashboard_searches.php:63
+msgid "You don't have any saved searches yet!"
+msgstr "¡Aún no tienes búsquedas guardadas!"
+
+#. Template Name of the theme
+msgid "User Dashboard Search Results"
+msgstr ""
+
+#: word_remove.php:15
+msgid "Update the theme & plugins"
+msgstr "Actualice el tema y los complementos"
+
+#: word_remove.php:16
+msgid "Buy new license"
+msgstr "Comprar nueva licencia"
+
+#: word_remove.php:17
+msgid "Change log"
+msgstr "Registro de cambios"
+
+#: word_remove.php:18
+msgid "Get help"
+msgstr "Obtener ayuda"
+
+#: word_remove.php:20
+msgid "Open ticket"
+msgstr "Abrir ticket"
+
+#: word_remove.php:21
+msgid "Documentation"
+msgstr "Documentación"
+
+#: word_remove.php:22
+msgid "Rate us"
+msgstr "Califíquenos"
+
+#: word_remove.php:30
+msgid "Current Version: "
+msgstr "Versión Actual: "
+
+#: word_remove.php:40
+msgid "Start Now"
+msgstr "Comenzar Ahora"
+
+#: word_remove.php:41
+msgid "Site Settings "
+msgstr "Configuración del Sitio "
+
+#: word_remove.php:49
+msgid ""
+"We recommend doing demo import first and then finishing this setup. Adding "
+"Demo import AFTER completing this setup changes your settings options to "
+"demo options. "
+msgstr ""
+"Recomendamos hacer primero la importación de demo y luego terminar esta "
+"configuración. Agregar importación de demostración después de completar esta "
+"configuración cambia las opciones de configuración a opciones de "
+"demostración. "
+
+#: word_remove.php:51
+msgid "Continue"
+msgstr "Continuar"
+
+#: word_remove.php:51
+msgid "OR"
+msgstr "O"
+
+#: word_remove.php:52
+msgid "Import Demo Content"
+msgstr "Importar contenido de demostración"
+
+#: word_remove.php:57
+msgid "Map Settings"
+msgstr "Configuración del mapa"
+
+#: word_remove.php:61
+msgid "Google Maps API KEY"
+msgstr "API Key de Google Maps"
+
+#: word_remove.php:66 word_remove.php:212 word_remove.php:246
+msgid "Previous Step"
+msgstr ""
+
+#: word_remove.php:73
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: word_remove.php:77
+msgid "Select default country"
+msgstr "Seleccionar país predeterminado"
+
+#: word_remove.php:83
+msgid "Currency symbol"
+msgstr "Símbolo de la moneda"
+
+#: word_remove.php:84
+msgid "Set currency symbol for property price."
+msgstr "Establecer símbolo de moneda para el precio de la propiedad."
+
+#: word_remove.php:112
+msgid "square"
+msgstr "cuadrado"
+
+#: word_remove.php:117
+msgid "Measurement Unit"
+msgstr "Unidad de medida"
+
+#: word_remove.php:118
+msgid "Select the measurement unit you will use on the website"
+msgstr "Seleccione la unidad de medida que utilizará en el sitio web"
+
+#: word_remove.php:204
+msgid "Language for datepicker"
+msgstr "Idioma para selector de fechas"
+
+#: word_remove.php:205
+msgid "This applies for the calendar field type available for properties."
+msgstr ""
+
+#: word_remove.php:217
+msgid "Apperance Options"
+msgstr "Opciones de apariencia"
+
+#: word_remove.php:219
+msgid "standard "
+msgstr "estándar "
+
+#: word_remove.php:220
+msgid "half map"
+msgstr "medio mapa"
+
+#: word_remove.php:225
+msgid "Property List Type for Advanced Search"
+msgstr "Tipo de lista de propiedades para búsqueda avanzada"
+
+#: word_remove.php:226
+msgid "Select standard or half map style for advanced search results page."
+msgstr ""
+"Seleccione el estilo de mapa estándar o medio para la página de resultados "
+"de búsqueda avanzada."
+
+#: word_remove.php:233
+msgid "grid"
+msgstr "rejilla"
+
+#: word_remove.php:234
+msgid "list"
+msgstr "lista"
+
+#: word_remove.php:239
+msgid "Property List display(*global option)"
+msgstr ""
+
+#: word_remove.php:240
+msgid "Select grid or list style for properties list pages."
+msgstr ""
+"Seleccione estilo de grilla o de lista para las páginas de anuncios de "
+"propiedades."
+
+#: word_remove.php:252
+msgid ""
+"For further setup see our help files, knowledgebase articles and tutorials "
+"to help make this process easier and more enjoyable for you: "
+msgstr ""
+"Para obtener más información, consulte nuestros archivos de ayuda, artículos "
+"de la base de conocimientos y tutoriales para ayudar a que este proceso sea "
+"más fácil y placentero para usted: "
+
+#: word_remove.php:252
+msgid "http://help.wpresidence.net/"
+msgstr ""
+
+#: word_remove.php:277
+msgid "Personalize Your Website"
+msgstr ""
+
+#: word_remove.php:279
+msgid "Payments"
+msgstr "Pagos"
+
+#: word_remove.php:360
+msgid "Powered by "
+msgstr "Desarrollado por "
+
+#. Template Name of the theme
+msgid "Zillow Estimate"
+msgstr ""
+
+#: zillow_estimate_page.php:22
+msgid "The state field is empty !"
+msgstr "¡El campo de estado está vacío!"
+
+#: zillow_estimate_page.php:32
+msgid "The City field is empty !"
+msgstr "¡El campo de la ciudad está vacío!"
+
+#: zillow_estimate_page.php:41
+msgid "Your address field is empty!"
+msgstr "¡Tu campo de dirección está vacío!"
+
+#: zillow_estimate_page.php:80
+msgid "On"
+msgstr "En"
+
+#: zillow_estimate_page.php:80
+msgid "this property is estimated at"
+msgstr ""
+
+#: zillow_estimate_page.php:83
+msgid "Address:"
+msgstr "Dirección:"
+
+#: zillow_estimate_page.php:84
+msgid "City:"
+msgstr "Ciudad:"
+
+#: zillow_estimate_page.php:85
+msgid "State:"
+msgstr "Estado:"
+
+#: zillow_estimate_page.php:89
+msgid ""
+"We are sorry, but we don't have an estimation for this property at this "
+"moment!  "
+msgstr ""
+"Lo sentimos, pero no tenemos una estimación para esta propiedad en este "
+"momento!  "
+
+#: zillow_estimate_page.php:93
+msgid "Please fill in the form correctly and try again!"
+msgstr "Por favor complete el formulario correctamente y vuelva a intentarlo!"

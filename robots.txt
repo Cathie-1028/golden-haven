@@ -1,0 +1,15 @@
+User-agent: *
+Sitemap: https://www.goldenhaven.com.ph/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /province/*
+Disallow: /city/*
+Disallow: /area/*
+Disallow: /province/
+Disallow: /city/
+Disallow: /area/
+Disallow: /category/*
+Disallow: /author/*
+Disallow: /author/
+Disallow: /event/
+Disallow: /event/*

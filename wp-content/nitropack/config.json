@@ -1,0 +1,38 @@
+{
+    "www.goldenhaven.com.ph": {
+        "siteId": "xIQUfgVmRHaqgEihmQOjVhyIGMBdmgTS",
+        "siteSecret": "YpxyZ0wxERWBds08lsvDEJWisR6cnVztB6FddVANkBNfIkecdJj2AYwiUTgp4aIX",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "883c250d25d7ed6d93392591345ebb6e",
+        "home_url": "https:\/\/www.goldenhaven.com.ph",
+        "admin_url": "https:\/\/www.goldenhaven.com.ph\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.8"
+    },
+    "localhost": {
+        "siteId": "xIQUfgVmRHaqgEihmQOjVhyIGMBdmgTS",
+        "siteSecret": "YpxyZ0wxERWBds08lsvDEJWisR6cnVztB6FddVANkBNfIkecdJj2AYwiUTgp4aIX",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "883c250d25d7ed6d93392591345ebb6e",
+        "home_url": "http:\/\/localhost",
+        "admin_url": "http:\/\/localhost\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.8"
+    }
+}

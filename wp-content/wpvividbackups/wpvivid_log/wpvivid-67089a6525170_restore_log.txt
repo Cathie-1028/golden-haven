@@ -1,0 +1,1072 @@
+[2024-10-11 03:24:21][notice]Start restoring themes.
+[2024-10-11 03:24:21][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_themes.part002.zip index:0
+[2024-10-11 03:24:22][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_themes.part002.zip index:0 finished.
+[2024-10-11 03:24:22][notice]End restore themes.
+[2024-10-11 03:24:23][notice]Start restoring themes.
+[2024-10-11 03:24:23][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_themes.part001.zip index:0
+[2024-10-11 03:24:24][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_themes.part001.zip index:0 finished.
+[2024-10-11 03:24:24][notice]End restore themes.
+[2024-10-11 03:24:26][notice]Start restoring themes.
+[2024-10-11 03:24:26][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_themes.part001.zip index:1000
+[2024-10-11 03:24:26][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_themes.part001.zip index:1000 finished.
+[2024-10-11 03:24:26][notice]End restore themes.
+[2024-10-11 03:24:27][notice]Start restoring plugin.
+[2024-10-11 03:24:27][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:0
+[2024-10-11 03:24:28][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:0 finished.
+[2024-10-11 03:24:28][notice]End restore plugin.
+[2024-10-11 03:24:29][notice]Start restoring plugin.
+[2024-10-11 03:24:29][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:1000
+[2024-10-11 03:24:30][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:1000 finished.
+[2024-10-11 03:24:30][notice]End restore plugin.
+[2024-10-11 03:24:31][notice]Start restoring plugin.
+[2024-10-11 03:24:31][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:2000
+[2024-10-11 03:24:31][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:2000 finished.
+[2024-10-11 03:24:31][notice]End restore plugin.
+[2024-10-11 03:24:33][notice]Start restoring plugin.
+[2024-10-11 03:24:33][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:3000
+[2024-10-11 03:24:33][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:3000 finished.
+[2024-10-11 03:24:33][notice]End restore plugin.
+[2024-10-11 03:24:35][notice]Start restoring plugin.
+[2024-10-11 03:24:35][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:4000
+[2024-10-11 03:24:35][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:4000 finished.
+[2024-10-11 03:24:35][notice]End restore plugin.
+[2024-10-11 03:24:37][notice]Start restoring plugin.
+[2024-10-11 03:24:37][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:5000
+[2024-10-11 03:24:37][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:5000 finished.
+[2024-10-11 03:24:37][notice]End restore plugin.
+[2024-10-11 03:24:39][notice]Start restoring plugin.
+[2024-10-11 03:24:39][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:6000
+[2024-10-11 03:24:39][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:6000 finished.
+[2024-10-11 03:24:39][notice]End restore plugin.
+[2024-10-11 03:24:41][notice]Start restoring plugin.
+[2024-10-11 03:24:41][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:7000
+[2024-10-11 03:24:41][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:7000 finished.
+[2024-10-11 03:24:41][notice]End restore plugin.
+[2024-10-11 03:24:42][notice]Start restoring plugin.
+[2024-10-11 03:24:42][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:8000
+[2024-10-11 03:24:43][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part002.zip index:8000 finished.
+[2024-10-11 03:24:43][notice]End restore plugin.
+[2024-10-11 03:24:44][notice]Start restoring plugin.
+[2024-10-11 03:24:44][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:0
+[2024-10-11 03:24:44][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:0 finished.
+[2024-10-11 03:24:44][notice]End restore plugin.
+[2024-10-11 03:24:46][notice]Start restoring plugin.
+[2024-10-11 03:24:46][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:1000
+[2024-10-11 03:24:46][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:1000 finished.
+[2024-10-11 03:24:46][notice]End restore plugin.
+[2024-10-11 03:24:48][notice]Start restoring plugin.
+[2024-10-11 03:24:48][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:2000
+[2024-10-11 03:24:48][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:2000 finished.
+[2024-10-11 03:24:48][notice]End restore plugin.
+[2024-10-11 03:24:50][notice]Start restoring plugin.
+[2024-10-11 03:24:50][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:3000
+[2024-10-11 03:24:50][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:3000 finished.
+[2024-10-11 03:24:50][notice]End restore plugin.
+[2024-10-11 03:24:52][notice]Start restoring plugin.
+[2024-10-11 03:24:52][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:4000
+[2024-10-11 03:24:52][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:4000 finished.
+[2024-10-11 03:24:52][notice]End restore plugin.
+[2024-10-11 03:24:53][notice]Start restoring plugin.
+[2024-10-11 03:24:53][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:5000
+[2024-10-11 03:24:54][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:5000 finished.
+[2024-10-11 03:24:54][notice]End restore plugin.
+[2024-10-11 03:24:55][notice]Start restoring plugin.
+[2024-10-11 03:24:55][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:6000
+[2024-10-11 03:24:56][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:6000 finished.
+[2024-10-11 03:24:56][notice]End restore plugin.
+[2024-10-11 03:24:57][notice]Start restoring plugin.
+[2024-10-11 03:24:57][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:7000
+[2024-10-11 03:24:58][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:7000 finished.
+[2024-10-11 03:24:58][notice]End restore plugin.
+[2024-10-11 03:24:59][notice]Start restoring plugin.
+[2024-10-11 03:24:59][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:8000
+[2024-10-11 03:25:00][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:8000 finished.
+[2024-10-11 03:25:00][notice]End restore plugin.
+[2024-10-11 03:25:01][notice]Start restoring plugin.
+[2024-10-11 03:25:01][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:9000
+[2024-10-11 03:25:02][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:9000 finished.
+[2024-10-11 03:25:02][notice]End restore plugin.
+[2024-10-11 03:25:03][notice]Start restoring plugin.
+[2024-10-11 03:25:03][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:10000
+[2024-10-11 03:25:04][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:10000 finished.
+[2024-10-11 03:25:04][notice]End restore plugin.
+[2024-10-11 03:25:05][notice]Start restoring plugin.
+[2024-10-11 03:25:05][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:11000
+[2024-10-11 03:25:05][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:11000 finished.
+[2024-10-11 03:25:05][notice]End restore plugin.
+[2024-10-11 03:25:07][notice]Start restoring plugin.
+[2024-10-11 03:25:07][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:12000
+[2024-10-11 03:25:07][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:12000 finished.
+[2024-10-11 03:25:07][notice]End restore plugin.
+[2024-10-11 03:25:09][notice]Start restoring plugin.
+[2024-10-11 03:25:09][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:13000
+[2024-10-11 03:25:09][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:13000 finished.
+[2024-10-11 03:25:09][notice]End restore plugin.
+[2024-10-11 03:25:11][notice]Start restoring plugin.
+[2024-10-11 03:25:11][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:14000
+[2024-10-11 03:25:11][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:14000 finished.
+[2024-10-11 03:25:11][notice]End restore plugin.
+[2024-10-11 03:25:13][notice]Start restoring plugin.
+[2024-10-11 03:25:13][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:15000
+[2024-10-11 03:25:13][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:15000 finished.
+[2024-10-11 03:25:13][notice]End restore plugin.
+[2024-10-11 03:25:15][notice]Start restoring plugin.
+[2024-10-11 03:25:15][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:16000
+[2024-10-11 03:25:15][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:16000 finished.
+[2024-10-11 03:25:15][notice]End restore plugin.
+[2024-10-11 03:25:17][notice]Start restoring plugin.
+[2024-10-11 03:25:17][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:17000
+[2024-10-11 03:25:17][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_plugin.part001.zip index:17000 finished.
+[2024-10-11 03:25:17][notice]End restore plugin.
+[2024-10-11 03:25:19][notice]Start restoring wp-content.
+[2024-10-11 03:25:19][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_content.zip index:0
+[2024-10-11 03:25:19][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_content.zip index:0 finished.
+[2024-10-11 03:25:19][notice]End restore wp-content.
+[2024-10-11 03:25:20][notice]Start restoring upload.
+[2024-10-11 03:25:20][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_uploads.zip index:0
+[2024-10-11 03:25:20][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_uploads.zip index:0 finished.
+[2024-10-11 03:25:20][notice]End restore upload.
+[2024-10-11 03:25:22][notice]Start restoring wp-core.
+[2024-10-11 03:25:22][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_core.zip
+[2024-10-11 03:25:23][notice]Extracting file:localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_core.zip succeeded.
+[2024-10-11 03:25:23][notice]End restore wp-core.
+[2024-10-11 03:25:26][notice]Start restoring databases.
+[2024-10-11 03:25:26][notice]Extracting file:/Applications/MAMP/htdocs/golden-haven/wp-content/wpvividbackups/localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_db.zip
+[2024-10-11 03:25:27][notice]Extracting file:/Applications/MAMP/htdocs/golden-haven/wp-content/wpvividbackups/localhost_wpvivid-5a5fcf8798590_2024-10-10-16-48_backup_db.zip finished.
+[2024-10-11 03:25:27][notice]End restore databases.
+[2024-10-11 03:25:29][notice]Start restoring databases.
+[2024-10-11 03:25:29][notice]Start restoring sql file offset:0
+[2024-10-11 03:25:29][notice]The test to drop table succeeds.
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_cli_cookie_scan_cookies
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_cli_cookie_scan_cookies
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wflocs
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wflocs
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_static_slides_bkp
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_static_slides_bkp
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_tap_limitations
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_tap_limitations
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_tap_error_log
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_tap_error_log
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_post_smtp_logmeta
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_post_smtp_logmeta
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ycd_subscribers
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ycd_subscribers
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wprss_logs
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wprss_logs
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wpforms_tasks_meta
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wpforms_tasks_meta
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wftrafficrates
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wftrafficrates
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_static_slides
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_static_slides
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ea_options
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ea_options
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_css_bkp
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_css_bkp
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_layer_animations
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_layer_animations
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_layer_animations_bkp
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_layer_animations_bkp
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_navigations
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_navigations
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_navigations_bkp
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_navigations_bkp
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_slides_bkp
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_slides_bkp
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ea_services
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ea_services
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ea_staff
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ea_staff
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ea_meta_fields
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ea_meta_fields
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wfcrawlers
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wfcrawlers
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_cli_cookie_scan
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_cli_cookie_scan
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_cli_cookie_scan_url
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_cli_cookie_scan_url
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_cli_scripts
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_cli_scripts
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wfls_settings
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wfls_settings
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wfnotifications
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wfnotifications
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ea_locations
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ea_locations
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wffilechanges
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wffilechanges
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ea_error_logs
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ea_error_logs
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wfreversecache
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wfreversecache
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_ea_fields
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_ea_fields
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_revslider_sliders_bkp
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_revslider_sliders_bkp
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_duplicator_packages
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_duplicator_packages
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_yoast_migrations
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_yoast_migrations
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wflivetraffichuman
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wflivetraffichuman
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_links
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_links
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_cli_cookie_scan_categories
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_cli_cookie_scan_categories
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_actionscheduler_claims
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_actionscheduler_claims
+[2024-10-11 03:25:29][notice]Drop table if exist tmp1f8119_wfhoover
+[2024-10-11 03:25:29][notice]Creating table tmp1f8119_wfhoover
+[2024-10-11 03:25:33][notice]Drop table if exist tmp1f8119_wfls_2fa_secrets
+[2024-10-11 03:25:33][notice]Creating table tmp1f8119_wfls_2fa_secrets
+[2024-10-11 03:25:33][notice]Drop table if exist tmp1f8119_actionscheduler_groups
+[2024-10-11 03:25:33][notice]Creating table tmp1f8119_actionscheduler_groups
+[2024-10-11 03:25:33][notice]Drop table if exist tmp1f8119_smush_dir_images
+[2024-10-11 03:25:33][notice]Creating table tmp1f8119_smush_dir_images
+[2024-10-11 03:25:33][notice]Drop table if exist tmp1f8119_sby_feed_locator
+[2024-10-11 03:25:33][notice]Creating table tmp1f8119_sby_feed_locator
+[2024-10-11 03:25:33][notice]Drop table if exist tmp1f8119_yoast_seo_links
+[2024-10-11 03:25:33][notice]Creating table tmp1f8119_yoast_seo_links
+[2024-10-11 03:25:34][notice]Reading sql file completed offset:5243060
+[2024-10-11 03:25:34][notice]End restore databases.
+[2024-10-11 03:25:35][notice]Start restoring databases.
+[2024-10-11 03:25:35][notice]Start restoring sql file offset:5243060
+[2024-10-11 03:25:35][notice]The test to drop table succeeds.
+[2024-10-11 03:25:36][notice]Drop table if exist tmp1f8119_commentmeta
+[2024-10-11 03:25:36][notice]Creating table tmp1f8119_commentmeta
+[2024-10-11 03:25:36][notice]Drop table if exist tmp1f8119_automationmeta
+[2024-10-11 03:25:36][notice]Creating table tmp1f8119_automationmeta
+[2024-10-11 03:25:36][notice]Drop table if exist tmp1f8119_redirection_groups
+[2024-10-11 03:25:36][notice]Creating table tmp1f8119_redirection_groups
+[2024-10-11 03:25:36][notice]Drop table if exist tmp1f8119_actionscheduler_logs
+[2024-10-11 03:25:36][notice]Creating table tmp1f8119_actionscheduler_logs
+[2024-10-11 03:25:36][notice]Drop table if exist tmp1f8119_yoast_primary_term
+[2024-10-11 03:25:36][notice]Creating table tmp1f8119_yoast_primary_term
+[2024-10-11 03:25:36][notice]Drop table if exist tmp1f8119_litespeed_url
+[2024-10-11 03:25:36][notice]Creating table tmp1f8119_litespeed_url
+[2024-10-11 03:25:36][notice]Drop table if exist tmp1f8119_yoast_prominent_words
+[2024-10-11 03:25:36][notice]Creating table tmp1f8119_yoast_prominent_words
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_ea_appointments
+[2024-10-11 03:25:37][notice]replace foreign key.
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_ea_appointments
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_wfblocks7
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_wfblocks7
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_users
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_users
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_ea_connections
+[2024-10-11 03:25:37][notice]replace foreign key.
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_ea_connections
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_redirection_logs
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_redirection_logs
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_wfsnipcache
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_wfsnipcache
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_termmeta
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_termmeta
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_wfpendingissues
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_wfpendingissues
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_pum_subscribers
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_pum_subscribers
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_wfblockediplog
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_wfblockediplog
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_term_taxonomy
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_term_taxonomy
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_litespeed_url_file
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_litespeed_url_file
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_terms
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_terms
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_revslider_sliders
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_revslider_sliders
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_yoast_indexable
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_yoast_indexable
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_redirection_items
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_redirection_items
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_actionscheduler_actions
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_actionscheduler_actions
+[2024-10-11 03:25:37][notice]Drop table if exist tmp1f8119_revslider_css
+[2024-10-11 03:25:37][notice]Creating table tmp1f8119_revslider_css
+[2024-10-11 03:25:38][notice]Drop table if exist tmp1f8119_wfissues
+[2024-10-11 03:25:38][notice]Creating table tmp1f8119_wfissues
+[2024-10-11 03:25:38][notice]Drop table if exist tmp1f8119_wfstatus
+[2024-10-11 03:25:38][notice]Creating table tmp1f8119_wfstatus
+[2024-10-11 03:25:38][notice]Drop table if exist tmp1f8119_yoast_indexable_hierarchy
+[2024-10-11 03:25:38][notice]Creating table tmp1f8119_yoast_indexable_hierarchy
+[2024-10-11 03:25:38][notice]Drop table if exist tmp1f8119_usermeta
+[2024-10-11 03:25:38][notice]Creating table tmp1f8119_usermeta
+[2024-10-11 03:25:38][notice]Drop table if exist tmp1f8119_term_relationships
+[2024-10-11 03:25:38][notice]Creating table tmp1f8119_term_relationships
+[2024-10-11 03:25:39][notice]Drop table if exist tmp1f8119_wflogins
+[2024-10-11 03:25:39][notice]Creating table tmp1f8119_wflogins
+[2024-10-11 03:25:40][notice]Drop table if exist tmp1f8119_post_smtp_logs
+[2024-10-11 03:25:40][notice]Creating table tmp1f8119_post_smtp_logs
+[2024-10-11 03:25:40][notice]Drop table if exist tmp1f8119_revslider_slides
+[2024-10-11 03:25:40][notice]Creating table tmp1f8119_revslider_slides
+[2024-10-11 03:25:40][notice]Reading sql file completed offset:10490519
+[2024-10-11 03:25:40][notice]End restore databases.
+[2024-10-11 03:25:42][notice]Start restoring databases.
+[2024-10-11 03:25:42][notice]Start restoring sql file offset:10490519
+[2024-10-11 03:25:42][notice]The test to drop table succeeds.
+[2024-10-11 03:25:42][notice]Drop table if exist tmp1f8119_wfconfig
+[2024-10-11 03:25:42][notice]Creating table tmp1f8119_wfconfig
+[2024-10-11 03:25:42][notice]Drop table if exist tmp1f8119_wfhits
+[2024-10-11 03:25:42][notice]Creating table tmp1f8119_wfhits
+[2024-10-11 03:25:42][notice]Reading sql file completed offset:15733645
+[2024-10-11 03:25:42][notice]End restore databases.
+[2024-10-11 03:25:44][notice]Start restoring databases.
+[2024-10-11 03:25:44][notice]Start restoring sql file offset:15733645
+[2024-10-11 03:25:44][notice]The test to drop table succeeds.
+[2024-10-11 03:25:44][notice]Drop table if exist tmp1f8119_wfknownfilelist
+[2024-10-11 03:25:44][notice]Creating table tmp1f8119_wfknownfilelist
+[2024-10-11 03:25:47][notice]Drop table if exist tmp1f8119_wffilemods
+[2024-10-11 03:25:47][notice]Creating table tmp1f8119_wffilemods
+[2024-10-11 03:25:48][notice]Reading sql file completed offset:20976563
+[2024-10-11 03:25:48][notice]End restore databases.
+[2024-10-11 03:25:50][notice]Start restoring databases.
+[2024-10-11 03:25:50][notice]Start restoring sql file offset:20976563
+[2024-10-11 03:25:50][notice]The test to drop table succeeds.
+[2024-10-11 03:25:52][notice]Reading sql file completed offset:26219540
+[2024-10-11 03:25:52][notice]End restore databases.
+[2024-10-11 03:25:53][notice]Start restoring databases.
+[2024-10-11 03:25:53][notice]Start restoring sql file offset:26219540
+[2024-10-11 03:25:53][notice]The test to drop table succeeds.
+[2024-10-11 03:25:53][notice]Drop table if exist tmp1f8119_options
+[2024-10-11 03:25:53][notice]Creating table tmp1f8119_options
+[2024-10-11 03:25:54][notice]Reading sql file completed offset:31895838
+[2024-10-11 03:25:54][notice]End restore databases.
+[2024-10-11 03:25:56][notice]Start restoring databases.
+[2024-10-11 03:25:56][notice]Start restoring sql file offset:31895838
+[2024-10-11 03:25:56][notice]The test to drop table succeeds.
+[2024-10-11 03:25:56][notice]Drop table if exist tmp1f8119_comments
+[2024-10-11 03:25:56][notice]Creating table tmp1f8119_comments
+[2024-10-11 03:25:58][notice]Reading sql file completed offset:37139713
+[2024-10-11 03:25:58][notice]End restore databases.
+[2024-10-11 03:26:00][notice]Start restoring databases.
+[2024-10-11 03:26:00][notice]Start restoring sql file offset:37139713
+[2024-10-11 03:26:00][notice]The test to drop table succeeds.
+[2024-10-11 03:26:00][notice]Drop table if exist tmp1f8119_db7_forms
+[2024-10-11 03:26:00][notice]Creating table tmp1f8119_db7_forms
+[2024-10-11 03:26:01][notice]Reading sql file completed offset:42382786
+[2024-10-11 03:26:01][notice]End restore databases.
+[2024-10-11 03:26:03][notice]Start restoring databases.
+[2024-10-11 03:26:03][notice]Start restoring sql file offset:42382786
+[2024-10-11 03:26:03][notice]The test to drop table succeeds.
+[2024-10-11 03:26:04][notice]Reading sql file completed offset:47625841
+[2024-10-11 03:26:04][notice]End restore databases.
+[2024-10-11 03:26:06][notice]Start restoring databases.
+[2024-10-11 03:26:06][notice]Start restoring sql file offset:47625841
+[2024-10-11 03:26:06][notice]The test to drop table succeeds.
+[2024-10-11 03:26:07][notice]Reading sql file completed offset:52873420
+[2024-10-11 03:26:07][notice]End restore databases.
+[2024-10-11 03:26:09][notice]Start restoring databases.
+[2024-10-11 03:26:09][notice]Start restoring sql file offset:52873420
+[2024-10-11 03:26:09][notice]The test to drop table succeeds.
+[2024-10-11 03:26:10][notice]Reading sql file completed offset:58116543
+[2024-10-11 03:26:10][notice]End restore databases.
+[2024-10-11 03:26:11][notice]Start restoring databases.
+[2024-10-11 03:26:11][notice]Start restoring sql file offset:58116543
+[2024-10-11 03:26:12][notice]The test to drop table succeeds.
+[2024-10-11 03:26:12][notice]Reading sql file completed offset:63359984
+[2024-10-11 03:26:12][notice]End restore databases.
+[2024-10-11 03:26:14][notice]Start restoring databases.
+[2024-10-11 03:26:14][notice]Start restoring sql file offset:63359984
+[2024-10-11 03:26:14][notice]The test to drop table succeeds.
+[2024-10-11 03:26:15][notice]Reading sql file completed offset:68602963
+[2024-10-11 03:26:15][notice]End restore databases.
+[2024-10-11 03:26:17][notice]Start restoring databases.
+[2024-10-11 03:26:17][notice]Start restoring sql file offset:68602963
+[2024-10-11 03:26:17][notice]The test to drop table succeeds.
+[2024-10-11 03:26:18][notice]Reading sql file completed offset:73846031
+[2024-10-11 03:26:18][notice]End restore databases.
+[2024-10-11 03:26:20][notice]Start restoring databases.
+[2024-10-11 03:26:20][notice]Start restoring sql file offset:73846031
+[2024-10-11 03:26:20][notice]The test to drop table succeeds.
+[2024-10-11 03:26:21][notice]Reading sql file completed offset:79089171
+[2024-10-11 03:26:21][notice]End restore databases.
+[2024-10-11 03:26:23][notice]Start restoring databases.
+[2024-10-11 03:26:23][notice]Start restoring sql file offset:79089171
+[2024-10-11 03:26:23][notice]The test to drop table succeeds.
+[2024-10-11 03:26:24][notice]Reading sql file completed offset:84334192
+[2024-10-11 03:26:24][notice]End restore databases.
+[2024-10-11 03:26:26][notice]Start restoring databases.
+[2024-10-11 03:26:26][notice]Start restoring sql file offset:84334192
+[2024-10-11 03:26:26][notice]The test to drop table succeeds.
+[2024-10-11 03:26:27][notice]Reading sql file completed offset:89624322
+[2024-10-11 03:26:27][notice]End restore databases.
+[2024-10-11 03:26:29][notice]Start restoring databases.
+[2024-10-11 03:26:29][notice]Start restoring sql file offset:89624322
+[2024-10-11 03:26:29][notice]The test to drop table succeeds.
+[2024-10-11 03:26:30][notice]Reading sql file completed offset:94868849
+[2024-10-11 03:26:30][notice]End restore databases.
+[2024-10-11 03:26:32][notice]Start restoring databases.
+[2024-10-11 03:26:32][notice]Start restoring sql file offset:94868849
+[2024-10-11 03:26:32][notice]The test to drop table succeeds.
+[2024-10-11 03:26:32][notice]Drop table if exist tmp1f8119_postmeta
+[2024-10-11 03:26:32][notice]Creating table tmp1f8119_postmeta
+[2024-10-11 03:26:36][notice]Reading sql file completed offset:100136631
+[2024-10-11 03:26:36][notice]End restore databases.
+[2024-10-11 03:26:37][notice]Start restoring databases.
+[2024-10-11 03:26:37][notice]Start restoring sql file offset:100136631
+[2024-10-11 03:26:37][notice]The test to drop table succeeds.
+[2024-10-11 03:26:38][notice]Reading sql file completed offset:105458825
+[2024-10-11 03:26:38][notice]End restore databases.
+[2024-10-11 03:26:40][notice]Start restoring databases.
+[2024-10-11 03:26:40][notice]Start restoring sql file offset:105458825
+[2024-10-11 03:26:40][notice]The test to drop table succeeds.
+[2024-10-11 03:26:40][notice]Reading sql file completed offset:110738144
+[2024-10-11 03:26:40][notice]End restore databases.
+[2024-10-11 03:26:42][notice]Start restoring databases.
+[2024-10-11 03:26:42][notice]Start restoring sql file offset:110738144
+[2024-10-11 03:26:42][notice]The test to drop table succeeds.
+[2024-10-11 03:26:43][notice]Reading sql file completed offset:115983579
+[2024-10-11 03:26:43][notice]End restore databases.
+[2024-10-11 03:26:44][notice]Start restoring databases.
+[2024-10-11 03:26:44][notice]Start restoring sql file offset:115983579
+[2024-10-11 03:26:44][notice]The test to drop table succeeds.
+[2024-10-11 03:26:45][notice]Reading sql file completed offset:121227317
+[2024-10-11 03:26:45][notice]End restore databases.
+[2024-10-11 03:26:47][notice]Start restoring databases.
+[2024-10-11 03:26:47][notice]Start restoring sql file offset:121227317
+[2024-10-11 03:26:47][notice]The test to drop table succeeds.
+[2024-10-11 03:26:48][notice]Reading sql file completed offset:126470324
+[2024-10-11 03:26:48][notice]End restore databases.
+[2024-10-11 03:26:49][notice]Start restoring databases.
+[2024-10-11 03:26:49][notice]Start restoring sql file offset:126470324
+[2024-10-11 03:26:49][notice]The test to drop table succeeds.
+[2024-10-11 03:26:51][notice]Reading sql file completed offset:131723784
+[2024-10-11 03:26:51][notice]End restore databases.
+[2024-10-11 03:26:52][notice]Start restoring databases.
+[2024-10-11 03:26:52][notice]Start restoring sql file offset:131723784
+[2024-10-11 03:26:52][notice]The test to drop table succeeds.
+[2024-10-11 03:26:53][notice]Reading sql file completed offset:136989691
+[2024-10-11 03:26:53][notice]End restore databases.
+[2024-10-11 03:26:55][notice]Start restoring databases.
+[2024-10-11 03:26:55][notice]Start restoring sql file offset:136989691
+[2024-10-11 03:26:55][notice]The test to drop table succeeds.
+[2024-10-11 03:26:56][notice]Reading sql file completed offset:142233378
+[2024-10-11 03:26:56][notice]End restore databases.
+[2024-10-11 03:26:58][notice]Start restoring databases.
+[2024-10-11 03:26:58][notice]Start restoring sql file offset:142233378
+[2024-10-11 03:26:58][notice]The test to drop table succeeds.
+[2024-10-11 03:26:59][notice]Reading sql file completed offset:147490006
+[2024-10-11 03:26:59][notice]End restore databases.
+[2024-10-11 03:27:01][notice]Start restoring databases.
+[2024-10-11 03:27:01][notice]Start restoring sql file offset:147490006
+[2024-10-11 03:27:01][notice]The test to drop table succeeds.
+[2024-10-11 03:27:02][notice]Reading sql file completed offset:152732960
+[2024-10-11 03:27:02][notice]End restore databases.
+[2024-10-11 03:27:03][notice]Start restoring databases.
+[2024-10-11 03:27:03][notice]Start restoring sql file offset:152732960
+[2024-10-11 03:27:03][notice]The test to drop table succeeds.
+[2024-10-11 03:27:05][notice]Reading sql file completed offset:157978065
+[2024-10-11 03:27:05][notice]End restore databases.
+[2024-10-11 03:27:06][notice]Start restoring databases.
+[2024-10-11 03:27:06][notice]Start restoring sql file offset:157978065
+[2024-10-11 03:27:06][notice]The test to drop table succeeds.
+[2024-10-11 03:27:07][notice]Drop table if exist tmp1f8119_posts
+[2024-10-11 03:27:07][notice]Creating table tmp1f8119_posts
+[2024-10-11 03:27:07][notice]Reading sql file completed offset:163251391
+[2024-10-11 03:27:07][notice]End restore databases.
+[2024-10-11 03:27:09][notice]Start restoring databases.
+[2024-10-11 03:27:09][notice]Start restoring sql file offset:163251391
+[2024-10-11 03:27:09][notice]The test to drop table succeeds.
+[2024-10-11 03:27:11][notice]Reading sql file completed offset:168521551
+[2024-10-11 03:27:11][notice]End restore databases.
+[2024-10-11 03:27:13][notice]Start restoring databases.
+[2024-10-11 03:27:13][notice]Start restoring sql file offset:168521551
+[2024-10-11 03:27:13][notice]The test to drop table succeeds.
+[2024-10-11 03:27:14][notice]Reading sql file completed offset:174338035
+[2024-10-11 03:27:14][notice]End restore databases.
+[2024-10-11 03:27:16][notice]Start restoring databases.
+[2024-10-11 03:27:16][notice]Start restoring sql file offset:174338035
+[2024-10-11 03:27:16][notice]The test to drop table succeeds.
+[2024-10-11 03:27:17][notice]Reading sql file completed offset:179625150
+[2024-10-11 03:27:17][notice]End restore databases.
+[2024-10-11 03:27:19][notice]Start restoring databases.
+[2024-10-11 03:27:19][notice]Start restoring sql file offset:179625150
+[2024-10-11 03:27:19][notice]The test to drop table succeeds.
+[2024-10-11 03:27:20][notice]Reading sql file completed offset:184879354
+[2024-10-11 03:27:20][notice]End restore databases.
+[2024-10-11 03:27:22][notice]Start restoring databases.
+[2024-10-11 03:27:22][notice]Start restoring sql file offset:184879354
+[2024-10-11 03:27:22][notice]The test to drop table succeeds.
+[2024-10-11 03:27:23][notice]Reading sql file completed offset:190149152
+[2024-10-11 03:27:23][notice]End restore databases.
+[2024-10-11 03:27:25][notice]Start restoring databases.
+[2024-10-11 03:27:25][notice]Start restoring sql file offset:190149152
+[2024-10-11 03:27:25][notice]The test to drop table succeeds.
+[2024-10-11 03:27:27][notice]Reading sql file completed offset:195397704
+[2024-10-11 03:27:27][notice]End restore databases.
+[2024-10-11 03:27:29][notice]Start restoring databases.
+[2024-10-11 03:27:29][notice]Start restoring sql file offset:195397704
+[2024-10-11 03:27:29][notice]The test to drop table succeeds.
+[2024-10-11 03:27:30][notice]Reading sql file completed offset:200650543
+[2024-10-11 03:27:30][notice]End restore databases.
+[2024-10-11 03:27:32][notice]Start restoring databases.
+[2024-10-11 03:27:32][notice]Start restoring sql file offset:200650543
+[2024-10-11 03:27:32][notice]The test to drop table succeeds.
+[2024-10-11 03:27:34][notice]Reading sql file completed offset:205897515
+[2024-10-11 03:27:34][notice]End restore databases.
+[2024-10-11 03:27:35][notice]Start restoring databases.
+[2024-10-11 03:27:35][notice]Start restoring sql file offset:205897515
+[2024-10-11 03:27:35][notice]The test to drop table succeeds.
+[2024-10-11 03:27:37][notice]Reading sql file completed offset:211147146
+[2024-10-11 03:27:37][notice]End restore databases.
+[2024-10-11 03:27:39][notice]Start restoring databases.
+[2024-10-11 03:27:39][notice]Start restoring sql file offset:211147146
+[2024-10-11 03:27:39][notice]The test to drop table succeeds.
+[2024-10-11 03:27:40][notice]Reading sql file completed offset:216391734
+[2024-10-11 03:27:40][notice]End restore databases.
+[2024-10-11 03:27:42][notice]Start restoring databases.
+[2024-10-11 03:27:42][notice]Start restoring sql file offset:216391734
+[2024-10-11 03:27:42][notice]The test to drop table succeeds.
+[2024-10-11 03:27:43][notice]Reading sql file completed offset:221644487
+[2024-10-11 03:27:43][notice]End restore databases.
+[2024-10-11 03:27:45][notice]Start restoring databases.
+[2024-10-11 03:27:45][notice]Start restoring sql file offset:221644487
+[2024-10-11 03:27:45][notice]The test to drop table succeeds.
+[2024-10-11 03:27:45][notice]Reading sql file completed offset:226892755
+[2024-10-11 03:27:45][notice]End restore databases.
+[2024-10-11 03:27:47][notice]Start restoring databases.
+[2024-10-11 03:27:47][notice]Start restoring sql file offset:226892755
+[2024-10-11 03:27:47][notice]The test to drop table succeeds.
+[2024-10-11 03:27:47][notice]End restore databases.
+[2024-10-11 03:27:49][notice]Start restoring databases.
+[2024-10-11 03:27:49][notice]Start restoring sql file offset:0
+[2024-10-11 03:27:49][notice]The test to drop table succeeds.
+[2024-10-11 03:27:50][notice]Drop table if exist tmp1f8119_redirection_404
+[2024-10-11 03:27:50][notice]Creating table tmp1f8119_redirection_404
+[2024-10-11 03:27:50][notice]Start replacing table tmp1f8119_cli_cookie_scan_cookies offset:0
+[2024-10-11 03:27:50][notice]
+[2024-10-11 03:27:50][notice]End restore databases.
+[2024-10-11 03:27:52][notice]Start restoring databases.
+[2024-10-11 03:27:52][notice]Start replacing table tmp1f8119_wflocs offset:0
+[2024-10-11 03:27:52][notice]
+[2024-10-11 03:27:52][notice]End restore databases.
+[2024-10-11 03:27:53][notice]Start restoring databases.
+[2024-10-11 03:27:53][notice]Start replacing table tmp1f8119_revslider_static_slides_bkp offset:0
+[2024-10-11 03:27:53][notice]
+[2024-10-11 03:27:53][notice]End restore databases.
+[2024-10-11 03:27:55][notice]Start restoring databases.
+[2024-10-11 03:27:55][notice]Start replacing table tmp1f8119_tap_limitations offset:0
+[2024-10-11 03:27:55][notice]
+[2024-10-11 03:27:55][notice]End restore databases.
+[2024-10-11 03:27:57][notice]Start restoring databases.
+[2024-10-11 03:27:57][notice]Start replacing table tmp1f8119_tap_error_log offset:0
+[2024-10-11 03:27:57][notice]
+[2024-10-11 03:27:57][notice]End restore databases.
+[2024-10-11 03:27:59][notice]Start restoring databases.
+[2024-10-11 03:27:59][notice]Start replacing table tmp1f8119_post_smtp_logmeta offset:0
+[2024-10-11 03:27:59][notice]
+[2024-10-11 03:27:59][notice]End restore databases.
+[2024-10-11 03:28:01][notice]Start restoring databases.
+[2024-10-11 03:28:01][notice]Start replacing table tmp1f8119_ycd_subscribers offset:0
+[2024-10-11 03:28:01][notice]
+[2024-10-11 03:28:01][notice]End restore databases.
+[2024-10-11 03:28:02][notice]Start restoring databases.
+[2024-10-11 03:28:02][notice]Start replacing table tmp1f8119_wprss_logs offset:0
+[2024-10-11 03:28:02][notice]
+[2024-10-11 03:28:02][notice]End restore databases.
+[2024-10-11 03:28:04][notice]Start restoring databases.
+[2024-10-11 03:28:04][notice]Start replacing table tmp1f8119_wpforms_tasks_meta offset:0
+[2024-10-11 03:28:04][notice]
+[2024-10-11 03:28:04][notice]End restore databases.
+[2024-10-11 03:28:06][notice]Start restoring databases.
+[2024-10-11 03:28:06][notice]Start replacing table tmp1f8119_wftrafficrates offset:0
+[2024-10-11 03:28:06][notice]
+[2024-10-11 03:28:06][notice]End restore databases.
+[2024-10-11 03:28:08][notice]Start restoring databases.
+[2024-10-11 03:28:08][notice]Start replacing table tmp1f8119_revslider_static_slides offset:0
+[2024-10-11 03:28:08][notice]
+[2024-10-11 03:28:08][notice]End restore databases.
+[2024-10-11 03:28:09][notice]Start restoring databases.
+[2024-10-11 03:28:09][notice]Start replacing table tmp1f8119_ea_options offset:0
+[2024-10-11 03:28:09][notice]
+[2024-10-11 03:28:09][notice]End restore databases.
+[2024-10-11 03:28:11][notice]Start restoring databases.
+[2024-10-11 03:28:11][notice]Start replacing table tmp1f8119_revslider_css_bkp offset:0
+[2024-10-11 03:28:11][notice]
+[2024-10-11 03:28:11][notice]End restore databases.
+[2024-10-11 03:28:13][notice]Start restoring databases.
+[2024-10-11 03:28:13][notice]Start replacing table tmp1f8119_revslider_layer_animations offset:0
+[2024-10-11 03:28:13][notice]
+[2024-10-11 03:28:13][notice]End restore databases.
+[2024-10-11 03:28:16][notice]Start restoring databases.
+[2024-10-11 03:28:16][notice]Start replacing table tmp1f8119_revslider_layer_animations_bkp offset:0
+[2024-10-11 03:28:16][notice]
+[2024-10-11 03:28:16][notice]End restore databases.
+[2024-10-11 03:28:18][notice]Start restoring databases.
+[2024-10-11 03:28:18][notice]Start replacing table tmp1f8119_revslider_navigations offset:0
+[2024-10-11 03:28:18][notice]
+[2024-10-11 03:28:18][notice]End restore databases.
+[2024-10-11 03:28:19][notice]Start restoring databases.
+[2024-10-11 03:28:19][notice]Start replacing table tmp1f8119_revslider_navigations_bkp offset:0
+[2024-10-11 03:28:19][notice]
+[2024-10-11 03:28:19][notice]End restore databases.
+[2024-10-11 03:28:21][notice]Start restoring databases.
+[2024-10-11 03:28:21][notice]Start replacing table tmp1f8119_revslider_slides_bkp offset:0
+[2024-10-11 03:28:21][notice]
+[2024-10-11 03:28:21][notice]End restore databases.
+[2024-10-11 03:28:23][notice]Start restoring databases.
+[2024-10-11 03:28:23][notice]Start replacing table tmp1f8119_ea_services offset:0
+[2024-10-11 03:28:23][notice]
+[2024-10-11 03:28:23][notice]End restore databases.
+[2024-10-11 03:28:25][notice]Start restoring databases.
+[2024-10-11 03:28:25][notice]Start replacing table tmp1f8119_ea_staff offset:0
+[2024-10-11 03:28:25][notice]
+[2024-10-11 03:28:25][notice]End restore databases.
+[2024-10-11 03:28:27][notice]Start restoring databases.
+[2024-10-11 03:28:27][notice]Start replacing table tmp1f8119_ea_meta_fields offset:0
+[2024-10-11 03:28:27][notice]
+[2024-10-11 03:28:27][notice]End restore databases.
+[2024-10-11 03:28:28][notice]Start restoring databases.
+[2024-10-11 03:28:28][notice]Start replacing table tmp1f8119_wfcrawlers offset:0
+[2024-10-11 03:28:28][notice]
+[2024-10-11 03:28:28][notice]End restore databases.
+[2024-10-11 03:28:30][notice]Start restoring databases.
+[2024-10-11 03:28:30][notice]Start replacing table tmp1f8119_cli_cookie_scan offset:0
+[2024-10-11 03:28:30][notice]
+[2024-10-11 03:28:30][notice]End restore databases.
+[2024-10-11 03:28:32][notice]Start restoring databases.
+[2024-10-11 03:28:32][notice]Start replacing table tmp1f8119_cli_cookie_scan_url offset:0
+[2024-10-11 03:28:32][notice]
+[2024-10-11 03:28:32][notice]End restore databases.
+[2024-10-11 03:28:34][notice]Start restoring databases.
+[2024-10-11 03:28:34][notice]Start replacing table tmp1f8119_cli_scripts offset:0
+[2024-10-11 03:28:34][notice]
+[2024-10-11 03:28:34][notice]End restore databases.
+[2024-10-11 03:28:36][notice]Start restoring databases.
+[2024-10-11 03:28:36][notice]Start replacing table tmp1f8119_wfls_settings offset:0
+[2024-10-11 03:28:36][notice]
+[2024-10-11 03:28:36][notice]End restore databases.
+[2024-10-11 03:28:37][notice]Start restoring databases.
+[2024-10-11 03:28:37][notice]Start replacing table tmp1f8119_wfnotifications offset:0
+[2024-10-11 03:28:37][notice]
+[2024-10-11 03:28:37][notice]End restore databases.
+[2024-10-11 03:28:39][notice]Start restoring databases.
+[2024-10-11 03:28:39][notice]Start replacing table tmp1f8119_ea_locations offset:0
+[2024-10-11 03:28:39][notice]
+[2024-10-11 03:28:39][notice]End restore databases.
+[2024-10-11 03:28:41][notice]Start restoring databases.
+[2024-10-11 03:28:41][notice]Start replacing table tmp1f8119_wffilechanges offset:0
+[2024-10-11 03:28:41][notice]
+[2024-10-11 03:28:41][notice]End restore databases.
+[2024-10-11 03:28:43][notice]Start restoring databases.
+[2024-10-11 03:28:43][notice]Start replacing table tmp1f8119_ea_error_logs offset:0
+[2024-10-11 03:28:43][notice]
+[2024-10-11 03:28:43][notice]End restore databases.
+[2024-10-11 03:28:45][notice]Start restoring databases.
+[2024-10-11 03:28:45][notice]Start replacing table tmp1f8119_wfreversecache offset:0
+[2024-10-11 03:28:45][notice]
+[2024-10-11 03:28:45][notice]End restore databases.
+[2024-10-11 03:28:46][notice]Start restoring databases.
+[2024-10-11 03:28:46][notice]Start replacing table tmp1f8119_ea_fields offset:0
+[2024-10-11 03:28:46][notice]
+[2024-10-11 03:28:46][notice]End restore databases.
+[2024-10-11 03:28:48][notice]Start restoring databases.
+[2024-10-11 03:28:48][notice]Start replacing table tmp1f8119_revslider_sliders_bkp offset:0
+[2024-10-11 03:28:48][notice]
+[2024-10-11 03:28:48][notice]End restore databases.
+[2024-10-11 03:28:50][notice]Start restoring databases.
+[2024-10-11 03:28:50][notice]Start replacing table tmp1f8119_duplicator_packages offset:0
+[2024-10-11 03:28:50][notice]
+[2024-10-11 03:28:50][notice]End restore databases.
+[2024-10-11 03:28:52][notice]Start restoring databases.
+[2024-10-11 03:28:52][notice]Start replacing table tmp1f8119_yoast_migrations offset:0
+[2024-10-11 03:28:52][notice]
+[2024-10-11 03:28:52][notice]End restore databases.
+[2024-10-11 03:28:54][notice]Start restoring databases.
+[2024-10-11 03:28:54][notice]Start replacing table tmp1f8119_wflivetraffichuman offset:0
+[2024-10-11 03:28:54][notice]
+[2024-10-11 03:28:54][notice]End restore databases.
+[2024-10-11 03:28:55][notice]Start restoring databases.
+[2024-10-11 03:28:55][notice]Start replacing table tmp1f8119_links offset:0
+[2024-10-11 03:28:55][notice]
+[2024-10-11 03:28:55][notice]End restore databases.
+[2024-10-11 03:28:57][notice]Start restoring databases.
+[2024-10-11 03:28:57][notice]Start replacing table tmp1f8119_cli_cookie_scan_categories offset:0
+[2024-10-11 03:28:57][notice]
+[2024-10-11 03:28:57][notice]End restore databases.
+[2024-10-11 03:28:59][notice]Start restoring databases.
+[2024-10-11 03:28:59][notice]Start replacing table tmp1f8119_actionscheduler_claims offset:0
+[2024-10-11 03:28:59][notice]
+[2024-10-11 03:28:59][notice]End restore databases.
+[2024-10-11 03:29:01][notice]Start restoring databases.
+[2024-10-11 03:29:01][notice]Start replacing table tmp1f8119_wfhoover offset:0
+[2024-10-11 03:29:01][notice]
+[2024-10-11 03:29:01][notice]End restore databases.
+[2024-10-11 03:29:03][notice]Start restoring databases.
+[2024-10-11 03:29:03][notice]Start replacing table tmp1f8119_wfls_2fa_secrets offset:0
+[2024-10-11 03:29:03][notice]
+[2024-10-11 03:29:03][notice]End restore databases.
+[2024-10-11 03:29:05][notice]Start restoring databases.
+[2024-10-11 03:29:05][notice]Start replacing table tmp1f8119_actionscheduler_groups offset:0
+[2024-10-11 03:29:05][notice]
+[2024-10-11 03:29:05][notice]End restore databases.
+[2024-10-11 03:29:06][notice]Start restoring databases.
+[2024-10-11 03:29:06][notice]Start replacing table tmp1f8119_smush_dir_images offset:0
+[2024-10-11 03:29:06][notice]
+[2024-10-11 03:29:06][notice]End restore databases.
+[2024-10-11 03:29:08][notice]Start restoring databases.
+[2024-10-11 03:29:08][notice]Start replacing table tmp1f8119_sby_feed_locator offset:0
+[2024-10-11 03:29:08][notice]
+[2024-10-11 03:29:08][notice]End restore databases.
+[2024-10-11 03:29:10][notice]Start restoring databases.
+[2024-10-11 03:29:10][notice]Start replacing table tmp1f8119_yoast_seo_links offset:0
+[2024-10-11 03:29:10][notice]
+[2024-10-11 03:29:10][notice]End restore databases.
+[2024-10-11 03:29:12][notice]Start restoring databases.
+[2024-10-11 03:29:12][notice]Start replacing table tmp1f8119_commentmeta offset:0
+[2024-10-11 03:29:12][notice]
+[2024-10-11 03:29:12][notice]End restore databases.
+[2024-10-11 03:29:14][notice]Start restoring databases.
+[2024-10-11 03:29:14][notice]Start replacing table tmp1f8119_automationmeta offset:0
+[2024-10-11 03:29:14][notice]
+[2024-10-11 03:29:14][notice]End restore databases.
+[2024-10-11 03:29:16][notice]Start restoring databases.
+[2024-10-11 03:29:16][notice]Start replacing table tmp1f8119_redirection_groups offset:0
+[2024-10-11 03:29:16][notice]
+[2024-10-11 03:29:16][notice]End restore databases.
+[2024-10-11 03:29:17][notice]Start restoring databases.
+[2024-10-11 03:29:17][notice]Start replacing table tmp1f8119_actionscheduler_logs offset:0
+[2024-10-11 03:29:17][notice]
+[2024-10-11 03:29:17][notice]End restore databases.
+[2024-10-11 03:29:19][notice]Start restoring databases.
+[2024-10-11 03:29:19][notice]Start replacing table tmp1f8119_yoast_primary_term offset:0
+[2024-10-11 03:29:19][notice]
+[2024-10-11 03:29:19][notice]End restore databases.
+[2024-10-11 03:29:21][notice]Start restoring databases.
+[2024-10-11 03:29:21][notice]Start replacing table tmp1f8119_litespeed_url offset:0
+[2024-10-11 03:29:21][notice]
+[2024-10-11 03:29:21][notice]End restore databases.
+[2024-10-11 03:29:23][notice]Start restoring databases.
+[2024-10-11 03:29:23][notice]Start replacing table tmp1f8119_yoast_prominent_words offset:0
+[2024-10-11 03:29:23][notice]
+[2024-10-11 03:29:23][notice]End restore databases.
+[2024-10-11 03:29:25][notice]Start restoring databases.
+[2024-10-11 03:29:25][notice]Start replacing table tmp1f8119_ea_appointments offset:0
+[2024-10-11 03:29:25][notice]
+[2024-10-11 03:29:25][notice]End restore databases.
+[2024-10-11 03:29:27][notice]Start restoring databases.
+[2024-10-11 03:29:27][notice]Start replacing table tmp1f8119_wfblocks7 offset:0
+[2024-10-11 03:29:27][notice]
+[2024-10-11 03:29:27][notice]End restore databases.
+[2024-10-11 03:29:28][notice]Start restoring databases.
+[2024-10-11 03:29:28][notice]Start replacing table tmp1f8119_users offset:0
+[2024-10-11 03:29:28][notice]
+[2024-10-11 03:29:28][notice]End restore databases.
+[2024-10-11 03:29:30][notice]Start restoring databases.
+[2024-10-11 03:29:30][notice]Start replacing table tmp1f8119_ea_connections offset:0
+[2024-10-11 03:29:30][notice]
+[2024-10-11 03:29:30][notice]End restore databases.
+[2024-10-11 03:29:32][notice]Start restoring databases.
+[2024-10-11 03:29:32][notice]Start replacing table tmp1f8119_redirection_logs offset:0
+[2024-10-11 03:29:32][notice]
+[2024-10-11 03:29:32][notice]End restore databases.
+[2024-10-11 03:29:34][notice]Start restoring databases.
+[2024-10-11 03:29:34][notice]Start replacing table tmp1f8119_wfsnipcache offset:0
+[2024-10-11 03:29:34][notice]
+[2024-10-11 03:29:34][notice]End restore databases.
+[2024-10-11 03:29:36][notice]Start restoring databases.
+[2024-10-11 03:29:36][notice]Start replacing table tmp1f8119_termmeta offset:0
+[2024-10-11 03:29:36][notice]
+[2024-10-11 03:29:36][notice]End restore databases.
+[2024-10-11 03:29:38][notice]Start restoring databases.
+[2024-10-11 03:29:38][notice]Start replacing table tmp1f8119_wfpendingissues offset:0
+[2024-10-11 03:29:38][notice]
+[2024-10-11 03:29:38][notice]End restore databases.
+[2024-10-11 03:29:40][notice]Start restoring databases.
+[2024-10-11 03:29:40][notice]Start replacing table tmp1f8119_pum_subscribers offset:0
+[2024-10-11 03:29:40][notice]
+[2024-10-11 03:29:40][notice]End restore databases.
+[2024-10-11 03:29:41][notice]Start restoring databases.
+[2024-10-11 03:29:41][notice]Start replacing table tmp1f8119_wfblockediplog offset:0
+[2024-10-11 03:29:41][notice]
+[2024-10-11 03:29:41][notice]End restore databases.
+[2024-10-11 03:29:43][notice]Start restoring databases.
+[2024-10-11 03:29:43][notice]Start replacing table tmp1f8119_term_taxonomy offset:0
+[2024-10-11 03:29:43][notice]
+[2024-10-11 03:29:43][notice]End restore databases.
+[2024-10-11 03:29:45][notice]Start restoring databases.
+[2024-10-11 03:29:45][notice]Start replacing table tmp1f8119_litespeed_url_file offset:0
+[2024-10-11 03:29:45][notice]
+[2024-10-11 03:29:45][notice]End restore databases.
+[2024-10-11 03:29:47][notice]Start restoring databases.
+[2024-10-11 03:29:47][notice]Start replacing table tmp1f8119_terms offset:0
+[2024-10-11 03:29:47][notice]
+[2024-10-11 03:29:47][notice]End restore databases.
+[2024-10-11 03:29:49][notice]Start restoring databases.
+[2024-10-11 03:29:49][notice]Start replacing table tmp1f8119_revslider_sliders offset:0
+[2024-10-11 03:29:49][notice]
+[2024-10-11 03:29:49][notice]End restore databases.
+[2024-10-11 03:29:51][notice]Start restoring databases.
+[2024-10-11 03:29:51][notice]Start replacing table tmp1f8119_yoast_indexable offset:0
+[2024-10-11 03:29:51][notice]
+[2024-10-11 03:29:51][notice]End restore databases.
+[2024-10-11 03:29:53][notice]Start restoring databases.
+[2024-10-11 03:29:53][notice]Start replacing table tmp1f8119_redirection_items offset:0
+[2024-10-11 03:29:53][notice]
+[2024-10-11 03:29:53][notice]End restore databases.
+[2024-10-11 03:29:55][notice]Start restoring databases.
+[2024-10-11 03:29:55][notice]Start replacing table tmp1f8119_actionscheduler_actions offset:0
+[2024-10-11 03:29:55][notice]
+[2024-10-11 03:29:55][notice]End restore databases.
+[2024-10-11 03:29:56][notice]Start restoring databases.
+[2024-10-11 03:29:56][notice]Start replacing table tmp1f8119_revslider_css offset:0
+[2024-10-11 03:29:56][notice]
+[2024-10-11 03:29:56][notice]End restore databases.
+[2024-10-11 03:29:58][notice]Start restoring databases.
+[2024-10-11 03:29:58][notice]Start replacing table tmp1f8119_wfissues offset:0
+[2024-10-11 03:29:58][notice]
+[2024-10-11 03:29:58][notice]End restore databases.
+[2024-10-11 03:30:00][notice]Start restoring databases.
+[2024-10-11 03:30:00][notice]Start replacing table tmp1f8119_wfstatus offset:0
+[2024-10-11 03:30:00][notice]
+[2024-10-11 03:30:00][notice]End restore databases.
+[2024-10-11 03:30:02][notice]Start restoring databases.
+[2024-10-11 03:30:02][notice]Start replacing table tmp1f8119_yoast_indexable_hierarchy offset:0
+[2024-10-11 03:30:02][notice]
+[2024-10-11 03:30:02][notice]End restore databases.
+[2024-10-11 03:30:04][notice]Start restoring databases.
+[2024-10-11 03:30:04][notice]Start replacing table tmp1f8119_usermeta offset:0
+[2024-10-11 03:30:04][notice]
+[2024-10-11 03:30:04][notice]End restore databases.
+[2024-10-11 03:30:06][notice]Start restoring databases.
+[2024-10-11 03:30:06][notice]Start replacing table tmp1f8119_term_relationships offset:0
+[2024-10-11 03:30:06][notice]
+[2024-10-11 03:30:06][notice]End restore databases.
+[2024-10-11 03:30:08][notice]Start restoring databases.
+[2024-10-11 03:30:08][notice]Start replacing table tmp1f8119_wflogins offset:0
+[2024-10-11 03:30:08][notice]
+[2024-10-11 03:30:08][notice]End restore databases.
+[2024-10-11 03:30:10][notice]Start restoring databases.
+[2024-10-11 03:30:10][notice]Start replacing table tmp1f8119_post_smtp_logs offset:0
+[2024-10-11 03:30:10][notice]
+[2024-10-11 03:30:10][notice]End restore databases.
+[2024-10-11 03:30:11][notice]Start restoring databases.
+[2024-10-11 03:30:11][notice]Start replacing table tmp1f8119_revslider_slides offset:0
+[2024-10-11 03:30:11][notice]
+[2024-10-11 03:30:11][notice]End restore databases.
+[2024-10-11 03:30:13][notice]Start restoring databases.
+[2024-10-11 03:30:13][notice]Start replacing table tmp1f8119_wfconfig offset:0
+[2024-10-11 03:30:13][notice]
+[2024-10-11 03:30:13][notice]End restore databases.
+[2024-10-11 03:30:15][notice]Start restoring databases.
+[2024-10-11 03:30:15][notice]Start replacing table tmp1f8119_wfhits offset:0
+[2024-10-11 03:30:15][notice]
+[2024-10-11 03:30:15][notice]End restore databases.
+[2024-10-11 03:30:17][notice]Start restoring databases.
+[2024-10-11 03:30:17][notice]Start replacing table tmp1f8119_wfknownfilelist offset:0
+[2024-10-11 03:30:17][notice]
+[2024-10-11 03:30:17][notice]End restore databases.
+[2024-10-11 03:30:19][notice]Start restoring databases.
+[2024-10-11 03:30:19][notice]Start replacing table tmp1f8119_wffilemods offset:0
+[2024-10-11 03:30:19][notice]
+[2024-10-11 03:30:19][notice]End restore databases.
+[2024-10-11 03:30:21][notice]Start restoring databases.
+[2024-10-11 03:30:21][notice]Start replacing table tmp1f8119_options offset:0
+[2024-10-11 03:30:21][notice]
+[2024-10-11 03:30:21][notice]End restore databases.
+[2024-10-11 03:30:23][notice]Start restoring databases.
+[2024-10-11 03:30:23][notice]Start replacing table tmp1f8119_comments offset:0
+[2024-10-11 03:30:23][notice]
+[2024-10-11 03:30:23][notice]End restore databases.
+[2024-10-11 03:30:25][notice]Start restoring databases.
+[2024-10-11 03:30:25][notice]Start replacing table tmp1f8119_db7_forms offset:0
+[2024-10-11 03:30:25][notice]
+[2024-10-11 03:30:25][notice]End restore databases.
+[2024-10-11 03:30:27][notice]Start restoring databases.
+[2024-10-11 03:30:27][notice]Start replacing table tmp1f8119_postmeta offset:0
+[2024-10-11 03:30:27][notice]
+[2024-10-11 03:30:27][notice]End restore databases.
+[2024-10-11 03:30:28][notice]Start restoring databases.
+[2024-10-11 03:30:28][notice]Start replacing table tmp1f8119_posts offset:0
+[2024-10-11 03:30:28][notice]
+[2024-10-11 03:30:28][notice]End restore databases.
+[2024-10-11 03:30:30][notice]Start restoring databases.
+[2024-10-11 03:30:30][notice]Start replacing table tmp1f8119_redirection_404 offset:0
+[2024-10-11 03:30:30][notice]
+[2024-10-11 03:30:30][notice]
+[2024-10-11 03:30:30][notice]UPDATE tmp1f8119_options SET option_value="http://localhost" WHERE option_name="siteurl";
+[2024-10-11 03:30:30][notice]update query len:89
+[2024-10-11 03:30:30][notice]UPDATE tmp1f8119_options SET option_value="http://localhost" WHERE option_name="home";
+[2024-10-11 03:30:30][notice]update query len:86
+[2024-10-11 03:30:30][notice]Restore db success
+[2024-10-11 03:30:30][notice]End restore databases.
+[2024-10-11 03:30:32][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_automationmeta
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_cli_cookie_scan
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_cli_cookie_scan_categories
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_cli_cookie_scan_cookies
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_cli_cookie_scan_url
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_cli_scripts
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_comments
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_db7_forms
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_duplicator_packages
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_appointments
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_connections
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_error_logs
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_fields
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_locations
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_meta_fields
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_options
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_services
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ea_staff
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_links
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_litespeed_url
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_litespeed_url_file
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_options
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_post_smtp_logmeta
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_post_smtp_logs
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_posts
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_pum_subscribers
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_redirection_404
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_redirection_groups
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_redirection_items
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_redirection_logs
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_css
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_css_bkp
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_layer_animations
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_layer_animations_bkp
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_navigations
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_navigations_bkp
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_sliders
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_sliders_bkp
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_slides
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_slides_bkp
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_static_slides
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_revslider_static_slides_bkp
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_sby_feed_locator
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_smush_dir_images
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_tap_error_log
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_tap_limitations
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_terms
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_users
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfblockediplog
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfblocks7
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfconfig
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfcrawlers
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wffilechanges
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wffilemods
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfhits
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfhoover
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfissues
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfknownfilelist
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wflivetraffichuman
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wflocs
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wflogins
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfls_2fa_secrets
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfls_settings
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfnotifications
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfpendingissues
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfreversecache
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfsnipcache
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wfstatus
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wftrafficrates
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wpforms_tasks_meta
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_wprss_logs
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_ycd_subscribers
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_yoast_indexable
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_yoast_indexable_hierarchy
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_yoast_migrations
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_yoast_primary_term
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_yoast_prominent_words
+[2024-10-11 03:30:32][notice]DROP TABLE IF EXISTS wp_yoast_seo_links
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_actionscheduler_actions TO wp_actionscheduler_actions
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_actionscheduler_claims TO wp_actionscheduler_claims
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_actionscheduler_groups TO wp_actionscheduler_groups
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_actionscheduler_logs TO wp_actionscheduler_logs
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_automationmeta TO wp_automationmeta
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_cli_cookie_scan TO wp_cli_cookie_scan
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_cli_cookie_scan_categories TO wp_cli_cookie_scan_categories
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_cli_cookie_scan_cookies TO wp_cli_cookie_scan_cookies
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_cli_cookie_scan_url TO wp_cli_cookie_scan_url
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_cli_scripts TO wp_cli_scripts
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_commentmeta TO wp_commentmeta
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_comments TO wp_comments
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_db7_forms TO wp_db7_forms
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_duplicator_packages TO wp_duplicator_packages
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_appointments TO wp_ea_appointments
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_connections TO wp_ea_connections
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_error_logs TO wp_ea_error_logs
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_fields TO wp_ea_fields
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_locations TO wp_ea_locations
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_meta_fields TO wp_ea_meta_fields
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_options TO wp_ea_options
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_services TO wp_ea_services
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ea_staff TO wp_ea_staff
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_links TO wp_links
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_litespeed_url TO wp_litespeed_url
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_litespeed_url_file TO wp_litespeed_url_file
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_options TO wp_options
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_post_smtp_logmeta TO wp_post_smtp_logmeta
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_post_smtp_logs TO wp_post_smtp_logs
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_postmeta TO wp_postmeta
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_posts TO wp_posts
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_pum_subscribers TO wp_pum_subscribers
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_redirection_404 TO wp_redirection_404
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_redirection_groups TO wp_redirection_groups
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_redirection_items TO wp_redirection_items
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_redirection_logs TO wp_redirection_logs
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_css TO wp_revslider_css
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_css_bkp TO wp_revslider_css_bkp
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_layer_animations TO wp_revslider_layer_animations
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_layer_animations_bkp TO wp_revslider_layer_animations_bkp
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_navigations TO wp_revslider_navigations
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_navigations_bkp TO wp_revslider_navigations_bkp
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_sliders TO wp_revslider_sliders
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_sliders_bkp TO wp_revslider_sliders_bkp
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_slides TO wp_revslider_slides
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_slides_bkp TO wp_revslider_slides_bkp
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_static_slides TO wp_revslider_static_slides
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_revslider_static_slides_bkp TO wp_revslider_static_slides_bkp
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_sby_feed_locator TO wp_sby_feed_locator
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_smush_dir_images TO wp_smush_dir_images
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_tap_error_log TO wp_tap_error_log
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_tap_limitations TO wp_tap_limitations
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_term_relationships TO wp_term_relationships
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_term_taxonomy TO wp_term_taxonomy
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_termmeta TO wp_termmeta
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_terms TO wp_terms
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_usermeta TO wp_usermeta
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_users TO wp_users
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfblockediplog TO wp_wfblockediplog
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfblocks7 TO wp_wfblocks7
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfconfig TO wp_wfconfig
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfcrawlers TO wp_wfcrawlers
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wffilechanges TO wp_wffilechanges
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wffilemods TO wp_wffilemods
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfhits TO wp_wfhits
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfhoover TO wp_wfhoover
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfissues TO wp_wfissues
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfknownfilelist TO wp_wfknownfilelist
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wflivetraffichuman TO wp_wflivetraffichuman
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wflocs TO wp_wflocs
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wflogins TO wp_wflogins
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfls_2fa_secrets TO wp_wfls_2fa_secrets
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfls_settings TO wp_wfls_settings
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfnotifications TO wp_wfnotifications
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfpendingissues TO wp_wfpendingissues
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfreversecache TO wp_wfreversecache
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfsnipcache TO wp_wfsnipcache
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wfstatus TO wp_wfstatus
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wftrafficrates TO wp_wftrafficrates
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wpforms_tasks_meta TO wp_wpforms_tasks_meta
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_wprss_logs TO wp_wprss_logs
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_ycd_subscribers TO wp_ycd_subscribers
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_yoast_indexable TO wp_yoast_indexable
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_yoast_indexable_hierarchy TO wp_yoast_indexable_hierarchy
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_yoast_migrations TO wp_yoast_migrations
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_yoast_primary_term TO wp_yoast_primary_term
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_yoast_prominent_words TO wp_yoast_prominent_words
+[2024-10-11 03:30:32][notice]RENAME TABLE tmp1f8119_yoast_seo_links TO wp_yoast_seo_links
+[2024-10-11 11:30:32][notice]Replacing table prefix succeeded.
+[2024-10-11 11:30:32][notice]Deleting temp files.

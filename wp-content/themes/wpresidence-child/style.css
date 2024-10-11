@@ -1,0 +1,45 @@
+/*
+ Theme Name:   WpResidence child theme
+ Theme URI:    https://themeforest.net/item/wp-residence-real-estate-wordpress-theme/7896392
+ Description:   WpResidence child theme
+ Author:       WpEstate
+ Author URI:   http://wpestate.org
+ Template:     wpresidence
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+.header_wrapper.header_type4 .logo {
+	margin-bottom: 0px;
+}
+
+.header_wrapper_inside{
+	max-width: 1600px !important;
+}
+
+#access {
+	max-width: 1200px !important;
+}
+
+#access ul.menu >li>a:hover {
+	color: #fafafa;
+}
+
+#login h1 a {
+    background-color: #092845 !important;
+    padding-bottom: 30px !important;
+    margin-top: 0px !important;
+}
+
+.heading_over_image_wrapper .heading_over_image {
+	color: #d09b3f !important;
+}
+
+.modal_login_container {
+    display: none;
+}
+@media screen and (max-width: 1366px){
+	.header_wrapper.header_type4 #access li {
+		line-height: 30px !important;
+	}
+}
